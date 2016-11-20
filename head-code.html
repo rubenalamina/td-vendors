@@ -1,8 +1,4 @@
-<!-- Template file -->
-
 <script src='/division/jquery.loadTemplate.min.js'></script>
-
-<!-- Data loading script -->
 
 <script language='javascript'>
   function renderItem(item) {
@@ -25,14 +21,12 @@
 
   loadData('/division/boo.json');
   loadData('/division/blueprints.json');
-  loadData('/division/special-vendor.json');
+  loadData('/division/special-equipment.json');
   loadData('/division/underground.json');
   loadData('/division/dz.json');
   loadData('/division/dz-check-west.json');
   loadData('/division/dz-check-east.json');
 </script>
-
-<!-- Blueprints -->
 
 <script type='text/html' id='division-blueprint'>
     <tr class='division-blueprint'>
@@ -42,10 +36,8 @@
     </tr>
 </script>
 
-<!-- Gear -->
-
 <script type='text/html' id='division-gear'>
-  <div class="four columns" style='height:20em'>
+  <div class="four columns">
     <table class="table-division">
       <tbody>
         <tr><th data-class='rarity' data-content='name' colspan="3"></th></tr>
@@ -78,8 +70,6 @@
     </table>
   </div>
 </script>
-
-<!-- Weapons -->
 
 <script type='text/html' id='division-weapon'>
   <div class="columns one-third">
@@ -116,8 +106,6 @@
   </div>
 </script>
 
-<!-- Gear Mods -->
-
 <script type='text/html' id='division-gear-mod'>
   <div class="four columns">
     <table class="table-division">
@@ -133,8 +121,6 @@
     </table>
   </div>
 </script>
-
-<!-- Weapon Mods -->
 
 <script type='text/html' id='division-weapon-mod'>
   <div class="four columns" style='height:18em'>
