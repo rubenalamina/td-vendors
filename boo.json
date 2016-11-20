@@ -1,0 +1,246 @@
+[
+  {
+    "type":   "gear",
+    "rarity": "header-he",
+    "vendor": "BoO Gear Vendor",
+    "name":   "Decisive Gloves",
+    "score":  "229",
+    "armor":  "1,472",
+    "price":  "$ 455,456",
+    "fire":   "943",
+    "stam":   "-",
+    "elec":   "-",
+    "major":  "923 Assault Rifle Damage<br/>970 Pistol Damage<br/>15% Critical Hit Damage",
+    "minor":  "28% Increased Kill XP"
+  },
+  {
+    "type":       "gear-mod",
+    "name":       "Electronics Mod ilvl33",
+    "vendor":     "BoO Gear Vendor",
+    "stat":       "201 ELE",
+    "price":      "$ 398,524",
+    "attribute":  "3% Skill Haste"
+  },
+
+  {
+    "type":     "weapon",
+    "name":     "Tactical SA-58",
+    "vendor":   "BoO Weapons Vendor",
+    "score":    "229",
+    "price":    "$ 853,980",
+    "bonus":    "19% Enemy Armor Damage",
+    "dmg":      "19.4k",
+    "rpm":      "650",
+    "mag":      "20",
+    "talent1":  "Responsive",
+    "talent2":  "Competent",
+    "talent3":  "Adept"
+  },
+  {
+    "type":       "weapon-mod",
+    "name":       "C79 Scope (3.4x) ilvl33",
+    "vendor":     "BoO Weapons Vendor",
+    "price":      "$ 512,388",
+    "attributes": "15% Critical Hit Damage<br/>5.5% Headshot Damage<br/>4% Optimal Range"
+  },
+
+  {
+    "type":     "weapon",
+    "vendor":   "DZ Vendor at BoO",
+    "name":     "Military RPK-74 M",
+    "score":    "229",
+    "price":    "DZ 294,030",
+    "bonus":    "17% DMG Out of cover",
+    "dmg":      "11.3k",
+    "rpm":      "650",
+    "mag":      "45",
+    "talent1":  "Dominant",
+    "talent2":  "Fierce",
+    "talent3":  "Commanding"
+  },
+  {
+    "type":   "gear",
+    "rarity": "header-he",
+    "vendor": "DZ Vendor at BoO",
+    "name":   "Resourceful backpack",
+    "score":  "229",
+    "armor":  "742",
+    "price":  "DZ 196,020",
+    "fire":   "938",
+    "stam":   "-",
+    "elec":   "-",
+    "major":  "864 Armor",
+    "minor":  "50% Ammo Capacity"
+  },
+  {
+    "type":       "gear-mod",
+    "name":       "Performance Mod ilvl33",
+    "vendor":     "DZ Vendor at BoO",
+    "stat":       "-",
+    "price":      "DZ 137,214",
+    "attribute":  "5.5% First Aid Ally Heal"
+  },
+  {
+    "type":       "weapon-mod",
+    "name":       "Large Supressor ilvl33",
+    "vendor":     "DZ Vendor at BoO",
+    "price":      "DZ 176,418",
+    "attributes": "18% Critical Hit Damage<br/>2% Accuracy<br/>2.5% Critical Hit Chance<br/>49% Reduced Threat"
+  },
+
+  {
+    "type":     "weapon",
+    "name":     "Pakhan",
+    "vendor":   "Advanced Weaponry Vendor",
+    "score":    "229",
+    "price":    "$ 853,980",
+    "bonus":    "19% DMG Out of Cover",
+    "dmg":      "13.1k",
+    "rpm":      "650",
+    "mag":      "45",
+    "talent1":  "Swift",
+    "talent2":  "Destructive",
+    "talent3":  "Ferocious"
+  },
+  {
+    "type":     "weapon",
+    "name":     "Cassidy",
+    "vendor":   "Advanced Weaponry Vendor",
+    "score":    "229",
+    "price":    "$ 853,980",
+    "bonus":    "271.5% Stagger",
+    "dmg":      "101k",
+    "rpm":      "200",
+    "mag":      "2",
+    "talent1":  "Responsive",
+    "talent2":  "Commanding",
+    "talent3":  "Meticulous"
+  },
+  {
+    "type":     "weapon",
+    "name":     "Centurion",
+    "vendor":   "Advanced Weaponry Vendor",
+    "score":    "229",
+    "price":    "$ 853,980",
+    "bonus":    "-",
+    "dmg":      "20.0k",
+    "rpm":      "310",
+    "mag":      "7",
+    "talent1":  "Provident",
+    "talent2":  "Intense",
+    "talent3":  "Expert"
+  },
+  {
+    "type":     "weapon",
+    "name":     "Frist Wave PF45",
+    "vendor":   "Advanced Weaponry Vendor",
+    "score":    "229",
+    "price":    "$ 683,184",
+    "bonus":    "-",
+    "dmg":      "11.3k",
+    "rpm":      "600",
+    "mag":      "12",
+    "talent1":  "Expert",
+    "talent2":  "Fierce",
+    "talent3":  "-"
+  },
+  {
+    "type":     "weapon",
+    "name":     "Police T821",
+    "vendor":   "Advanced Weaponry Vendor",
+    "score":    "229",
+    "price":    "$ 853,980",
+    "bonus":    "-",
+    "dmg":      "13.3k",
+    "rpm":      "550",
+    "mag":      "32",
+    "talent1":  "Self-Preserved",
+    "talent2":  "Responsive",
+    "talent3":  "Brutal"
+  },
+  {
+    "type":     "weapon",
+    "name":     "Tactical ACR",
+    "vendor":   "Advanced Weaponry Vendor",
+    "score":    "229",
+    "price":    "$ 853,980",
+    "bonus":    "20% Enemy Armor Damage",
+    "dmg":      "14.1k",
+    "rpm":      "760",
+    "mag":      "30",
+    "talent1":  "Intense",
+    "talent2":  "Commanding",
+    "talent3":  "Ferocious"
+  },
+  {
+    "type":     "weapon",
+    "name":     "Military M870",
+    "vendor":   "Advanced Weaponry Vendor",
+    "score":    "229",
+    "price":    "$ 853,980",
+    "bonus":    "300.5% Stagger",
+    "dmg":      "120k",
+    "rpm":      "75",
+    "mag":      "5",
+    "talent1":  "Brutal",
+    "talent2":  "Swift",
+    "talent3":  "Deadly"
+  },
+  {
+    "type":     "weapon",
+    "name":     "Hunting M44",
+    "vendor":   "Advanced Weaponry Vendor",
+    "score":    "229",
+    "price":    "$ 853,980",
+    "bonus":    "143% Headshot Damage",
+    "dmg":      "86.4k",
+    "rpm":      "55",
+    "mag":      "5",
+    "talent1":  "Competent",
+    "talent2":  "Trained",
+    "talent3":  "Capable"
+  },
+  {
+    "type":     "weapon",
+    "name":     "Military MK46",
+    "vendor":   "Advanced Weaponry Vendor",
+    "score":    "229",
+    "price":    "$ 853,980",
+    "bonus":    "17% DMG Out of Cover",
+    "dmg":      "14.0k",
+    "rpm":      "550",
+    "mag":      "100",
+    "talent1":  "Ferocious",
+    "talent2":  "Fierce",
+    "talent3":  "Predatory"
+  },
+  {
+    "type":       "weapon-mod",
+    "name":       "Quick Release Magazine ilvl33",
+    "vendor":     "Advanced Weaponry Vendor",
+    "price":      "$ 455,456",
+    "attributes": "26% Reload Speed<br/>10% Magazine Size<br/>3% Critical Hit Chance"
+  },
+  {
+    "type":       "weapon-mod",
+    "name":       "SR-7 Supressor ilvl33",
+    "vendor":     "Advanced Weaponry Vendor",
+    "price":      "$ 512,388",
+    "attributes": "17% Critical Hit Damage<br/>4.5% Optimal Range<br/>6% Headshot Damage<br/>50% Reduced Threat"
+  },
+  {
+    "type":       "weapon-mod",
+    "name":       "Vertical Grip ilvl33",
+    "vendor":     "Advanced Weaponry Vendor",
+    "price":      "$ 512,388",
+    "attributes": "46.5% Optimal Range<br/>2% Accuracy<br/>4.5% Reload Speed"
+  },
+  {
+    "type":       "weapon-mod",
+    "name":       "CBQSS Scope ilvl33",
+    "vendor":     "Advanced Weaponry Vendor",
+    "price":      "$ 512,388",
+    "attributes": "12% Stability<br/>2.5% Critical Hit Chance<br/>5.5% Headshot Damage"
+  }
+
+]
