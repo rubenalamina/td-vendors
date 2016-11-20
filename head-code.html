@@ -1,0 +1,153 @@
+<!-- Template file -->
+
+<script src='/testing/jquery.loadTemplate.js'></script>
+
+<!-- Data loading script -->
+
+<script language='javascript'>
+  function renderItem(item) {
+    container = jQuery('#division-' + item.type + 's');
+    template  = jQuery('#division-' + item.type);
+    container.loadTemplate(template, item, {append:true});
+  }
+
+  function ajaxSuccess(data, textStatus, jqXHR) {
+    data.forEach(renderItem);
+  }
+
+  function ajaxError(jqXHR, textStatus, errorThrown) {
+    alert(errorThrown.message);
+  }
+
+  function loadData(url) {
+    jQuery.ajax({url: url}).done(ajaxSuccess).fail(ajaxError)
+  }
+
+  loadData('/testing/boo.json');
+  loadData('/testing/blueprints.json');
+  loadData('/testing/special-vendor.json');
+  loadData('/testing/underground.json');
+  loadData('/testing/dz.json');
+  loadData('/testing/dz-check-west.json');
+  loadData('/testing/dz-check-east.json');
+</script>
+
+<!-- Blueprints -->
+
+<script type='text/html' id='division-blueprint'>
+    <tr class='division-blueprint'>
+      <td data-content='name' colspan="3"></td>
+      <td data-content='score' style="text-align: center;"></td>
+      <td data-content='price' style="text-align: center;"></td>
+    </tr>
+</script>
+
+<!-- Gear -->
+
+<script type='text/html' id='division-gear'>
+  <div class="four columns" style='height:20em'>
+    <table class="table-division">
+      <tbody>
+        <tr><th data-class='rarity' data-content='name' colspan="3"></th></tr>
+        <tr><td data-content='vendor' class="cell-high" colspan="3"></td></tr>
+        <tr>
+          <td style="text-align: center;">Score</td>
+          <td style="text-align: center;">Armor</td>
+          <td style="text-align: center;">Price</td>
+        </tr>
+        <tr>
+          <td data-content='score' style="text-align: center;"></td>
+          <td data-content='armor' style="text-align: center;"></td>
+          <td data-content='price' style="text-align: center;"></td>
+        </tr>
+        <tr>
+          <td style="text-align: center;">Firearms</td>
+          <td style="text-align: center;">Stamina</td>
+          <td style="text-align: center;">Electronics</td>
+        </tr>
+        <tr>
+          <td data-content='fire' style="text-align: center;"></td>
+          <td data-content='stam' style="text-align: center;"></td>
+          <td data-content='elec' style="text-align: center;"></td>
+        </tr>
+        <tr><td colspan="3">Major Attributes</td></tr>
+        <tr><td data-content='major' colspan="3"></td></tr>
+        <tr><td colspan="3">Minor Attributes</td></tr>
+        <tr><td data-content='minor' colspan="3"></td></tr>
+      </tbody>
+    </table>
+  </div>
+</script>
+
+<!-- Weapons -->
+
+<script type='text/html' id='division-weapon'>
+  <div class="columns one-third">
+    <table class="table-division">
+      <tbody>
+        <tr><th data-content='name' class='header-he' colspan="3"></th></tr>
+        <tr><td data-content='vendor' class="cell-high" colspan="3"></td></tr>
+        <tr>
+          <td style="text-align: center;" colspan="1">Score</td>
+          <td style="text-align: center;" colspan="2">Price</td>
+        </tr>
+        <tr>
+          <td data-content='score' style="text-align: center;" colspan="1"></td>
+          <td data-content='price' style="text-align: center;" colspan="2"></td>
+        </tr>
+        <tr><td data-content='bonus' style="text-align: center;" colspan="3"></td></tr>
+        <tr>
+          <td style="text-align: center;">DMG</td>
+          <td style="text-align: center;">RPM</td>
+          <td style="text-align: center;">MAG</td>
+        </tr>
+        <tr>
+          <td data-content='dmg' style="text-align: center;"></td>
+          <td data-content='rpm' style="text-align: center;"></td>
+          <td data-content='mag' style="text-align: center;"></td>
+        </tr>
+        <tr>
+          <td data-content='talent1' style="text-align: center;"></td>
+          <td data-content='talent2' style="text-align: center;"></td>
+          <td data-content='talent3' style="text-align: center;"></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</script>
+
+<!-- Gear Mods -->
+
+<script type='text/html' id='division-gear-mod'>
+  <div class="four columns">
+    <table class="table-division">
+      <tbody>
+        <tr><th data-content='name' class="header-he" colspan="3"></th></tr>
+        <tr><td data-content='vendor' class="cell-high" colspan="3"></td></tr>
+        <tr>
+          <td data-content='stat' style="text-align: center;" colspan="1"></td>
+          <td data-content='price' style="text-align: center;" colspan="2"></td>
+        </tr>
+        <tr><td data-content='attribute' style="text-align: center;" colspan="3"></td></tr>
+      </tbody>
+    </table>
+  </div>
+</script>
+
+<!-- Weapon Mods -->
+
+<script type='text/html' id='division-weapon-mod'>
+  <div class="four columns" style='height:18em'>
+    <table class="table-division">
+      <tbody>
+        <tr><th data-content='name' class="header-he" colspan="3"></th></tr>
+        <tr><td data-content='vendor' class="cell-high" colspan="3"></td></tr>
+        <tr>
+          <td colspan="2">Attributes</td>
+          <td data-content='price' style="text-align: center;" colspan="1"></td>
+        </tr>
+        <tr><td data-content='attributes' colspan="3"></td></tr>
+      </tbody>
+    </table>
+  </div>
+</script>
