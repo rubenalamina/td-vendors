@@ -1,2 +1,4 @@
-# td-vendors
-The Division: Weekly Vendor Reset
+# The Division: Weekly Vendor Reset
+
+## Conventions
+
