@@ -8,4 +8,4 @@
 
 ### Abbreviations
 * Damage to Targets Out of Cover -> **DMG Out of Cover**
-* Signature Resource Ability Gain -> **Signature Gain**
+* Signature Resource Ability Gain -> **Signature Ability Gain**
