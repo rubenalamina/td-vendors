@@ -1,0 +1,160 @@
+[
+  {
+    "type":     "weapon",
+    "vendor":   "The Crypt",
+    "name":     "SASG-12",
+    "score":    "229",
+    "price":    "$ 683,184",
+    "bonus":    "289% Stagger",
+    "dmg":      "68.7k",
+    "rpm":      "650",
+    "mag":      "45",
+    "talent1":  "Deadly",
+    "talent2":  "Meticulous",
+    "talent3":  "Dominant"
+  },
+  {
+    "type":       "weapon-mod",
+    "vendor":     "The Crypt",
+    "name":       "Ti-RANT Suppressor ilvl33",
+    "price":      "$ 512,388",
+    "attributes": "7.5% Critical Hit Chance<br/>2.5% Stability<br/>2% Accuracy<br/>46% Reduced Threat"
+  },
+
+  {
+    "type":   "gear",
+    "rarity": "header-he",
+    "vendor": "The Firewall",
+    "name":   "Reckless chest",
+    "score":  "229",
+    "armor":  "2,750",
+    "price":  "$ 569,320",
+    "fire":   "-",
+    "stam":   "-",
+    "elec":   "947",
+    "major":  "1,185 Armor<br/>7% Protection from Elites",
+    "minor":  "54% Ammo Capacity"
+  },
+  {
+    "type":       "gear-mod",
+    "vendor":     "The Firewall",
+    "name":       "Firearms Mod ilvl33",
+    "stat":       "209 FA",
+    "price":      "$ 398,524",
+    "attribute":  "3% Skill Haste"
+  },
+
+  {
+    "type":     "weapon",
+    "vendor":   "The Grindouse",
+    "name":     "Enhanced AUG A3P",
+    "score":    "229",
+    "price":    "$ 853,980",
+    "bonus":    "30% Critical Hit Damage",
+    "dmg":      "13.3k",
+    "rpm":      "725",
+    "mag":      "25",
+    "talent1":  "Skilled",
+    "talent2":  "Fierce",
+    "talent3":  "Adept"
+  },
+  {
+    "type":       "weapon-mod",
+    "vendor":     "The Grindouse",
+    "name":       "Compensator ilvl33",
+    "price":      "$ 512,388",
+    "attributes": "13% Stability<br/>2% Accuracy<br/>3% Critical Hit Chance"
+  },
+
+  {
+    "type":   "gear",
+    "rarity": "header-he",
+    "vendor": "Southpaw",
+    "name":   "Cunning gloves",
+    "score":  "229",
+    "armor":  "748",
+    "price":  "$ 455,456",
+    "fire":   "-",
+    "stam":   "-",
+    "elec":   "1001",
+    "major":  "975 LMG Damage<br/>4% Health on Kill<br/>947 Pistol Damage",
+    "minor":  "-"
+  },
+  {
+    "type":       "gear-mod",
+    "vendor":     "Southpaw",
+    "name":       "Performance Mod ilvl33",
+    "stat":       "-",
+    "price":      "$ 398,524",
+    "attribute":  "1.5% Pulse Critical Hit Chance"
+  },
+
+  {
+    "type":   "gear",
+    "rarity": "header-he",
+    "vendor": "The Ward",
+    "name":   "Forceful chest",
+    "score":  "229",
+    "armor":  "1,575",
+    "price":  "$ 569,320",
+    "fire":   "958",
+    "stam":   "-",
+    "elec":   "-",
+    "major":  "5,356 Health<br/>4% Health on Kill",
+    "minor":  "50% Ammo Capacity"
+  },
+  {
+    "type":       "gear-mod",
+    "vendor":     "The Ward",
+    "name":       "Performance Mod ilvl33",
+    "stat":       "-",
+    "price":      "$ 398,524",
+    "attribute":  "4.5% Pulse Duration"
+  },
+
+  {
+    "type":     "weapon",
+    "vendor":   "The Last Call",
+    "name":     "Enhanced ACR-E",
+    "score":    "229",
+    "price":    "$ 853,980",
+    "bonus":    "23% Enemy Armor Damage",
+    "dmg":      "13.7k",
+    "rpm":      "760",
+    "mag":      "30",
+    "talent1":  "Provident",
+    "talent2":  "Responsive",
+    "talent3":  "Prepared"
+  },
+  {
+    "type":       "weapon-mod",
+    "vendor":     "The Last Call",
+    "name":       "Osprey .45 Suppressor ilvl33",
+    "price":      "$ 512,388",
+    "attributes": "15% Accuracy<br/>4% Critical Hit Damage<br/>6% Headshot Damage<br/>44% Reduced Threat"
+  },
+
+  {
+    "type":   "gear",
+    "rarity": "header-he",
+    "vendor": "Madison's Stand",
+    "name":   "Savag gloves",
+    "score":  "229",
+    "armor":  "758",
+    "price":  "$ 455,456",
+    "fire":   "969",
+    "stam":   "-",
+    "elec":   "-",
+    "major":  "14% Critical Hit Damage<br/>4% Health on Kill<br/>1,022 Pistol Damage",
+    "minor":  "-"
+  },
+  {
+    "type":       "gear-mod",
+    "vendor":     "Madison's Stand",
+    "name":       "Electronics Mod ilvl33",
+    "stat":       "199 ELE",
+    "price":      "$ 398,524",
+    "attribute":  "3% Signature Ability Gain"
+  }
+
+]
