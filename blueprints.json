@@ -2,49 +2,49 @@
   {
     "type":   "blueprint",
     "name":   "Double Barrel Shotgun",
-    "score":  "229",
+    "score":  "256",
     "price":  "PxC 836"
   },
   {
     "type":   "blueprint",
     "name":   "Classic FAL",
-    "score":  "229",
+    "score":  "256",
     "price":  "PxC 906"
   },
   {
     "type":   "blueprint",
     "name":   "Electronics Chest",
-    "score":  "229",
+    "score":  "256",
     "price":  "PxC 557"
   },
   {
     "type":   "blueprint",
     "name":   "Firearms Knee Pads",
-    "score":  "229",
+    "score":  "256",
     "price":  "PxC 418"
   },
   {
     "type":   "blueprint",
     "name":   "Handstop<br/>Reload Speed, Random, Random",
-    "score":  "33",
+    "score":  "34",
     "price":  "PxC 487"
   },
   {
     "type":   "blueprint",
     "name":   "Omega Rifle Supressor<br/>Reduced Threat, Random, Random",
-    "score":  "33",
+    "score":  "34",
     "price":  "PxC 487"
   },
   {
     "type":   "blueprint",
     "name":   "Electronics Gear Mod",
-    "score":  "33",
+    "score":  "34",
     "price":  "PxC 696"
   },
   {
     "type":   "blueprint",
     "name":   "Firearms Gear Mod",
-    "score":  "33",
+    "score":  "34",
     "price":  "PxC 696"
   }
 ]
