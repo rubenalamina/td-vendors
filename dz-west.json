@@ -1,0 +1,266 @@
+[
+  {
+    "type":     "weapon",
+    "vendor":   "DZ West 53rd",
+    "name":     "Vector 45 ACP",
+    "score":    "229",
+    "price":    "DZ 294,030",
+    "bonus":    "33% Critical Hit Damage",
+    "dmg":      "10.9k",
+    "rpm":      "750",
+    "mag":      "20",
+    "talent1":  "Commanding",
+    "talent2":  "Swift",
+    "talent3":  "Talented"
+  },
+  {
+    "type":   "gear",
+    "rarity": "header-he",
+    "vendor": "DZ West 53rd",
+    "name":   "Sturdy Holster",
+    "score":  "229",
+    "armor":  "788",
+    "price":  "DZ 137,214",
+    "fire":   "949",
+    "stam":   "971",
+    "elec":   "968",
+    "major":  "3% Protection from Elites",
+    "minor":  "-"
+  },
+  {
+    "type":       "gear-mod",
+    "vendor":     "DZ West 53rd",
+    "name":       "Elecctronics Mod ilvl33",
+    "stat":       "203 ELE",
+    "price":      "DZ 137,214",
+    "attribute":  "2% Skill Haste"
+  },
+  {
+    "type":       "weapon-mod",
+    "vendor":     "DZ West 53rd",
+    "name":       "Extended Magazine ilvl33",
+    "price":      "DZ 156,816",
+    "attributes": "101.5% Magazine Size<br/>4% Critical Hit Damage<br/>2.5% Critical Hit Chance"
+  },
+
+  {
+    "type":     "weapon",
+    "vendor":   "DZ West 46th",
+    "name":     "Military P416",
+    "score":    "229",
+    "price":    "DZ 294,030",
+    "bonus":    "23% Enemy Armor Damage",
+    "dmg":      "13.1k",
+    "rpm":      "750",
+    "mag":      "30",
+    "talent1":  "Destructive",
+    "talent2":  "Deadly",
+    "talent3":  "Adept"
+  },
+  {
+    "type":   "gear",
+    "rarity": "header-he",
+    "vendor": "DZ West 46th",
+    "name":   "Robust Chest",
+    "score":  "229",
+    "armor":  "1,602",
+    "price":  "DZ 196,020",
+    "fire":   "-",
+    "stam":   "899",
+    "elec":   "-",
+    "major":  "5,363 Health<br/>7% Protection from Elites",
+    "minor":  "25% Increased Kill XP"
+  },
+  {
+    "type":       "gear-mod",
+    "vendor":     "DZ West 46th",
+    "name":       "Performance Mod ilvl33",
+    "stat":       "-",
+    "price":      "DZ 137,214",
+    "attribute":  "4.5% Support Station Healing Speed"
+  },
+  {
+    "type":       "weapon-mod",
+    "vendor":     "DZ West 46th",
+    "name":       "Heavy Magazine Spring ilvl33",
+    "price":      "DZ 156,816",
+    "attributes": "10.5% Magazine Size<br/>4.5% Reload Speed<br/>10.3% Rate of Fire"
+  },
+
+  {
+    "type":     "weapon",
+    "vendor":   "DZ West 42nd",
+    "name":     "Custom L86 A2",
+    "score":    "229",
+    "price":    "DZ 294,030",
+    "bonus":    "18% DMG Targets out of Cover",
+    "dmg":      "11.8k",
+    "rpm":      "610",
+    "mag":      "30",
+    "talent1":  "Adept",
+    "talent2":  "Vicious",
+    "talent3":  "Commanding"
+  },
+  {
+    "type":   "gear",
+    "rarity": "header-he",
+    "vendor": "DZ West 42nd",
+    "name":   "Cunning gloves",
+    "score":  "229",
+    "armor":  "756",
+    "price":  "DZ 156,816",
+    "fire":   "895",
+    "stam":   "-",
+    "elec":   "-",
+    "major":  "15% Critical Hit Damage<br/>3,458 Marksman Rifle Damage<br/>1,000 Pistol Damage",
+    "minor":  "-"
+  },
+  {
+    "type":       "gear-mod",
+    "vendor":     "DZ West 42nd",
+    "name":       "Firearms Mod ilvl33",
+    "stat":       "198 FA",
+    "price":      "DZ 137,214",
+    "attribute":  "1% Critical Hit Chance"
+  },
+  {
+    "type":       "weapon-mod",
+    "vendor":     "DZ West 42nd",
+    "name":       "Osprey .45 Suppressor ilvl33",
+    "price":      "DZ 176,418",
+    "attributes": "14.5% Accuracy<br/>4% Critical Hit Damage<br/>4% Optimal Range<br/>50% Reduced Threat"
+  },
+
+  {
+    "type":     "weapon",
+    "vendor":   "DZ West 39th",
+    "name":     "Paratrooper SVD",
+    "score":    "229",
+    "price":    "DZ 294,030",
+    "bonus":    "164% Headshot Damage",
+    "dmg":      "36.5k",
+    "rpm":      "260",
+    "mag":      "10",
+    "talent1":  "Capable",
+    "talent2":  "Predatory",
+    "talent3":  "Disciplined"
+  },
+  {
+    "type":   "gear",
+    "rarity": "header-he",
+    "vendor": "DZ West 39th",
+    "name":   "Enduring mask",
+    "score":  "229",
+    "armor":  "702",
+    "price":  "DZ 176,418",
+    "fire":   "-",
+    "stam":   "-",
+    "elec":   "887",
+    "major":  "3.5% Critical Hit Chance",
+    "minor":  "15% Disorient Resistance"
+  },
+  {
+    "type":       "gear-mod",
+    "vendor":     "DZ West 39th",
+    "name":       "Performance Mod ilvl33",
+    "stat":       "-",
+    "price":      "DZ 137,214",
+    "attribute":  "4% Pulse Duration"
+  },
+  {
+    "type":       "weapon-mod",
+    "vendor":     "DZ West 39th",
+    "name":       "Reflex Sight - Tan ilvl33",
+    "price":      "DZ 176,418",
+    "attributes": "4% Optimal Range<br/>2% Accuracy<br/>2.5% Stability"
+  },
+
+  {
+    "type":     "weapon",
+    "vendor":   "DZ West 34th",
+    "name":     "M870 Express",
+    "score":    "229",
+    "price":    "DZ 294,030",
+    "bonus":    "305% Stagger",
+    "dmg":      "105k",
+    "rpm":      "75",
+    "mag":      "5",
+    "talent1":  "Competent",
+    "talent2":  "Accurate",
+    "talent3":  "Brutal"
+  },
+  {
+    "type":   "gear",
+    "rarity": "header-he",
+    "vendor": "DZ West 34th",
+    "name":   "Astute gloves",
+    "score":  "229",
+    "armor":  "781",
+    "price":  "DZ 156,816",
+    "fire":   "-",
+    "stam":   "-",
+    "elec":   "887",
+    "major":  "1,073 Shotgun Damage<br/>8% Damage to Elites<br/>4% Health on Kill",
+    "minor":  "-"
+  },
+  {
+    "type":       "gear-mod",
+    "vendor":     "DZ West 34th",
+    "name":       "Performance Mod ilvl33",
+    "stat":       "-",
+    "price":      "DZ 137,214",
+    "attribute":  "4% Mobile Cover Damage Resilience"
+  },
+  {
+    "type":       "weapon-mod",
+    "vendor":     "DZ West 34th",
+    "name":       "Vertical Grip ilvl33",
+    "price":      "DZ 176,418",
+    "attributes": "42.5% Optimal Range<br/>4% Reload Speed<br/>2% Accuracy"
+  },
+
+  {
+    "type":     "weapon",
+    "vendor":   "DZ West 31st",
+    "name":     "Military SCAR-H",
+    "score":    "229",
+    "price":    "DZ 294,030",
+    "bonus":    "161% Headshot Damage",
+    "dmg":      "39.0k",
+    "rpm":      "275",
+    "mag":      "20",
+    "talent1":  "Swift",
+    "talent2":  "Ferocious",
+    "talent3":  "Toxic"
+  },
+  {
+    "type":   "gear",
+    "rarity": "header-he",
+    "vendor": "DZ West 31st",
+    "name":   "Sturdy holster",
+    "score":  "229",
+    "armor":  "800",
+    "price":  "DZ 137,214",
+    "fire":   "928",
+    "stam":   "966",
+    "elec":   "891",
+    "major":  "6% Skill Haste",
+    "minor":  "-"
+  },
+  {
+    "type":       "gear-mod",
+    "vendor":     "DZ West 31st",
+    "name":       "Performance Mod ilvl33",
+    "stat":       "-",
+    "price":      "DZ 137,214",
+    "attribute":  "6% Support Station Range"
+  },
+  {
+    "type":       "weapon-mod",
+    "vendor":     "DZ West 31st",
+    "name":       "PEQ-15 Laser ilvl33",
+    "price":      "DZ 176,418",
+    "attributes": "15.5% Accuracy<br/>2.5% Stability<br/>4% Reload Speed"
+  }
+
+]
