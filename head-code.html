@@ -19,13 +19,15 @@
     jQuery.ajax({url: url}).done(ajaxSuccess).fail(ajaxError)
   }
 
-  loadData('/division/boo.json');
   loadData('/division/blueprints.json');
+  loadData('/division/boo.json');
   loadData('/division/special-equipment.json');
   loadData('/division/underground.json');
+  loadData('/division/lz-west.json');
+  loadData('/division/lz-east.json');
   loadData('/division/dz.json');
-  loadData('/division/dz-check-west.json');
-  loadData('/division/dz-check-east.json');
+  loadData('/division/dz-west.json');
+  loadData('/division/dz-east.json');
 </script>
 
 <script type='text/html' id='division-blueprint'>
@@ -37,7 +39,7 @@
 </script>
 
 <script type='text/html' id='division-gear'>
-  <div class="four columns">
+  <div class="four columns" style='height:36em'>
     <table class="table-division">
       <tbody>
         <tr><th data-class='rarity' data-content='name' colspan="3"></th></tr>
@@ -72,7 +74,7 @@
 </script>
 
 <script type='text/html' id='division-weapon'>
-  <div class="columns one-third">
+  <div class="columns one-third" style='height:25em'>
     <table class="table-division">
       <tbody>
         <tr><th data-content='name' class='header-he' colspan="3"></th></tr>
@@ -107,7 +109,7 @@
 </script>
 
 <script type='text/html' id='division-gear-mod'>
-  <div class="four columns">
+  <div class="four columns" style='height:15em'>
     <table class="table-division">
       <tbody>
         <tr><th data-content='name' class="header-he" colspan="3"></th></tr>
