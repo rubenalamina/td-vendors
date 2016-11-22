@@ -23,3 +23,8 @@ Used in the JSON files to differentiate HE gear and gear set pieces
 * Damage to Targets Out of Cover -> **Damage Out of Cover**
 * Signature Resource Ability Gain -> **Signature Ability Gain**
 * Main stats on mods -> **STA, FA, ELE**
+
+### Item prices
+* Regular credits: $
+* Phoenix credits: PxC
+* DZ funds: DZ
