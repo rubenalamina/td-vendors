@@ -1,0 +1,182 @@
+[
+  {
+    "type":   "gear",
+    "rarity": "header-he",
+    "vendor": "Autumn's Hope",
+    "name":   "Reckless chest",
+    "score":  "229",
+    "armor":  "1,570",
+    "price":  "$ 569,320",
+    "fire":   "-",
+    "stam":   "-",
+    "elec":   "944",
+    "major":  "7% Protection from Elites<br/>10.5% Exotic Damage Resilience",
+    "minor":  "24% Increased Kill XP"
+  },
+  {
+    "type":       "gear-mod",
+    "name":       "Elecctronics Mod ilvl33",
+    "vendor":     "Autumn's Hope",
+    "stat":       "211 ELE",
+    "price":      "$ 398,524",
+    "attribute":  "1,158 Health"
+  },
+
+  {
+    "type":     "weapon",
+    "vendor":   "Wolves Den",
+    "name":     "M249 B",
+    "score":    "229",
+    "price":    "$ 853,980",
+    "bonus":    "15% DMG Out of Cover",
+    "dmg":      "13.1k",
+    "rpm":      "550",
+    "mag":      "100",
+    "talent1":  "Ferocious",
+    "talent2":  "Self-Preserved",
+    "talent3":  "Fierce"
+  },
+  {
+    "type":       "weapon-mod",
+    "vendor":     "Wolves Den",
+    "name":       "Extended Magazine ilvl33",
+    "price":      "$ 455,456",
+    "attributes": "107% Magazine Size<br/>4% Critical Hit Damage<br/>2% Critical Hit Chance"
+  },
+
+  {
+    "type":   "gear",
+    "rarity": "header-he",
+    "vendor": "Dante's Run",
+    "name":   "Specialized backpack",
+    "score":  "229",
+    "armor":  "1,774",
+    "price":  "$ 569,320",
+    "fire":   "-",
+    "stam":   "-",
+    "elec":   "888",
+    "major":  "825 Armor",
+    "minor":  "14% Disrupt Resistance"
+  },
+  {
+    "type":       "gear-mod",
+    "name":       "Performance Mod ilvl33",
+    "vendor":     "Dante's Run",
+    "stat":       "-",
+    "price":      "$ 398,524",
+    "attribute":  "3.5% Mobile Cover Damage Resilience"
+  },
+
+  {
+    "type":     "weapon",
+    "vendor":   "Kerman Station",
+    "name":     "G36 C",
+    "score":    "229",
+    "price":    "$ 853,980",
+    "bonus":    "21% Enemy Armor Damage",
+    "dmg":      "14.5k",
+    "rpm":      "750",
+    "mag":      "30",
+    "talent1":  "Provident",
+    "talent2":  "Adept",
+    "talent3":  "Focused"
+  },
+  {
+    "type":       "weapon-mod",
+    "vendor":     "Kerman Station",
+    "name":       "High Velocity Magazine ilvl33",
+    "price":      "$ 455,456",
+    "attributes": "7.5% Critical Hit Chance<br/>4.5% Reload Speed<br/>4% Critical Hit Damage"
+  },
+
+  {
+    "type":   "gear",
+    "rarity": "header-he",
+    "vendor": "The Cavern",
+    "name":   "Recovered Holster",
+    "score":  "229",
+    "armor":  "780",
+    "price":  "$ 398,254",
+    "fire":   "950",
+    "stam":   "927",
+    "elec":   "922",
+    "major":  "4% Protection from Elites",
+    "minor":  ""
+  },
+  {
+    "type":       "gear-mod",
+    "name":       "Performance Mod ilvl33",
+    "vendor":     "The Cavern",
+    "stat":       "-",
+    "price":      "$ 398,524",
+    "attribute":  "5% Sticky Bomb Explosion Radius"
+  },
+
+  {
+    "type":     "weapon",
+    "vendor":   "The Meat Locker",
+    "name":     "X-45",
+    "score":    "229",
+    "price":    "$ 683,184",
+    "bonus":    "-",
+    "dmg":      "11.4k",
+    "rpm":      "625",
+    "mag":      "10",
+    "talent1":  "Expert",
+    "talent2":  "Commanding",
+    "talent3":  "-"
+  },
+  {
+    "type":       "weapon-mod",
+    "vendor":     "The Meat Locker",
+    "name":       "Omega Rifle Suppressor ilvl33",
+    "price":      "$ 512,388",
+    "attributes": "17% Headshot Damage<br/>4% Critical Hit Damage<br/>3% Critical Hit Chance<br/>43% Reduced Threat"
+  },
+
+  {
+    "type":     "weapon",
+    "vendor":   "Camp Hudson Weapon Vendor",
+    "name":     "First Wave M1A",
+    "score":    "229",
+    "price":    "$ 853,980",
+    "bonus":    "-",
+    "dmg":      "40.1k",
+    "rpm":      "300",
+    "mag":      "10",
+    "talent1":  "Brutal",
+    "talent2":  "Intense",
+    "talent3":  "Coolheaded"
+  },
+  {
+    "type":       "weapon-mod",
+    "vendor":     "Camp Hudson Weapon Vendor",
+    "name":       "Small Grip ilvl33",
+    "price":      "$ 512,388",
+    "attributes": "17% Critical Hit Damage<br/>2.5% Stability<br/>4.5% Optimal Range"
+  },
+
+  {
+    "type":   "gear",
+    "rarity": "header-he",
+    "vendor": "Camp Hudson Gear Vendor",
+    "name":   "Prosperous knee pads",
+    "score":  "229",
+    "armor":  "1,225",
+    "price":  "$ 455,456",
+    "fire":   "908",
+    "stam":   "-",
+    "elec":   "-",
+    "major":  "5% Damage to Elites",
+    "minor":  "28% Burn Resistance<br/>28% Disrupt Resistance<br/>29% Disorient Resistance"
+  },
+  {
+    "type":       "gear-mod",
+    "name":       "Performance Mod ilvl33",
+    "vendor":     "Camp Hudson Gear Vendor",
+    "stat":       "-",
+    "price":      "$ 398,524",
+    "attribute":  "7% Mobile Cover Health"
+  }
+
+]
