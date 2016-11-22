@@ -1,0 +1,58 @@
+[
+  {
+    "type":     "weapon",
+    "name":     "Tactical SA-58",
+    "vendor":   "Underground Vendor",
+    "score":    "256",
+    "price":    "$ 853,980",
+    "bonus":    "19% Enemy Armor Damage",
+    "dmg":      "19.4k",
+    "rpm":      "650",
+    "mag":      "20",
+    "talent1":  "Responsive",
+    "talent2":  "Competent",
+    "talent3":  "Adept"
+  },
+  {
+    "type":     "weapon",
+    "name":     "Tactical SA-58",
+    "vendor":   "Underground Vendor",
+    "score":    "229",
+    "price":    "$ 853,980",
+    "bonus":    "19% Enemy Armor Damage",
+    "dmg":      "19.4k",
+    "rpm":      "650",
+    "mag":      "20",
+    "talent1":  "Responsive",
+    "talent2":  "Competent",
+    "talent3":  "Adept"
+  },
+  {
+      "type":     "weapon",
+      "name":     "Tactical SA-58",
+      "vendor":   "Underground Vendor",
+      "score":    "204",
+      "price":    "$ 853,980",
+      "bonus":    "19% Enemy Armor Damage",
+      "dmg":      "19.4k",
+      "rpm":      "650",
+      "mag":      "20",
+      "talent1":  "Responsive",
+      "talent2":  "Competent",
+      "talent3":  "Adept"
+    },
+    {
+      "type":     "weapon",
+      "name":     "Tactical SA-58",
+      "vendor":   "Underground Vendor",
+      "score":    "182",
+      "price":    "$ 853,980",
+      "bonus":    "19% Enemy Armor Damage",
+      "dmg":      "19.4k",
+      "rpm":      "650",
+      "mag":      "20",
+      "talent1":  "Responsive",
+      "talent2":  "Competent",
+      "talent3":  "Adept"
+    }
+]
