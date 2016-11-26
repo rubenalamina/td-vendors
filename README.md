@@ -20,7 +20,7 @@ Used in the JSON files to differentiate HE gear and gear set pieces
 * For mods, just use the simplified name. Examples: **Stamina Mod, Electronics Mod, Performance Mod**.
 
 ### Abbreviations
-* Damage to Targets Out of Cover -> **Damage Out of Cover**
+* Damage to Targets Out of Cover -> **DMG Out of Cover**
 * Signature Resource Ability Gain -> **Signature Ability Gain**
 * Main stats on mods -> **STA, FA, ELE**
 
