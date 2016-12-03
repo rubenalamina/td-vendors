@@ -2,159 +2,159 @@
   {
     "type":     "weapon",
     "vendor":   "The Crypt",
-    "name":     "SASG-12",
-    "score":    "229",
-    "price":    "$ 683,184",
-    "bonus":    "289% Stagger",
-    "dmg":      "68.7k",
-    "rpm":      "650",
-    "mag":      "45",
-    "talent1":  "Deadly",
-    "talent2":  "Meticulous",
-    "talent3":  "Dominant"
+    "score":    "256",
+    "name":     "Tactical SASG-12 K",
+    "price":    "$ 1.669,320",
+    "bonus":    "342% Stagger",
+    "dmg":      "73.3k",
+    "rpm":      "180",
+    "mag":      "7",
+    "talent1":  "Destructive",
+    "talent2":  "Competent",
+    "talent3":  "Trained"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "The Crypt",
-    "name":       "Ti-RANT Suppressor ilvl33",
-    "price":      "$ 512,388",
-    "attributes": "7.5% Critical Hit Chance<br/>2.5% Stability<br/>2% Accuracy<br/>46% Reduced Threat"
+    "name":       "ACOG Scope (4x) - FDE",
+    "price":      "$ 174,722",
+    "attributes": "16% Accuracy<br/>5.5% Headshot Damage<br/>4% Critical Hit Damage"
   },
 
   {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "The Firewall",
-    "name":   "Reckless chest",
-    "score":  "229",
-    "armor":  "2,750",
-    "price":  "$ 569,320",
+    "score":  "256",
+    "name":   "Astute gloves",
+    "armor":  "981",
+    "price":  "$ 890,304",
     "fire":   "-",
     "stam":   "-",
-    "elec":   "947",
-    "major":  "1,185 Armor<br/>7% Protection from Elites",
-    "minor":  "54% Ammo Capacity"
+    "elec":   "1145",
+    "major":  "10% Damage to Elites<br/>5.5% Critical Hit Chance<br/>1,289 Shotgun Damage",
+    "minor":  "-"
   },
   {
     "type":       "gear-mod",
     "vendor":     "The Firewall",
-    "name":       "Firearms Mod ilvl33",
-    "stat":       "209 FA",
-    "price":      "$ 398,524",
-    "attribute":  "3% Skill Haste"
+    "name":       "Performance Mod",
+    "stat":       "-",
+    "price":      "$ 168,044",
+    "attribute":  "2% Pulse Critical Hit Damage"
   },
 
   {
     "type":     "weapon",
-    "vendor":   "The Grindouse",
-    "name":     "Enhanced AUG A3P",
-    "score":    "229",
-    "price":    "$ 853,980",
-    "bonus":    "30% Critical Hit Damage",
-    "dmg":      "13.3k",
-    "rpm":      "725",
-    "mag":      "25",
-    "talent1":  "Skilled",
-    "talent2":  "Fierce",
-    "talent3":  "Adept"
+    "vendor":   "The Grindhouse",
+    "score":    "256",
+    "name":     "Black Market AK-74",
+    "price":    "$ 1.669,320",
+    "bonus":    "20% Enemy Armor Damage",
+    "dmg":      "18.8k",
+    "rpm":      "600",
+    "mag":      "30",
+    "talent1":  "Vicious",
+    "talent2":  "Determined",
+    "talent3":  "Deadly"
   },
   {
     "type":       "weapon-mod",
-    "vendor":     "The Grindouse",
-    "name":       "Compensator ilvl33",
-    "price":      "$ 512,388",
-    "attributes": "13% Stability<br/>2% Accuracy<br/>3% Critical Hit Chance"
+    "vendor":     "The Grindhouse",
+    "name":       "Large Suppressor - FDE",
+    "price":      "$ 174,722",
+    "attributes": "16% Critical Hit Damage<br/>3% Critical Hit Chance<br/>2.5% Stability<br/>47% Reduced Threat"
   },
 
   {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "Southpaw",
-    "name":   "Cunning gloves",
-    "score":  "229",
-    "armor":  "748",
-    "price":  "$ 455,456",
+    "score":  "256",
+    "name":   "Robust chest",
+    "armor":  "1,857",
+    "price":  "$ 1,112,880",
     "fire":   "-",
-    "stam":   "-",
-    "elec":   "1001",
-    "major":  "975 LMG Damage<br/>4% Health on Kill<br/>947 Pistol Damage",
-    "minor":  "-"
+    "stam":   "1214",
+    "elec":   "-",
+    "major":  "4% Health on Kill<br/>7% Damage to Elites",
+    "minor":  "54% Ammo Capacity"
   },
   {
     "type":       "gear-mod",
     "vendor":     "Southpaw",
-    "name":       "Performance Mod ilvl33",
-    "stat":       "-",
-    "price":      "$ 398,524",
-    "attribute":  "1.5% Pulse Critical Hit Chance"
+    "name":       "Firearms Mod",
+    "stat":       "251 FA",
+    "price":      "$ 168,044",
+    "attribute":  "3% Skill Haste"
   },
 
   {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "The Ward",
-    "name":   "Forceful chest",
-    "score":  "229",
-    "armor":  "1,575",
-    "price":  "$ 569,320",
-    "fire":   "958",
-    "stam":   "-",
+    "score":  "256",
+    "name":   "Resourceful backpack",
+    "armor":  "1,152",
+    "price":  "$ 1.112,880",
+    "fire":   "-",
+    "stam":   "1195",
     "elec":   "-",
-    "major":  "5,356 Health<br/>4% Health on Kill",
-    "minor":  "50% Ammo Capacity"
+    "major":  "6% Skill Haste",
+    "minor":  "17% Disrupt Resistance"
   },
   {
     "type":       "gear-mod",
     "vendor":     "The Ward",
-    "name":       "Performance Mod ilvl33",
+    "name":       "Performance Mod",
     "stat":       "-",
-    "price":      "$ 398,524",
-    "attribute":  "4.5% Pulse Duration"
+    "price":      "$ 168,044",
+    "attribute":  "6.5% Turret Health"
   },
 
   {
     "type":     "weapon",
     "vendor":   "The Last Call",
-    "name":     "Enhanced ACR-E",
-    "score":    "229",
-    "price":    "$ 853,980",
-    "bonus":    "23% Enemy Armor Damage",
-    "dmg":      "13.7k",
-    "rpm":      "760",
-    "mag":      "30",
-    "talent1":  "Provident",
-    "talent2":  "Responsive",
-    "talent3":  "Prepared"
+    "score":    "256",
+    "name":     "SOCOM M1A",
+    "price":    "$ 1.669,320",
+    "bonus":    "160% Headshot Damage",
+    "dmg":      "44.5k",
+    "rpm":      "300",
+    "mag":      "10",
+    "talent1":  "Proficient",
+    "talent2":  "Cooheaded",
+    "talent3":  "Intense"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "The Last Call",
-    "name":       "Osprey .45 Suppressor ilvl33",
-    "price":      "$ 512,388",
-    "attributes": "15% Accuracy<br/>4% Critical Hit Damage<br/>6% Headshot Damage<br/>44% Reduced Threat"
+    "name":       "Extended Magazine",
+    "price":      "$ 168,044",
+    "attributes": "109% Magazine Size<br/>3% Critical Hit Chance<br/>4.5% Reload Speed"
   },
 
   {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "Madison's Stand",
-    "name":   "Savag gloves",
-    "score":  "229",
-    "armor":  "758",
-    "price":  "$ 455,456",
-    "fire":   "969",
+    "score":  "256",
+    "name":   "Resourceful backpack",
+    "armor":  "1,240",
+    "price":  "$ 1,112,880",
+    "fire":   "1124",
     "stam":   "-",
     "elec":   "-",
-    "major":  "14% Critical Hit Damage<br/>4% Health on Kill<br/>1,022 Pistol Damage",
-    "minor":  "-"
+    "major":  "11,999 Skill Power",
+    "minor":  "16% Disrupt Resistance"
   },
   {
     "type":       "gear-mod",
     "vendor":     "Madison's Stand",
-    "name":       "Electronics Mod ilvl33",
-    "stat":       "199 ELE",
-    "price":      "$ 398,524",
-    "attribute":  "3% Signature Ability Gain"
+    "name":       "Performance Mod",
+    "stat":       "-",
+    "price":      "$ 168,044",
+    "attribute":  "2% Pulse Critical Hit Chance"
   }
 
 ]

@@ -1,50 +1,50 @@
 [
   {
     "type":   "blueprint",
-    "name":   "Double Barrel Shotgun",
+    "name":   "MP7",
     "score":  "256",
-    "price":  "PxC 836"
+    "price":  "PxC 915"
   },
   {
     "type":   "blueprint",
-    "name":   "Classic FAL",
+    "name":   "M870 Express",
     "score":  "256",
-    "price":  "PxC 906"
+    "price":  "PxC 998"
   },
   {
     "type":   "blueprint",
-    "name":   "Electronics Chest",
+    "name":   "Firearms Chest",
     "score":  "256",
-    "price":  "PxC 557"
+    "price":  "PxC 665"
   },
   {
     "type":   "blueprint",
-    "name":   "Firearms Knee Pads",
+    "name":   "Electronics Backpack",
     "score":  "256",
-    "price":  "PxC 418"
+    "price":  "PxC 665"
   },
   {
     "type":   "blueprint",
-    "name":   "Handstop<br/>Reload Speed, Random, Random",
+    "name":   "Compensator<br/>Stability, Random, Random",
     "score":  "34",
-    "price":  "PxC 487"
+    "price":  "PxC 200"
   },
   {
     "type":   "blueprint",
-    "name":   "Omega Rifle Supressor<br/>Reduced Threat, Random, Random",
+    "name":   "Vertical Grip - Foliage Green<br/>Optimal Range, Random, Random",
     "score":  "34",
-    "price":  "PxC 487"
+    "price":  "PxC 200"
   },
   {
     "type":   "blueprint",
-    "name":   "Electronics Gear Mod",
+    "name":   "Firearms Mod",
     "score":  "34",
-    "price":  "PxC 696"
+    "price":  "PxC 192"
   },
   {
     "type":   "blueprint",
-    "name":   "Firearms Gear Mod",
+    "name":   "Electronics Mod",
     "score":  "34",
-    "price":  "PxC 696"
+    "price":  "PxC 192"
   }
 ]

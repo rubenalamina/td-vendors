@@ -3,180 +3,180 @@
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "Autumn's Hope",
-    "name":   "Reckless chest",
-    "score":  "229",
-    "armor":  "1,570",
-    "price":  "$ 569,320",
-    "fire":   "-",
+    "score":  "256",
+    "name":   "Prosperous pads",
+    "armor":  "2,788",
+    "price":  "$ 890,304",
+    "fire":   "1141",
     "stam":   "-",
-    "elec":   "944",
-    "major":  "7% Protection from Elites<br/>10.5% Exotic Damage Resilience",
-    "minor":  "24% Increased Kill XP"
+    "elec":   "-",
+    "major":  "1,202 Armor",
+    "minor":  "32% Bleed Resistance<br/>32% Blind/Deaf Resistance<br/>49% Increased Kill XP"
   },
   {
     "type":       "gear-mod",
-    "name":       "Elecctronics Mod ilvl33",
+    "name":       "Performance Mod",
     "vendor":     "Autumn's Hope",
-    "stat":       "211 ELE",
-    "price":      "$ 398,524",
-    "attribute":  "1,158 Health"
+    "stat":       "-",
+    "price":      "$ 168,044",
+    "attribute":  "4.5% Smart Cover duration"
   },
 
   {
     "type":     "weapon",
     "vendor":   "Wolves Den",
-    "name":     "M249 B",
-    "score":    "229",
-    "price":    "$ 853,980",
-    "bonus":    "15% DMG Out of Cover",
-    "dmg":      "13.1k",
-    "rpm":      "550",
-    "mag":      "100",
-    "talent1":  "Ferocious",
-    "talent2":  "Self-Preserved",
-    "talent3":  "Fierce"
+    "score":    "256",
+    "name":     "Enhanced ACR-E",
+    "price":    "$ 1.669,320",
+    "bonus":    "22% Enemy Armor Damage",
+    "dmg":      "14.4k",
+    "rpm":      "760",
+    "mag":      "30",
+    "talent1":  "Adept",
+    "talent2":  "Meticulous",
+    "talent3":  "Dominant"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "Wolves Den",
-    "name":       "Extended Magazine ilvl33",
-    "price":      "$ 455,456",
-    "attributes": "107% Magazine Size<br/>4% Critical Hit Damage<br/>2% Critical Hit Chance"
+    "name":       "Small Grip",
+    "price":      "$ 174,722",
+    "attributes": "17% Critical Hit Damage<br/>4.5% Reload Speed<br/>2% Accuracy"
   },
 
   {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "Dante's Run",
-    "name":   "Specialized backpack",
-    "score":  "229",
-    "armor":  "1,774",
-    "price":  "$ 569,320",
+    "score":  "256",
+    "name":   "Reckless chest",
+    "armor":  "2,035",
+    "price":  "$ 1.112.880",
     "fire":   "-",
-    "stam":   "-",
-    "elec":   "888",
-    "major":  "825 Armor",
-    "minor":  "14% Disrupt Resistance"
+    "stam":   "1210",
+    "elec":   "-",
+    "major":  "4% Health on Kill<br/>7% Protection from Elites",
+    "minor":  "25% Increased Kill XP"
   },
   {
     "type":       "gear-mod",
-    "name":       "Performance Mod ilvl33",
     "vendor":     "Dante's Run",
+    "name":       "Performance Mod",
     "stat":       "-",
-    "price":      "$ 398,524",
-    "attribute":  "3.5% Mobile Cover Damage Resilience"
+    "price":      "$ 168,044",
+    "attribute":  "6.5% Turret health"
   },
 
   {
     "type":     "weapon",
     "vendor":   "Kerman Station",
-    "name":     "G36 C",
-    "score":    "229",
-    "price":    "$ 853,980",
-    "bonus":    "21% Enemy Armor Damage",
-    "dmg":      "14.5k",
-    "rpm":      "750",
-    "mag":      "30",
-    "talent1":  "Provident",
-    "talent2":  "Adept",
-    "talent3":  "Focused"
+    "score":    "256",
+    "name":     "Px4 Storm Type T",
+    "price":    "$ 1.335,456",
+    "bonus":    "-",
+    "dmg":      "14.4k",
+    "rpm":      "450",
+    "mag":      "17",
+    "talent1":  "Expert",
+    "talent2":  "Coolheaded",
+    "talent3":  "-"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "Kerman Station",
-    "name":       "High Velocity Magazine ilvl33",
-    "price":      "$ 455,456",
-    "attributes": "7.5% Critical Hit Chance<br/>4.5% Reload Speed<br/>4% Critical Hit Damage"
+    "name":       "Angled grip - Red",
+    "price":      "$ 174,722",
+    "attributes": "12.5% Stability<br/>4.5% Optimal Range<br/>5% Reload Speed"
   },
 
   {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "The Cavern",
-    "name":   "Recovered Holster",
-    "score":  "229",
-    "armor":  "780",
-    "price":  "$ 398,254",
-    "fire":   "950",
-    "stam":   "927",
-    "elec":   "922",
-    "major":  "4% Protection from Elites",
+    "score":  "256",
+    "name":   "Steadfast holster",
+    "armor":  "985",
+    "price":  "$ 779,016",
+    "fire":   "1160",
+    "stam":   "1166",
+    "elec":   "1200",
+    "major":  "5% Skill Haste",
     "minor":  ""
   },
   {
     "type":       "gear-mod",
-    "name":       "Performance Mod ilvl33",
     "vendor":     "The Cavern",
-    "stat":       "-",
-    "price":      "$ 398,524",
-    "attribute":  "5% Sticky Bomb Explosion Radius"
+    "name":       "Electronics Mod",
+    "stat":       "240 ELE",
+    "price":      "$ 168,044",
+    "attribute":  "3,164 Skill Power"
   },
 
   {
     "type":     "weapon",
     "vendor":   "The Meat Locker",
-    "name":     "X-45",
-    "score":    "229",
-    "price":    "$ 683,184",
-    "bonus":    "-",
-    "dmg":      "11.4k",
-    "rpm":      "625",
-    "mag":      "10",
-    "talent1":  "Expert",
-    "talent2":  "Commanding",
-    "talent3":  "-"
+    "score":    "256",
+    "name":     "Famas",
+    "price":    "$ 1.669,320",
+    "bonus":    "20% Enemy Armor Damage",
+    "dmg":      "12.4k",
+    "rpm":      "900",
+    "mag":      "30",
+    "talent1":  "Destructive",
+    "talent2":  "Unforgiving",
+    "talent3":  "Uncomplicated"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "The Meat Locker",
-    "name":       "Omega Rifle Suppressor ilvl33",
-    "price":      "$ 512,388",
-    "attributes": "17% Headshot Damage<br/>4% Critical Hit Damage<br/>3% Critical Hit Chance<br/>43% Reduced Threat"
+    "name":       "Small Grip",
+    "price":      "$ 174,722",
+    "attributes": "19% Critical Hit Damage<br/>4.5% Optimal Range<br/>2% Accuracy"
   },
 
   {
     "type":     "weapon",
     "vendor":   "Camp Hudson Weapon Vendor",
-    "name":     "First Wave M1A",
-    "score":    "229",
-    "price":    "$ 853,980",
-    "bonus":    "-",
-    "dmg":      "40.1k",
-    "rpm":      "300",
-    "mag":      "10",
-    "talent1":  "Brutal",
-    "talent2":  "Intense",
-    "talent3":  "Coolheaded"
+    "score":    "256",
+    "name":     "Tactical UMP-45",
+    "price":    "$ 1.669,320",
+    "bonus":    "36% Critical Hit Damage",
+    "dmg":      "16.4",
+    "rpm":      "600",
+    "mag":      "30",
+    "talent1":  "Sustained",
+    "talent2":  "Swift",
+    "talent3":  "Ambusher"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "Camp Hudson Weapon Vendor",
-    "name":       "Small Grip ilvl33",
-    "price":      "$ 512,388",
-    "attributes": "17% Critical Hit Damage<br/>2.5% Stability<br/>4.5% Optimal Range"
+    "name":       "Muzzle Brake",
+    "price":      "$ 174,722",
+    "attributes": "13% Stability<br/>4% Critial Hit Damage<br/>3% Critical Hit Chance"
   },
 
   {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "Camp Hudson Gear Vendor",
-    "name":   "Prosperous knee pads",
-    "score":  "229",
-    "armor":  "1,225",
-    "price":  "$ 455,456",
-    "fire":   "908",
-    "stam":   "-",
-    "elec":   "-",
-    "major":  "5% Damage to Elites",
-    "minor":  "28% Burn Resistance<br/>28% Disrupt Resistance<br/>29% Disorient Resistance"
+    "score":  "256",
+    "name":   "Recovered Holster",
+    "armor":  "1,519",
+    "price":  "$ 779,016",
+    "fire":   "1239",
+    "stam":   "1220",
+    "elec":   "1164",
+    "major":  "4% Protection from Elites",
+    "minor":  "-"
   },
   {
     "type":       "gear-mod",
-    "name":       "Performance Mod ilvl33",
     "vendor":     "Camp Hudson Gear Vendor",
-    "stat":       "-",
-    "price":      "$ 398,524",
-    "attribute":  "7% Mobile Cover Health"
+    "name":       "Electronics Mod",
+    "stat":       "262 ELE",
+    "price":      "$ 168,044",
+    "attribute":  "1% Critical Hit Chance"
   }
 
 ]
