@@ -17,7 +17,9 @@ Used in the JSON files to differentiate HE gear and gear set pieces
 ### Item names
 * Capitalize every first letter: **Steadfast Holster**, **Sentry's Call Knee Pads**.
 * Use talent+slot. Examples: **Tenacious Mask, Sturdy Holster, Vigorous Chest**.
+* Use full name of the slot. Examples: use **Knee Pads for Pads**, **Backpack for Pack**.
 * For gear sets use simplified set name+slot. Examples: **Striker's Mask, Predator's Holster, Nomad Chest**.
+* Avoid specific names like **Gunslinger**, **Spec-ops**.
 * For mods, just use the simplified name. Examples: **Stamina Mod, Electronics Mod, Performance Mod**.
 
 ### Abbreviations
