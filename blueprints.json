@@ -1,9 +1,9 @@
 [
   {
     "type":   "blueprint",
-    "name":   "MP7",
+    "name":   "Super 90",
     "score":  "256",
-    "price":  "PxC 915"
+    "price":  "PxC 998"
   },
   {
     "type":   "blueprint",
@@ -13,21 +13,15 @@
   },
   {
     "type":   "blueprint",
-    "name":   "Firearms Chest",
-    "score":  "256",
-    "price":  "PxC 665"
-  },
-  {
-    "type":   "blueprint",
     "name":   "Electronics Backpack",
     "score":  "256",
     "price":  "PxC 665"
   },
   {
     "type":   "blueprint",
-    "name":   "Compensator<br/>Stability, Random, Random",
-    "score":  "34",
-    "price":  "PxC 200"
+    "name":   "Firearms Backpack",
+    "score":  "256",
+    "price":  "PxC 665"
   },
   {
     "type":   "blueprint",
@@ -37,13 +31,19 @@
   },
   {
     "type":   "blueprint",
-    "name":   "Firearms Mod",
+    "name":   "Heavy Magazine Spring<br/>Rate of Fire, Random, Random",
     "score":  "34",
     "price":  "PxC 192"
   },
   {
     "type":   "blueprint",
     "name":   "Electronics Mod",
+    "score":  "34",
+    "price":  "PxC 192"
+  },
+  {
+    "type":   "blueprint",
+    "name":   "Stamina Mod",
     "score":  "34",
     "price":  "PxC 192"
   }

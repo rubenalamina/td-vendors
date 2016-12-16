@@ -3,146 +3,146 @@
     "type":     "weapon",
     "vendor":   "DZ West 53rd",
     "score":    "256",
-    "name":     "Police T821",
+    "name":     "Tactical ACR",
     "price":    "DZ 416,160",
-    "bonus":    "39% Critical Hit Damage",
-    "dmg":      "15.4k",
-    "rpm":      "550",
-    "mag":      "32",
-    "talent1":  "Destructive",
-    "talent2":  "Talented",
-    "talent3":  "Competent"
+    "bonus":    "22% Enemy Armor Damage",
+    "dmg":      "18.8k",
+    "rpm":      "760",
+    "mag":      "30",
+    "talent1":  "Predatory",
+    "talent2":  "Fierce",
+    "talent3":  "Talented"
   },
   {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "DZ West 53rd",
     "score":  "256",
-    "name":   "Rehabilitated mask",
-    "armor":  "942",
-    "price":  "DZ 249,696",
-    "fire":   "1253",
-    "stam":   "-",
+    "name":   "Savage Gloves",
+    "armor":  "886",
+    "price":  "DZ 221952",
+    "fire":   "-",
+    "stam":   "1162",
     "elec":   "-",
-    "major":  "5,370 Health",
-    "minor":  "17% Burn Resistance"
+    "major":  "4% Health on Kill<br/>948 SMG Damage<br/>1,269 Pistol Damage",
+    "minor":  "-"
   },
   {
     "type":       "gear-mod",
     "vendor":     "DZ West 53rd",
     "name":       "Firearms Mod",
-    "stat":       "235 FA",
+    "stat":       "242 FA",
     "price":      "DZ 21,362",
-    "attribute":  "2.5% Exotic Damage Resilience"
+    "attribute":  "264 Armor"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "DZ West 53rd",
-    "name":       "ACOG Scope (4x) - Bronze",
+    "name":       "PEQ-15 Laser - Red",
     "price":      "DZ 24,137",
-    "attributes": "15% Accuracy<br/>4% Critical Hit Damage<br/>4% Optimal Range"
+    "attributes": "17.5% Accuracy<br/>2.5% Stability<br/>4% Critical Hit Damage"
   },
 
   {
     "type":     "weapon",
     "vendor":   "DZ West 46th",
     "score":    "256",
-    "name":     "Police UMP-45",
+    "name":     "Enhanced AUG A3P",
     "price":    "DZ 416,160",
-    "bonus":    "34% Critical Hit Damage",
-    "dmg":      "15.3k",
-    "rpm":      "600",
-    "mag":      "30",
-    "talent1":  "Adept",
-    "talent2":  "Swift",
-    "talent3":  "Ambusher"
+    "bonus":    "31% Critical Hit Damage",
+    "dmg":      "16.6k",
+    "rpm":      "725",
+    "mag":      "25",
+    "talent1":  "Determined",
+    "talent2":  "Capable",
+    "talent3":  "Unforgiving"
   },
   {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "DZ West 46th",
     "score":  "256",
-    "name":   "Prosperous Knee Pads",
-    "armor":  "1,454",
+    "name":   "Cunning Gloves",
+    "armor":  "971",
     "price":  "DZ 221,952",
     "fire":   "-",
     "stam":   "-",
-    "elec":   "1246",
-    "major":  "4% Protection from Elites",
-    "minor":  "29% Disorient Resistance<br/>29% Burn Resistance<br/>Bleed Resistance"
+    "elec":   "1128",
+    "major":  "4% Health on Kill<br/>1,251 Pistol Damage<br/>5.0% Critical Hit Chance",
+    "minor":  "-"
   },
   {
     "type":       "gear-mod",
     "vendor":     "DZ West 46th",
-    "name":       "Firearms Mod",
-    "stat":       "249 FA",
+    "name":       "Electronics Mod",
+    "stat":       "250 FA",
     "price":      "DZ 21,362",
-    "attribute":  "3% Skill Haste"
+    "attribute":  "2.50% Exotic Damage Resilience"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "DZ West 46th",
-    "name":       "Small Grip",
+    "name":       "Reflex Sight",
     "price":      "DZ 24,137",
-    "attributes": "16% Critical Hit Damage<br/>4.5% Optimal Range<br/>5% Reload Speed"
+    "attributes": "6.50% Critical Hit Chance<br/>5.0% Optimal Range<br/>2.0% Accuracy"
   },
 
   {
     "type":     "weapon",
     "vendor":   "DZ West 42nd",
     "score":    "256",
-    "name":     "Double Barrel Sawed Off",
+    "name":     "Super 90",
     "price":    "DZ 416,160",
-    "bonus":    "338% Stagger",
-    "dmg":      "114k",
-    "rpm":      "200",
-    "mag":      "2",
-    "talent1":  "Ferocious",
-    "talent2":  "Destructive",
-    "talent3":  "Fierce"
+    "bonus":    "350.0% Stagger",
+    "dmg":      "99.1k",
+    "rpm":      "150",
+    "mag":      "8",
+    "talent1":  "Brutal",
+    "talent2":  "Fierce",
+    "talent3":  "Accurate"
   },
   {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "DZ West 42nd",
     "score":  "256",
-    "name":   "Recovered Holster",
-    "armor":  "859",
-    "price":  "DZ 194,208",
-    "fire":   "1205",
-    "stam":   "1182",
-    "elec":   "1177",
-    "major":  "628 Pistol Damage",
-    "minor":  "-"
+    "name":   "Refreshed Mask",
+    "armor":  "862",
+    "price":  "DZ 249696",
+    "fire":   "-",
+    "stam":   "1163",
+    "elec":   "-",
+    "major":  "10.0% Exotic Damage Resilience",
+    "minor":  "16% Disorient Resistance"
   },
   {
     "type":       "gear-mod",
     "vendor":     "DZ West 42nd",
     "name":       "Performance Mod",
-    "stat":       "-",
+    "stat":       "236 STA",
     "price":      "DZ 21,362",
-    "attribute":  "2.5% Smart Cover damage resilience"
+    "attribute":  "2% Skill Haste"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "DZ West 42nd",
-    "name":       "Quick releaes magazine",
-    "price":      "DZ 21,362",
-    "attributes": "28% Reload Speed<br/>10.5% Magazine Size<br/>5.4% Rate of Fire"
+    "name":       "EXP53 Holographic Sight",
+    "price":      "DZ 24137",
+    "attributes": "21.50% Optimal Range<br/>5.50% Headshot Damage<br/>2.50% Stability"
   },
 
   {
     "type":     "weapon",
     "vendor":   "DZ West 39th",
     "score":    "256",
-    "name":     "SOCOM Mk20 SSR",
+    "name":     "M249 B",
     "price":    "DZ 416,160",
-    "bonus":    "143% Headshot Damage",
-    "dmg":      "46.4k",
-    "rpm":      "275",
-    "mag":      "20",
-    "talent1":  "Disciplined",
-    "talent2":  "Destructive",
+    "bonus":    "12% DMG to target out of cover",
+    "dmg":      "16.8k",
+    "rpm":      "550",
+    "mag":      "100",
+    "talent1":  "Vicious",
+    "talent2":  "Capable",
     "talent3":  "Commanding"
   },
   {
@@ -150,102 +150,101 @@
     "rarity": "header-he",
     "vendor": "DZ West 39th",
     "score":  "256",
-    "name":   "Recovered Holster",
-    "armor":  "1,491",
-    "price":  "DZ 194,208",
-    "fire":   "1143",
-    "stam":   "1222",
-    "elec":   "1131",
-    "major":  "585 Armor",
-    "minor":  "-"
+    "name":   "Inventive Backpack",
+    "armor":  "1,263",
+    "price":  "DZ 277,440",
+    "fire":   "1260",
+    "stam":   "-",
+    "elec":   "-",
+    "major":  "7% Skill Haste",
+    "minor":  "17% Burn Resistance"
   },
   {
     "type":       "gear-mod",
     "vendor":     "DZ West 39th",
-    "name":       "Stamina Mod",
-    "stat":       "245 STA",
+    "name":       "Prototype Performance Mod",
+    "stat":       "-",
     "price":      "DZ 21,362",
-    "attribute":  "3,271 Skill Power"
+    "attribute":  "5.0% First Aid ally heal"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "DZ West 39th",
-    "name":       "Flash hider",
+    "name":       "SR-7 Suppressor",
     "price":      "DZ 24,137",
-    "attributes": "15% Accuracy<br/>6% Headshot Damage<br/>4% Critical Hit Damage"
+    "attributes": "16% Critical Hit Damage<br/>2.0% Accuracy<br/>2.50% Stability"
   },
-
   {
     "type":     "weapon",
     "vendor":   "DZ West 34th",
     "score":    "256",
-    "name":     "MP7",
+    "name":     "Black Market AK-74",
     "price":    "DZ 416,160",
-    "bonus":    "36% Critical Hit Damage",
-    "dmg":      "12.2k",
-    "rpm":      "950",
-    "mag":      "20",
-    "talent1":  "Responsive",
-    "talent2":  "Meticulous",
-    "talent3":  "Talented"
+    "bonus":    "21% Enemy Armor Damage",
+    "dmg":      "23.1k",
+    "rpm":      "600",
+    "mag":      "30",
+    "talent1":  "Fierce",
+    "talent2":  "Vicious",
+    "talent3":  "Prepared"
   },
   {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "DZ West 34th",
     "score":  "256",
-    "name":   "Prosperous Knee Pads",
-    "armor":  "1,595",
-    "price":  "DZ 221,952",
-    "fire":   "-",
-    "stam":   "-",
-    "elec":   "1249",
-    "major":  "3,264 Health",
-    "minor":  "33% Disrupt Resistance<br/>29% Blind/Deaf Resistance<br/>11% Enemy Armor Damage"
+    "name":   "Sturdy Holster",
+    "armor":  "996",
+    "price":  "DZ 194,208",
+    "fire":   "1178",
+    "stam":   "1214",
+    "elec":   "1159",
+    "major":  "5% Skill Haste",
+    "minor":  "-"
   },
   {
     "type":       "gear-mod",
     "vendor":     "DZ West 34th",
-    "name":       "Stamina Mod",
-    "stat":       "250 STA",
+    "name":       "Performance Mod",
+    "stat":       "-",
     "price":      "DZ 21,362",
-    "attribute":  "4% Signature Ability Resource Gain"
+    "attribute":  "7% Seeker Mine Explosion Radius"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "DZ West 34th",
-    "name":       "Small laser pointer",
-    "price":      "DZ 24,137",
-    "attributes": "16.5% Accuracy<br/>4.5% Reload Speed<br/>4% Critical Hit Damage"
+    "name":       "Heavy Magazine Spring",
+    "price":      "DZ 21,362",
+    "attributes": "4.5% Reload Speed<br/>2.5% Critical Hit Chance<br/>10% Rate of Fire"
   },
 
   {
     "type":     "weapon",
     "vendor":   "DZ West 31st",
     "score":    "256",
-    "name":     "Classic M1A",
+    "name":     "Classic M60",
     "price":    "DZ 416,160",
-    "bonus":    "154% Headshot Damage",
-    "dmg":      "45.4k",
-    "rpm":      "300",
-    "mag":      "10",
-    "talent1":  "Destructive",
-    "talent2":  "Vicious",
-    "talent3":  "Unforgiving"
+    "bonus":    "12% Damage to target out of cover",
+    "dmg":      "18.6k",
+    "rpm":      "500",
+    "mag":      "100",
+    "talent1":  "Meticulous",
+    "talent2":  "Capable",
+    "talent3":  "Skilled"
   },
   {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "DZ West 31st",
     "score":  "256",
-    "name":   "Recovered Holster",
-    "armor":  "863",
-    "price":  "DZ 194,208",
-    "fire":   "1255",
-    "stam":   "1114",
-    "elec":   "1138",
-    "major":  "584 Pistol Damage",
-    "minor":  "-"
+    "name":   "Prosperous Knee Pads",
+    "armor":  "1,452",
+    "price":  "DZ 221,952",
+    "fire":   "-",
+    "stam":   "-",
+    "elec":   "1230",
+    "major":  "5% Damage to Elites",
+    "minor":  "11% Enemy Armor Damage<br/>29% Disorient Resistance<br/>31% Shock Resistance"
   },
   {
     "type":       "gear-mod",
@@ -253,14 +252,14 @@
     "name":       "Performance Mod",
     "stat":       "-",
     "price":      "DZ 21,362",
-    "attribute":  "4.5% Support Station healing speed"
+    "attribute":  "5% Pulse Duration"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "DZ West 31st",
     "name":       "Compensator",
     "price":      "DZ 24,137",
-    "attributes": "11.5% Stability<br/>2.5% Critical Hit Chance<br/>4% Critical Hit Damage"
+    "attributes": "13% Stability<br/>6% Headshot Damage<br/>2% Accuracy"
   }
 
 ]
