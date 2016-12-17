@@ -2,206 +2,206 @@
   {
     "type":     "weapon",
     "vendor":   "DZ East 53rd",
-    "name":     "Police UMP-45",
+    "name":     "Double Barrel Shotgun",
     "score":    "256",
     "price":    "DZ 416,160",
-    "bonus":    "34% Critical Hit Damage",
-    "dmg":      "17.7k",
-    "rpm":      "600",
-    "mag":      "30",
-    "talent1":  "Responsive",
-    "talent2":  "Meticulous",
-    "talent3":  "Ambusher"
-  },
-  {
-    "type":   "gear",
-    "rarity": "header-he",
-    "vendor": "DZ East 53rd",
-    "name":   "Nimble Holster",
-    "score":  "256",
-    "armor":  "941",
-    "price":  "DZ 194,208",
-    "fire":   "1141",
-    "stam":   "1248",
-    "elec":   "1188",
-    "major":  "4% Protection from Elites",
-    "minor":  "-"
-  },
-  {
-    "type":       "gear-mod",
-    "vendor":     "DZ East 53rd",
-    "name":       "Firearms Mod",
-    "stat":       "252",
-    "price":      "DZ 21,362",
-    "attribute":  "+3% Skill Haste"
-  },
-  {
-    "type":       "weapon-mod",
-    "vendor":     "DZ East 53rd",
-    "name":       "Rugged mini reflex sight",
-    "price":      "DZ 24,137",
-    "attributes": "7% Critical Hit Chance<br/>4.5% Optimal Range<br/>5.5% Headshot Damage"
-  },
-
-  {
-    "type":     "weapon",
-    "vendor":   "DZ East 46th",
-    "name":     "Double Barrel Sawed Off",
-    "score":    "256",
-    "price":    "DZ 416,160",
-    "bonus":    "339.0% Stagger",
-    "dmg":      "133k",
+    "bonus":    "290.5% Stagger",
+    "dmg":      "129k",
     "rpm":      "200",
     "mag":      "2",
-    "talent1":  "Predatory",
+    "talent1":  "Deadly",
     "talent2":  "Determined",
-    "talent3":  "Deadly"
-  },
-  {
-    "type":   "gear",
-    "rarity": "header-he",
-    "vendor": "DZ East 46th",
-    "name":   "Rehabilitated Mask",
-    "score":  "256",
-    "armor":  "911",
-    "price":  "DZ 249,696",
-    "fire":   "1200",
-    "stam":   "-",
-    "elec":   "-",
-    "major":  "+5,031 Health",
-    "minor":  "15% Burn Resistance"
-  },
-  {
-    "type":       "gear-mod",
-    "vendor":     "DZ East 46th",
-    "name":       "Performance Mod",
-    "stat":       "-",
-    "price":      "DZ 21,362",
-    "attribute":  "2% Pulse Critical Hit Chance"
-  },
-  {
-    "type":       "weapon-mod",
-    "vendor":     "DZ East 46th",
-    "name":       "Improved iron sights",
-    "price":      "DZ 24,137",
-    "attributes": "13.0% Stability<br/>4.0% Critical Hit Damage<br/>2.0% Accuracy"
-  },
-
-  {
-    "type":     "weapon",
-    "vendor":   "DZ East 42nd",
-    "name":     "Black Market M60 E6",
-    "score":    "256",
-    "price":    "DZ 416,160",
-    "bonus":    "13% DMG to target out of cover",
-    "dmg":      "18.5k",
-    "rpm":      "500",
-    "mag":      "100",
-    "talent1":  "Accurate",
-    "talent2":  "Adept",
     "talent3":  "Dominant"
   },
   {
     "type":   "gear",
     "rarity": "header-he",
-    "vendor": "DZ East 42nd",
+    "vendor": "DZ East 53rd",
+    "name":   "Tenacious Mask",
+    "score":  "256",
+    "armor":  "973",
+    "price":  "DZ 249,646",
+    "fire":   "1160",
+    "stam":   "-",
+    "elec":   "-",
+    "major":  "8,918 Skill Power",
+    "minor":  "14% Increased Kill XP"
+  },
+  {
+    "type":       "gear-mod",
+    "vendor":     "DZ East 53rd",
+    "name":       "Performance Mod",
+    "stat":       "-",
+    "price":      "DZ 21,362",
+    "attribute":  "6% First Aid Ally Heal"
+  },
+  {
+    "type":       "weapon-mod",
+    "vendor":     "DZ East 53rd",
+    "name":       "MK5 scope (15X) - Tan",
+    "price":      "DZ 24,137",
+    "attributes": "6% Headshot Damage<br/>3% Critical Hit Chance<br/>4.5% Optimal Range"
+  },
+
+  {
+    "type":     "weapon",
+    "vendor":   "DZ East 46th",
+    "name":     "Police Mk17",
+    "score":    "256",
+    "price":    "DZ 416,160",
+    "bonus":    "156% Headshot Damage",
+    "dmg":      "56.8k",
+    "rpm":      "275",
+    "mag":      "20",
+    "talent1":  "Meticulous",
+    "talent2":  "Intense",
+    "talent3":  "Harmful"
+  },
+  {
+    "type":   "gear",
+    "rarity": "header-he",
+    "vendor": "DZ East 46th",
     "name":   "Steadfast Holster",
     "score":  "256",
-    "armor":  "989",
+    "armor":  "1,598",
     "price":  "DZ 194,208",
-    "fire":   "1271",
-    "stam":   "1238",
-    "elec":   "1139",
-    "major":  "5% Skill Haste",
+    "fire":   "1118",
+    "stam":   "1237",
+    "elec":   "1174",
+    "major":  "671 Armor",
     "minor":  "-"
   },
   {
     "type":       "gear-mod",
-    "vendor":     "DZ East 42nd",
+    "vendor":     "DZ East 46th",
     "name":       "Performance Mod",
     "stat":       "-",
     "price":      "DZ 21,362",
-    "attribute":  "2.5% Smart Cover Damage Resilience"
+    "attribute":  "3.5% Sticky Bomb Damage"
+  },
+  {
+    "type":       "weapon-mod",
+    "vendor":     "DZ East 46th",
+    "name":       "T2 Micro red dot sight - Tan",
+    "price":      "DZ 24,137",
+    "attributes": "6% Headshot Damage<br/>2% Accuracy<br/>4% Critical Hit Damage"
+  },
+
+  {
+    "type":     "weapon",
+    "vendor":   "DZ East 42nd",
+    "name":     "Tactical SASG-12 K",
+    "score":    "256",
+    "price":    "DZ 416,160",
+    "bonus":    "310% Stagger",
+    "dmg":      "84.1k",
+    "rpm":      "180",
+    "mag":      "7",
+    "talent1":  "Dominant",
+    "talent2":  "Talented",
+    "talent3":  "Trained"
+  },
+  {
+    "type":   "gear",
+    "rarity": "header-he",
+    "vendor": "DZ East 42nd",
+    "name":   "Enduring Mask",
+    "score":  "256",
+    "armor":  "991",
+    "price":  "DZ 249,696",
+    "fire":   "-",
+    "stam":   "1262",
+    "elec":   "-",
+    "major":  "9% Damage to Elites",
+    "minor":  "8% Enemy Armor Damage"
+  },
+  {
+    "type":       "gear-mod",
+    "vendor":     "DZ East 42nd",
+    "name":       "Electronics Mod",
+    "stat":       "263",
+    "price":      "DZ 21,362",
+    "attribute":  "2% Exotic Damage Resilience"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "DZ East 42nd",
-    "name":       "Flash Hider",
+    "name":       "Ti-RANT Suppressor",
     "price":      "DZ 24,137",
-    "attributes": "16.0% Accuracy<br/>2.5% Stability<br/>4% Critical Hit Damage"
+    "attributes": "7.5% Critical Hit Chance<br/>5% Optimal Range<br/>4% Critical Hit Damage"
   },
 
   {
     "type":     "weapon",
     "vendor":   "DZ East 40th",
-    "name":     "Vector 45 ACP",
+    "name":     "Surplus SVD",
     "score":    "256",
     "price":    "DZ 416,160",
-    "bonus":    "35% Critical Hit Damage",
-    "dmg":      "16.7k",
-    "rpm":      "750",
-    "mag":      "25",
-    "talent1":  "Brutal",
-    "talent2":  "Meticulous",
-    "talent3":  "Sustained"
+    "bonus":    "141% Headshot Damage",
+    "dmg":      "50.8k",
+    "rpm":      "260",
+    "mag":      "10",
+    "talent1":  "Capable",
+    "talent2":  "Brutal",
+    "talent3":  "Disciplined"
   },
   {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "DZ East 40th",
-    "name":   "Tenacious Mask",
+    "name":   "Relentless Backpack",
     "score":  "256",
-    "armor":  "997",
-    "price":  "DZ 249,696",
+    "armor":  "1,331",
+    "price":  "DZ 277,440",
     "fire":   "-",
-    "stam":   "1244",
+    "stam":   "1249",
     "elec":   "-",
-    "major":  "9.5% Exotic Damage Resilience",
-    "minor":  "16% Disorient Resistance"
+    "major":  "13% Signature Abitity Resource Gain",
+    "minor":  "14% Burn Resistance"
   },
   {
     "type":       "gear-mod",
     "vendor":     "DZ East 40th",
-    "name":       "Stamina Mod",
-    "stat":       "253 STA",
+    "name":       "Performance Mod",
+    "stat":       "-",
     "price":      "DZ 21,362",
-    "attribute":  "1,797 Health"
+    "attribute":  "6% Mobile Cover Health"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "DZ East 40th",
-    "name":       "Small Grip",
-    "price":      "DZ 24,137",
-    "attributes": "17% Critical Hit Damage<br/>4.5% Reload Speed<br/>2% Accuracy"
+    "name":       "Extended Magazine",
+    "price":      "DZ 21,362",
+    "attributes": "110.5% Magazine Size<br/>5% Reload Speed<br/>4% Critical Hit Damage"
   },
 
   {
     "type":     "weapon",
     "vendor":   "DZ East 34th",
-    "name":     "Lightweight M4",
+    "name":     "Converted USC",
     "score":    "256",
     "price":    "DZ 416,160",
-    "bonus":    "22% Enemy Armor Damage",
-    "dmg":      "18.6k",
-    "rpm":      "850",
-    "mag":      "30",
-    "talent1":  "Destructive",
-    "talent2":  "Prepared",
-    "talent3":  "Adept"
+    "bonus":    "35% Critical Hit Damage",
+    "dmg":      "18.3k",
+    "rpm":      "650",
+    "mag":      "20",
+    "talent1":  "Skilled",
+    "talent2":  "Deadly",
+    "talent3":  "Ambusher"
   },
   {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "DZ East 34th",
-    "name":   "Robust Chest",
+    "name":   "Cunning Gloves",
     "score":  "256",
-    "armor":  "2,985",
-    "price":  "DZ 277,440",
+    "armor":  "969",
+    "price":  "DZ 221,952",
     "fire":   "-",
-    "stam":   "1258",
-    "elec":   "-",
-    "major":  "1,217 armor<br/>7% Protection from Elites",
-    "minor":  "52% Ammo Capacity"
+    "stam":   "-",
+    "elec":   "1215",
+    "major":  "989 SMG Damage<br/>5.5% Critical Hit Chance<br/>17% Critical Hit Damage",
+    "minor":  "-"
   },
   {
     "type":       "gear-mod",
@@ -209,102 +209,102 @@
     "name":       "Performance Mod",
     "stat":       "-",
     "price":      "DZ 21,362",
-    "attribute":  "7.5% Support Station Range"
+    "attribute":  "6% First Aid ally heal"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "DZ East 34th",
-    "name":       "CQBSS scope - FDE",
+    "name":       "Heavy magazine spring",
     "price":      "DZ 21,362",
-    "attributes": "12% Stabilty<br/>2% Accuracy<br/>3% Critical Hit Chances"
+    "attributes": "4% Critcal Hit Damage<br/>2.5% Critical Hit Chance<br/>9.7% Rate of Fire"
   },
 
   {
     "type":     "weapon",
     "vendor":   "DZ East 31st",
-    "name":     "SCAR-L",
+    "name":     "Double Barrel Sawed Off",
     "score":    "256",
     "price":    "DZ 416,160",
-    "bonus":    "19% Enemy Armor Damage",
-    "dmg":      "21.4k",
-    "rpm":      "625",
-    "mag":      "30",
-    "talent1":  "Responsive",
-    "talent2":  "Determined",
-    "talent3":  "Ferocious"
+    "bonus":    "351.5% Stagger",
+    "dmg":      "131k",
+    "rpm":      "200",
+    "mag":      "2",
+    "talent1":  "Trained",
+    "talent2":  "Sustained",
+    "talent3":  "Self Preserved"
   },
   {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "DZ East 31st",
-    "name":   "Recovered Holster",
+    "name":   "Cunning Gloves",
     "score":  "256",
-    "armor":  "1,625",
-    "price":  "DZ 194,208",
-    "fire":   "1135",
-    "stam":   "1233",
-    "elec":   "1245",
-    "major":  "647 Armor",
+    "armor":  "930",
+    "price":  "DZ 221,852",
+    "fire":   "-",
+    "stam":   "-",
+    "elec":   "1248",
+    "major":  "945 SMG Damage<br/>1,160 Pistol Damage<br/>4% Health on Kill",
     "minor":  "-"
   },
   {
     "type":       "gear-mod",
     "vendor":     "DZ East 31st",
-    "name":       "Stamina Mod",
-    "stat":       "237 STA",
+    "name":       "Performance Mod",
+    "stat":       "-",
     "price":      "DZ 21,362",
-    "attribute":  "2,914 Skill Power"
+    "attribute":  "7% Mobile Cover Health"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "DZ East 31st",
-    "name":       "Ti-RANT Suppressor",
+    "name":       "552 Holosight",
     "price":      "DZ 24,137",
-    "attributes": "7.5% Critical Hit Chance<br/>4% Critical Hit Damage<br/>2.5% Stability"
+    "attributes": "7.5% Critical Hit Chance<br/>2.5% Stability<br/>6% Headshot Damage"
   },
 
   {
     "type":     "weapon",
     "vendor":   "DZ 5th Ave",
-    "name":     "Military M870",
+    "name":     "Military MK46",
     "score":    "256",
     "price":    "DZ 416,160",
-    "bonus":    "316% Stagger",
-    "dmg":      "132k",
-    "rpm":      "75",
-    "mag":      "5",
-    "talent1":  "Commanding",
-    "talent2":  "Responsive",
-    "talent3":  "Swift"
+    "bonus":    "15% DMG to target out of cover",
+    "dmg":      "18.1k",
+    "rpm":      "550",
+    "mag":      "100",
+    "talent1":  "Self Preserved",
+    "talent2":  "Brutal",
+    "talent3":  "Accurate"
   },
   {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "DZ East 5th Ave",
-    "name":   "Decisive Gloves",
+    "name":   "refreshed Mask",
     "score":  "256",
-    "armor":  "943",
-    "price":  "DZ 221,952",
+    "armor":  "995",
+    "price":  "DZ 249,696",
     "fire":   "1208",
     "stam":   "-",
     "elec":   "-",
-    "major":  "1,227 Pistol Damage<br/>15% Critcal Hit damage<br/>4,559 Marksman Rifle Damage",
-    "minor":  "-"
+    "major":  "5,025 Health",
+    "minor":  "14% Blind/Deaf Resistance"
   },
   {
     "type":       "gear-mod",
     "vendor":     "DZ East 5th Ave",
-    "name":       "Electronics Mod",
-    "stat":       "244 STA",
+    "name":       "Performance Mod",
+    "stat":       "-",
     "price":      "DZ 21,362",
-    "attribute":  "2% Skill Haste"
+    "attribute":  "4.5% Support Station Healing Speed"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "DZ East 5th Ave",
-    "name":       "Small laser pointer",
+    "name":       "EXPS3 Holographic sight",
     "price":      "DZ 24,137",
-    "attributes": "15.5% Accuracy<br/>4.5% Reload Speed<br/>4% Critical Hit Damage"
+    "attributes": "21.5% Optimal Range<br/>2% Accuracy<br/>4% Critical Hit Damage"
   }
 
 ]

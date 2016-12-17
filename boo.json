@@ -3,60 +3,60 @@
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "BoO Gear Vendor",
-    "name":   "Savage Gloves",
+    "name":   "Accomplished Knee Pads",
     "score":  "256",
-    "armor":  "934",
+    "armor":  "1,456",
     "price":  "$ 890,304",
     "fire":   "-",
     "stam":   "-",
-    "elec":   "1124",
-    "major":  "1,137 Pistol Damage<br/>1,132 Assault Rifle Damage<br/>5.50% Critical Hit Chance",
-    "minor":  "-"
+    "elec":   "1179",
+    "major":  "8.0% Exotic Damage Resilience",
+    "minor":  "28% Blind/deaf Resistance<br/>30% Shock Resistance<br/>11.0% Enemy Armor Damage"
   },
   {
     "type":       "gear-mod",
     "name":       "Stamina Mod",
     "vendor":     "BoO Gear Vendor",
-    "stat":       "243 STA",
+    "stat":       "245 STA",
     "price":      "$ 168,044",
-    "attribute":  "2% Skill Haste"
+    "attribute":  "1% Pulse Critical Hit Chance"
   },
 
   {
     "type":     "weapon",
-    "name":     "Burst Fire MP-5 A4",
+    "name":     "Classic RPK-74",
     "vendor":   "BoO Weapons Vendor",
     "score":    "256",
     "price":    "$ 1,669,320",
-    "bonus":    "30% Critical Hit Damage",
-    "dmg":      "21.1k",
-    "rpm":      "800",
-    "mag":      "32",
-    "talent1":  "Predatory",
-    "talent2":  "Deadly",
-    "talent3":  "Unforgiving"
+    "bonus":    "12% DMG Out of Cover",
+    "dmg":      "15.1k",
+    "rpm":      "650",
+    "mag":      "45",
+    "talent1":  "Unforgiving",
+    "talent2":  "Capable",
+    "talent3":  "Accurate"
   },
   {
     "type":       "weapon-mod",
-    "name":       "552 Holosight",
+    "name":       "PRO Red Dot Sight",
     "vendor":     "BoO Weapons Vendor",
     "price":      "$ 174,172",
-    "attributes": "7.0% Critical Hit Damage<br/>4.50% Optimal Range<br/>2.0% Accuracy"
+    "attributes": "18% Critical Hit Damage<br/>6.0% Headshot Damage<br/>2.50% Critical Hit Chance"
   },
 
   {
     "type":     "weapon",
     "vendor":   "DZ Vendor at BoO",
-    "name":     "Enhanced ACR-E",
+    "name":     "Police M4",
     "score":    "256",
     "price":    "DZ 416,160",
-    "bonus":    "20% Enemy Armor Damage",
-    "dmg":      "19.7k",
-    "rpm":      "760",
+    "bonus":    "23% Enemy Armor Damage",
+    "dmg":      "19.8k",
+    "rpm":      "850",
     "mag":      "30",
-    "talent1":  "Dominant",
-    "talent2":  "Ferocious",
-    "talent3":  "Destructive"
+    "talent1":  "Swift",
+    "talent2":  "Competent",
+    "talent3":  "Brutal"
   },
   {
     "type":   "gear",
@@ -64,28 +64,28 @@
     "vendor": "DZ Vendor at BoO",
     "name":   "Tenacious Mask",
     "score":  "256",
-    "armor":  "913",
+    "armor":  "995",
     "price":  "DZ 249,696",
-    "fire":   "-",
+    "fire":   "1141",
     "stam":   "-",
-    "elec":   "1135",
-    "major":  "10,019 Skill Power",
-    "minor":  "16% Burn Resistance"
+    "elec":   "-",
+    "major":  "8% Damage to Elites",
+    "minor":  "8.50% Enemy Armor Damage"
   },
   {
     "type":       "gear-mod",
-    "name":       "Performance Mod",
+    "name":       "Stamina Mod",
     "vendor":     "DZ Vendor at BoO",
-    "stat":       "-",
+    "stat":       "238 STA",
     "price":      "DZ 21,362",
-    "attribute":  "5.50% First Aid Ally Heal"
+    "attribute":  "2.50% Exotic Damage Resilience"
   },
   {
     "type":       "weapon-mod",
-    "name":       "Small RDS Scope",
+    "name":       "Large Suppressor - FDE",
     "vendor":     "DZ Vendor at BoO",
     "price":      "DZ 24,137",
-    "attributes": "12.50% Stability<br/>3.0% Critical Hit Chance<br/>5.0% Optimal Range"
+    "attributes": "19% Critical Hit Damage<br/>2.0% Accuracy<br/>2.50% Stability<br/>44% Reduced Threat"
   },
 
   {
@@ -95,7 +95,7 @@
     "score":    "256",
     "price":    "$ 1.669,320",
     "bonus":    "14% DMG Out of Cover",
-    "dmg":      "18.8k",
+    "dmg":      "18.6k",
     "rpm":      "650",
     "mag":      "45",
     "talent1":  "Swift",
@@ -108,8 +108,8 @@
     "vendor":   "Advanced Weaponry Vendor",
     "score":    "256",
     "price":    "$ 1.669,320",
-    "bonus":    "289.0% Stagger",
-    "dmg":      "136",
+    "bonus":    "342.50% Stagger",
+    "dmg":      "140k",
     "rpm":      "200",
     "mag":      "2",
     "talent1":  "Responsive",
@@ -123,7 +123,7 @@
     "score":    "256",
     "price":    "$ 1.669,320",
     "bonus":    "-",
-    "dmg":      "26.7k",
+    "dmg":      "28.4k",
     "rpm":      "310",
     "mag":      "7",
     "talent1":  "Provident",
@@ -132,115 +132,115 @@
   },
   {
     "type":     "weapon",
-    "name":     "First Wave X-45",
+    "name":     "Px4 Storm Type F",
     "vendor":   "Advanced Weaponry Vendor",
     "score":    "256",
     "price":    "$ 1,335,456",
     "bonus":    "-",
-    "dmg":      "15.3k",
-    "rpm":      "625",
-    "mag":      "15",
+    "dmg":      "17.2k",
+    "rpm":      "450",
+    "mag":      "17",
     "talent1":  "Expert",
-    "talent2":  "Accurate",
+    "talent2":  "Intense",
     "talent3":  "-"
   },
   {
     "type":     "weapon",
-    "name":     "Enhanced AUG A3P",
+    "name":     "Tactical Vector 45 ACP",
     "vendor":   "Advanced Weaponry Vendor",
     "score":    "256",
     "price":    "$ 1,669,320",
-    "bonus":    "36% Critical Hit Damage",
-    "dmg":      "18.6k",
-    "rpm":      "725",
-    "mag":      "25",
-    "talent1":  "Determined",
-    "talent2":  "Capable",
-    "talent3":  "Hurried"
-  },
-  {
-    "type":     "weapon",
-    "name":     "Enhanced ACR-E",
-    "vendor":   "Advanced Weaponry Vendor",
-    "score":    "256",
-    "price":    "$ 1,669,320",
-    "bonus":    "23% Enemy Armor Damage",
-    "dmg":      "19.9k",
-    "rpm":      "760",
-    "mag":      "30",
-    "talent1":  "Deadly",
-    "talent2":  "Prepared",
-    "talent3":  "Fierce"
-  },
-  {
-    "type":     "weapon",
-    "name":     "Double Barrel Sawed Off",
-    "vendor":   "Advanced Weaponry Vendor",
-    "score":    "256",
-    "price":    "$ 1,669,320",
-    "bonus":    "292.50% Stagger",
-    "dmg":      "143k",
-    "rpm":      "200",
-    "mag":      "2",
-    "talent1":  "Competent",
-    "talent2":  "Responsive",
-    "talent3":  "Dominant"
-  },
-  {
-    "type":     "weapon",
-    "name":     "Military SCAR-H",
-    "vendor":   "Advanced Weaponry Vendor",
-    "score":    "256",
-    "price":    "$ 1,669,320",
-    "bonus":    "159% Headshot Damage",
-    "dmg":      "60.7k",
-    "rpm":      "275",
+    "bonus":    "32% Critical Hit Damage",
+    "dmg":      "17.6k",
+    "rpm":      "750",
     "mag":      "20",
-    "talent1":  "Deadly",
-    "talent2":  "Destructive",
-    "talent3":  "Prepared"
+    "talent1":  "Unforgiving",
+    "talent2":  "Self-preserved",
+    "talent3":  "Domminant"
   },
   {
     "type":     "weapon",
-    "name":     "Tactical M249 Para",
+    "name":     "Lightweight M4",
     "vendor":   "Advanced Weaponry Vendor",
     "score":    "256",
     "price":    "$ 1,669,320",
-    "bonus":    "13% DMG Out of Cover",
-    "dmg":      "17.9k",
-    "rpm":      "550",
-    "mag":      "100",
-    "talent1":  "Fierce",
+    "bonus":    "18% Enemy Armor Damage",
+    "dmg":      "19.8k",
+    "rpm":      "850",
+    "mag":      "30",
+    "talent1":  "Skilled",
     "talent2":  "Predatory",
     "talent3":  "Capable"
   },
   {
+    "type":     "weapon",
+    "name":     "SASG-12",
+    "vendor":   "Advanced Weaponry Vendor",
+    "score":    "256",
+    "price":    "$ 1,669,320",
+    "bonus":    "346.50% Stagger",
+    "dmg":      "90.8",
+    "rpm":      "180",
+    "mag":      "7",
+    "talent1":  "Trained",
+    "talent2":  "Adept",
+    "talent3":  "Sustained"
+  },
+  {
+    "type":     "weapon",
+    "name":     "Surplus SVD",
+    "vendor":   "Advanced Weaponry Vendor",
+    "score":    "256",
+    "price":    "$ 1,669,320",
+    "bonus":    "156% Headshot Damage",
+    "dmg":      "53.8k",
+    "rpm":      "260",
+    "mag":      "10",
+    "talent1":  "Commanding",
+    "talent2":  "Predatory",
+    "talent3":  "Disciplined"
+  },
+  {
+    "type":     "weapon",
+    "name":     "Military MK46",
+    "vendor":   "Advanced Weaponry Vendor",
+    "score":    "256",
+    "price":    "$ 1,669,320",
+    "bonus":    "14% DMG Out of Cover",
+    "dmg":      "18.6k",
+    "rpm":      "550",
+    "mag":      "100",
+    "talent1":  "Meticulous",
+    "talent2":  "Determined",
+    "talent3":  "Deadly"
+  },
+  {
     "type":       "weapon-mod",
-    "name":       "High Velocity Magazine",
+    "name":       "Quick Release Magazine",
     "vendor":     "Advanced Weaponry Vendor",
     "price":      "$ 168,044",
-    "attributes": "7.0% Critical Hit Chance<br/>10.50% Magazine Size<br/>5.0% Rate of Fire"
+    "attributes": "29.0% Reload Speed<br/>3.0% Critical Hit Chance<br/>10.0% Magazine Size"
   },
   {
     "type":       "weapon-mod",
-    "name":       "Muzzle Brake",
+    "name":       "Omega Rifle Suppressor - Tan",
     "vendor":     "Advanced Weaponry Vendor",
     "price":      "$ 174,722",
-    "attributes": "14.0 Stability<br/>2.0% Accuracy<br/>6.0% Headshot Damage"
+    "attributes": "18.0 Headshot Damage<br/>3.0% Critical Hit Chance<br/>2.0% Accuracy<br/>46% Reduced Threat"
   },
   {
     "type":       "weapon-mod",
-    "name":       "PEQ-15 Laser - Orange",
+    "name":       "PEQ-15 Laser - Green",
     "vendor":     "Advanced Weaponry Vendor",
     "price":      "$ 174,722",
-    "attributes": "16.50% Accuracy<br/>4.0% Critical Hit Damage<br/>4.50% Optimal Range"
+    "attributes": "16.0% Accuracy<br/>2.50% Stability<br/>4% Critical Hit Damage"
   },
   {
     "type":       "weapon-mod",
-    "name":       "552 Holosight",
+    "name":       "552 Holosight - Tan",
     "vendor":     "Advanced Weaponry Vendor",
     "price":      "$ 174,722",
-    "attributes": "7.50% Critical Hit Chance<br/>4.50% Critical Hit Damage<br/>4.0% Optimal Range"
+    "attributes": "7.50% Critical Hit Chance<br/>2.0% Accuracy<br/>5.0% Optimal Range"
   }
 
 ]

@@ -1,15 +1,21 @@
 [
   {
     "type":   "blueprint",
-    "name":   "Super 90",
+    "name":   "Classic RPK-74",
     "score":  "256",
-    "price":  "PxC 998"
+    "price":  "PxC 915"
   },
   {
     "type":   "blueprint",
-    "name":   "M870 Express",
+    "name":   "Converted USC",
     "score":  "256",
-    "price":  "PxC 998"
+    "price":  "PxC 915"
+  },
+  {
+    "type":   "blueprint",
+    "name":   "Stamina Gloves",
+    "score":  "256",
+    "price":  "PxC 449"
   },
   {
     "type":   "blueprint",
@@ -19,31 +25,25 @@
   },
   {
     "type":   "blueprint",
-    "name":   "Firearms Backpack",
-    "score":  "256",
-    "price":  "PxC 665"
-  },
-  {
-    "type":   "blueprint",
-    "name":   "Vertical Grip - Foliage Green<br/>Optimal Range, Random, Random",
+    "name":   "Angle Grip - Red<br/>Stability, Random, Random",
     "score":  "34",
     "price":  "PxC 200"
   },
   {
     "type":   "blueprint",
-    "name":   "Heavy Magazine Spring<br/>Rate of Fire, Random, Random",
+    "name":   "EXPS3 Holographic Sight - Tan<br/>Optimal Range, Random, Random",
+    "score":  "34",
+    "price":  "PxC 200"
+  },
+  {
+    "type":   "blueprint",
+    "name":   "Performance Mod",
     "score":  "34",
     "price":  "PxC 192"
   },
   {
     "type":   "blueprint",
-    "name":   "Electronics Mod",
-    "score":  "34",
-    "price":  "PxC 192"
-  },
-  {
-    "type":   "blueprint",
-    "name":   "Stamina Mod",
+    "name":   "Firearms Mod",
     "score":  "34",
     "price":  "PxC 192"
   }
