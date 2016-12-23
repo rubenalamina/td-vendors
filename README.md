@@ -27,6 +27,7 @@ You only need to change it if you're working with the **Special Equipment Vendor
 ### Attributes
 * Use a hyphen "-" if the item doesn't have major, minor attributes, a native weapon bonus or lacks a talent. Don't delete the fields.
 * The same for performance mods that don't have a main stat.
+
 Examples for these are Pistols, which don't have a native bonus and just two talents. Holsters and gloves, which doesn't have minor attributes, and so on.
 
 ### Abbreviations
