@@ -5,13 +5,13 @@
     "vendor": "Autumn's Hope",
     "score":  "256",
     "name":   "Reckless Chest",
-    "armor":  "1,774",
-    "price":  "$1,112,880",
-    "fire":   "-",
-    "stam":   "1140",
-    "elec":   "-",
-    "major":  "+7% Dmg to Elites<br/>+7% Protection from Elites",
-    "minor":  "+27% Increased Kill XP"
+    "armor":  "1,785",
+    "price":  "$ 1,112,880",
+    "fire":   "205",
+    "stam":   "1,262",
+    "elec":   "205",
+    "major":  "5% Health on Kill<br/>9.50% Exotic Damage Resilience",
+    "minor":  "24% Increased Kill XP"
   },
   {
     "type":       "gear-mod",
@@ -19,29 +19,29 @@
     "vendor":     "Autumn's Hope",
     "stat":       "-",
     "price":      "$ 168,044",
-    "attribute":  "+4.0% Ballistic Shield dmg resilience"
+    "attribute":  "5.0% Pulse duration"
   },
 
   {
     "type":     "weapon",
     "vendor":   "Wolves Den",
     "score":    "256",
-    "name":     "Custom L86 A2",
+    "name":     "Marine Super 90",
     "price":    "$ 1,669,320",
-    "bonus":    "14% DMG Out of Cover",
-    "dmg":      "16.3k",
-    "rpm":      "610",
-    "mag":      "30",
-    "talent1":  "Brutal",
-    "talent2":  "Meticulous",
-    "talent3":  "Talented"
+    "bonus":    "302.0% Stagger",
+    "dmg":      "98.1k",
+    "rpm":      "150",
+    "mag":      "8",
+    "talent1":  "Competent",
+    "talent2":  "Fierce",
+    "talent3":  "Sustained"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "Wolves Den",
-    "name":       "Small Grip - Red",
+    "name":       "Reflex Sight - Tan",
     "price":      "$ 174,722",
-    "attributes": "19% Crit Hit Dmg<br/>2.5% Stability<br/>4.5% Reload Speed"
+    "attributes": "4.0% Optimal Range<br/>2.0% Accuracy<br/>2.5% Stability"
   },
 
   {
@@ -49,14 +49,14 @@
     "rarity": "header-he",
     "vendor": "Dante's Run",
     "score":  "256",
-    "name":   "Accomplished Knee Pads",
-    "armor":  "1,665",
-    "price":  "$ 890,304",
-    "fire":   "-",
-    "stam":   "1171",
-    "elec":   "-",
-    "major":  "+3,259 Health",
-    "minor":  "+10.5% Enemy Armor Dmg<br/>+28% Bleed Resistance<br/>+27% Blind/Deaf Resistance"
+    "name":   "Forceful Chest",
+    "armor":  "1,911",
+    "price":  "$ 1,112,880",
+    "fire":   "1,216",
+    "stam":   "205",
+    "elec":   "205",
+    "major":  "6,521 Health<br/>7% Damage to Elites",
+    "minor":  "50% Ammo Capacity"
   },
   {
     "type":       "gear-mod",
@@ -64,29 +64,29 @@
     "name":       "Performance Mod",
     "stat":       "-",
     "price":      "$ 168,044",
-    "attribute":  "4.5% Pulse duration"
+    "attribute":  "7.50% Turret duration"
   },
 
   {
     "type":     "weapon",
     "vendor":   "Kerman Station",
     "score":    "256",
-    "name":     "Black Market SASG-12 S",
+    "name":     "SASG-12",
     "price":    "$ 1,669,320",
-    "bonus":    "+335.0% Stagger",
-    "dmg":      "84.3k",
+    "bonus":    "340.50% Stagger",
+    "dmg":      "86.1k",
     "rpm":      "180",
     "mag":      "7",
-    "talent1":  "Self-preserved",
-    "talent2":  "Swift",
-    "talent3":  "Adept"
+    "talent1":  "Competent",
+    "talent2":  "Brutal",
+    "talent3":  "Swift"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "Kerman Station",
-    "name":       "Compensator",
+    "name":       "Flash Hider",
     "price":      "$ 174,722",
-    "attributes": "11.5% Stability<br/>6.0% Headshot Dmg<br/>4.5% Optimal Range"
+    "attributes": "16.50% Accuracy<br/>3.0% Critical Hit Chance<br/>4% Critical Hit Damage"
   },
 
   {
@@ -94,14 +94,14 @@
     "rarity": "header-he",
     "vendor": "The Cavern",
     "score":  "256",
-    "name":   "Specialized Backpack",
-    "armor":  "2,091",
-    "price":  "$ 1,112,880",
-    "fire":   "1202",
-    "stam":   "-",
-    "elec":   "-",
-    "major":  "+819 Armor",
-    "minor":  "+16% Bleed Resistance"
+    "name":   "Decisive Gloves",
+    "armor":  "907",
+    "price":  "$ 890,304",
+    "fire":   "205",
+    "stam":   "1,220",
+    "elec":   "205",
+    "major":  "5.0% Critical Hit Chance<br/>1,165 Shotgun Damage<br/>9% Damage to Elites",
+    "minor":  "-"
   },
   {
     "type":       "gear-mod",
@@ -109,51 +109,51 @@
     "name":       "Performance Mod",
     "stat":       "-",
     "price":      "$ 168,044",
-    "attribute":  "3.5% Mobile Cover dmg resilience"
+    "attribute":  "5.50% First Aid ally heal"
   },
 
   {
     "type":     "weapon",
     "vendor":   "The Meat Locker",
     "score":    "256",
-    "name":     "Custom M44",
+    "name":     "PP-19",
     "price":    "$ 1.669,320",
-    "bonus":    "161% Headshot Damage",
-    "dmg":      "101k",
-    "rpm":      "55",
-    "mag":      "5",
-    "talent1":  "Dominant",
-    "talent2":  "Destructive",
-    "talent3":  "Disciplined"
+    "bonus":    "31% Critical Hit Damage",
+    "dmg":      "15.2k",
+    "rpm":      "700",
+    "mag":      "53",
+    "talent1":  "Predatory",
+    "talent2":  "Determined",
+    "talent3":  "Hurried"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "The Meat Locker",
-    "name":       "Ti-RANT Suppressor",
+    "name":       "Angled Grip",
     "price":      "$ 174,722",
-    "attributes": "6.5% Crit Hit Chance<br/>2.5% Stability<br/>4.5% Optimal Range<br/>+45% Reduced Threat"
+    "attributes": "12% Stability<br/>5.0% Optimal Range<br/>4.50% Reload Speed"
   },
 
   {
     "type":     "weapon",
     "vendor":   "Camp Hudson Weapon Vendor",
     "score":    "256",
-    "name":     "Custom L86 A2",
+    "name":     "Tactical SASG-12 K",
     "price":    "$ 1,669,320",
-    "bonus":    "14% DMG to target out of cover",
-    "dmg":      "16.0k",
-    "rpm":      "610",
-    "mag":      "30",
-    "talent1":  "Deadly",
-    "talent2":  "Accurate",
-    "talent3":  "Prepared"
+    "bonus":    "317.50% Stagger",
+    "dmg":      "82.5k",
+    "rpm":      "180",
+    "mag":      "7",
+    "talent1":  "Unforgiving",
+    "talent2":  "Meticulous",
+    "talent3":  "Brutal"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "Camp Hudson Weapon Vendor",
-    "name":       "Osprey .45 suppressor",
+    "name":       "Osprey .45 Suppressor",
     "price":      "$ 174,722",
-    "attributes": "15.0% Accuracy<br/>6% Headshot Damage<br/>4.5% Optimal Range<br/>+48% Reduced Threat"
+    "attributes": "14.50% Accuracy<br/>4.50% Optimal Range<br/>3.0% Critical Hit Chance"
   },
 
   {
@@ -162,21 +162,21 @@
     "vendor": "Camp Hudson Gear Vendor",
     "score":  "256",
     "name":   "Astute Gloves",
-    "armor":  "871",
+    "armor":  "949",
     "price":  "$ 890,304",
-    "fire":   "-",
-    "stam":   "-",
-    "elec":   "1203",
-    "major":  "+1,178 LMG Damage<br/>+1,145 Pistol Damage<br/>+10% Damage to Elites",
+    "fire":   "205",
+    "stam":   "1,261",
+    "elec":   "205",
+    "major":  "4,470 Marksman Rifle Damage<br/>4% Health on Kill<br/>16% Critical Hit Damage",
     "minor":  "-"
   },
   {
     "type":       "gear-mod",
     "vendor":     "Camp Hudson Gear Vendor",
-    "name":       "Performance Mod",
-    "stat":       "-",
+    "name":       "Electronics Mod",
+    "stat":       "256",
     "price":      "$ 168,044",
-    "attribute":  "6.5% Support Station duration"
+    "attribute":  "263 Armor"
   }
 
 ]

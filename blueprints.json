@@ -1,39 +1,39 @@
 [
   {
     "type":   "blueprint",
-    "name":   "Classic RPK-74",
+    "name":   "Military M9",
+    "score":  "256",
+    "price":  "PxC 749"
+  },
+  {
+    "type":   "blueprint",
+    "name":   "MG5",
     "score":  "256",
     "price":  "PxC 915"
   },
   {
     "type":   "blueprint",
-    "name":   "Converted USC",
+    "name":   "Electronics Mask",
     "score":  "256",
-    "price":  "PxC 915"
+    "price":  "PxC 582"
   },
   {
     "type":   "blueprint",
-    "name":   "Stamina Gloves",
+    "name":   "Firearms Gloves",
     "score":  "256",
-    "price":  "PxC 449"
+    "price":  "PxC 499"
   },
   {
     "type":   "blueprint",
-    "name":   "Electronics Backpack",
-    "score":  "256",
-    "price":  "PxC 665"
-  },
-  {
-    "type":   "blueprint",
-    "name":   "Angle Grip - Red<br/>Stability, Random, Random",
+    "name":   "High Velocity Magazine<br/>Critical Hit Chance, Random, Random",
     "score":  "34",
-    "price":  "PxC 200"
+    "price":  "PxC 192"
   },
   {
     "type":   "blueprint",
-    "name":   "EXPS3 Holographic Sight - Tan<br/>Optimal Range, Random, Random",
+    "name":   "Quick Release Magazine<br/>Reload Speed, Random, Random",
     "score":  "34",
-    "price":  "PxC 200"
+    "price":  "PxC 192"
   },
   {
     "type":   "blueprint",
