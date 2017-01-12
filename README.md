@@ -25,6 +25,7 @@ You only need to change it if you're working with the **Special Equipment Vendor
 * For mods, just use the simplified name. Examples: **Stamina Mod, Electronics Mod, Performance Mod**.
 
 ### Attributes
+* Use a hyphen "-" for the fixed main stats on gear items instead of the number 205.
 * Use a hyphen "-" if the item doesn't have major, minor attributes, a native weapon bonus or lacks a talent. Don't delete the fields.
 * The same for performance mods that don't have a main stat.
 
