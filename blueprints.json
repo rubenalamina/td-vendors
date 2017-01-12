@@ -46,5 +46,29 @@
     "name":   "Firearms Mod",
     "score":  "34",
     "price":  "PxC 192"
+  },
+  {
+    "type":   "blueprint",
+    "name":   "SRS A1",
+    "score":  "GS229",
+    "price":  "PxC 627"
+  },
+  {
+    "type":   "blueprint",
+    "name":   "586 Magnum",
+    "score":  "GS229",
+    "price":  "PxC 470"
+  },
+  {
+    "type":   "blueprint",
+    "name":   "MP7",
+    "score":  "GS204",
+    "price":  "PxC 340"
+  },
+  {
+    "type":   "blueprint",
+    "name":   "Black Market RPK-74 E",
+    "score":  "GS204",
+    "price":  "PxC 340"
   }
 ]

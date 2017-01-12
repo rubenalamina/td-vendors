@@ -30,8 +30,8 @@
     "armor":  "865",
     "price":  "$ 890304",
     "fire":   "1,178",
-    "stam":   "205",
-    "elec":   "205",
+    "stam":   "-",
+    "elec":   "-",
     "major":  "1,168 Assualt Rifle Damage<br/>5.0% Critical Hit Chance<br/>1,221 Pistol Damage",
     "minor":  "-"
   },
@@ -98,8 +98,8 @@
     "armor":  "1,635",
     "price":  "$ 890,304",
     "fire":   "1,185",
-    "stam":   "205",
-    "elec":   "205",
+    "stam":   "-",
+    "elec":   "-",
     "major":  "8% Critical Hit Damage",
     "minor":  "30% Disorient Resistance<br/>54% Increased Kill XP<br/>28% Burn Resistance"
   },
