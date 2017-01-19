@@ -3,22 +3,22 @@
     "type":     "weapon",
     "vendor":   "The Crypt",
     "score":    "256",
-    "name":     "Tactical UMP-45",
+    "name":     "M870 Express",
     "price":    "$ 1,669,320",
-    "bonus":    "32% Critical Hit Damage",
-    "dmg":      "17.0k",
-    "rpm":      "600",
-    "mag":      "30",
-    "talent1":  "Dominant",
-    "talent2":  "Determined",
-    "talent3":  "Ambusher"
+    "bonus":    "312% Stagger",
+    "dmg":      "128k",
+    "rpm":      "75",
+    "mag":      "5",
+    "talent1":  "Responsive",
+    "talent2":  "Adept",
+    "talent3":  "Trained"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "The Crypt",
-    "name":       "EXPS3 Holographic Sight",
+    "name":       "Ospre .45 suppressor",
     "price":      "$ 174,722",
-    "attributes": "24.50% Optimal Range<br/>4% Critical Hit Damage<br/>2.50% Stability"
+    "attributes": "16.5% Accuracy<br/>2.5% Stability<br/>2.50% Crit Hit Chance<br/>49% Reduced Threat"
   },
 
   {
@@ -26,44 +26,44 @@
     "rarity": "header-he",
     "vendor": "The Firewall",
     "score":  "256",
-    "name":   "Astute Gloves",
-    "armor":  "865",
+    "name":   "Cunning Gloves",
+    "armor":  "987",
     "price":  "$ 890304",
-    "fire":   "1,178",
+    "fire":   "-",
     "stam":   "-",
-    "elec":   "-",
-    "major":  "1,168 Assualt Rifle Damage<br/>5.0% Critical Hit Chance<br/>1,221 Pistol Damage",
+    "elec":   "1156",
+    "major":  "14% Crit Hit Damage<br/>1,240 Assault Rifle Damage<br/>4% Health on Kill",
     "minor":  "-"
   },
   {
     "type":       "gear-mod",
     "vendor":     "The Firewall",
-    "name":       "Stamina Mod",
-    "stat":       "256",
+    "name":       "Firearms Mod",
+    "stat":       "237",
     "price":      "$ 168,044",
-    "attribute":  "256 Armor"
+    "attribute":  "2.5% Exotic Dmg Resilience"
   },
 
   {
     "type":     "weapon",
     "vendor":   "The Grindhouse",
     "score":    "256",
-    "name":     "Police UMP-45",
+    "name":     "Covert SRS",
     "price":    "$ 1,669,320",
-    "bonus":    "30% Critical Hit Damage",
-    "dmg":      "17.0K",
-    "rpm":      "600",
-    "mag":      "30",
-    "talent1":  "Vicious",
-    "talent2":  "Predatory",
-    "talent3":  "Ambusher"
+    "bonus":    "147% Headshot Damage",
+    "dmg":      "99.6K",
+    "rpm":      "53",
+    "mag":      "7",
+    "talent1":  "Predatory",
+    "talent2":  "Determined",
+    "talent3":  "Intense"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "The Grindhouse",
-    "name":       "552 Holosight",
+    "name":       "PEQ-15 Laser - Red",
     "price":      "$ 174,722",
-    "attributes": "6.50% Critical Hit Chance<br/>4.50% Optimal Range<br/>4% Critical Hit Damage<br/>"
+    "attributes": "16.0% Accuracy<br/>4.5% Optimal Range<br/>4% Critical Hit Damage<br/>"
   },
 
   {
@@ -71,22 +71,22 @@
     "rarity": "header-he",
     "vendor": "Southpaw",
     "score":  "256",
-    "name":   "Sturdy Holster",
-    "armor":  "1,539",
+    "name":   "Inventive Backpack",
+    "armor":  "1,168",
     "price":  "$ 779,016",
-    "fire":   "1,184",
-    "stam":   "1,159",
-    "elec":   "1,271",
-    "major":  "661 armor",
-    "minor":  "-"
+    "fire":   "-",
+    "stam":   "1192",
+    "elec":   "-",
+    "major":  "7% Skill Haste",
+    "minor":  "52% Ammo Capacity"
   },
   {
     "type":       "gear-mod",
     "vendor":     "Southpaw",
-    "name":       "Performance Mod",
-    "stat":       "-",
+    "name":       "Firearms Mod",
+    "stat":       "233",
     "price":      "$ 168,044",
-    "attribute":  "4.50% Pulse duration"
+    "attribute":  "1.0% Crit Hit Chance"
   },
 
   {
@@ -94,44 +94,44 @@
     "rarity": "header-he",
     "vendor": "The Ward",
     "score":  "256",
-    "name":   "Prosperous Kneepads",
-    "armor":  "1,635",
-    "price":  "$ 890,304",
-    "fire":   "1,185",
-    "stam":   "-",
-    "elec":   "-",
-    "major":  "8% Critical Hit Damage",
-    "minor":  "30% Disorient Resistance<br/>54% Increased Kill XP<br/>28% Burn Resistance"
+    "name":   "Steadfast Holster",
+    "armor":  "991",
+    "price":  "$ 779,016",
+    "fire":   "1204",
+    "stam":   "1220",
+    "elec":   "1132",
+    "major":  "5% Skill Haste",
+    "minor":  "-"
   },
   {
     "type":       "gear-mod",
     "vendor":     "The Ward",
-    "name":       "Performance Mod",
-    "stat":       "-",
+    "name":       "Electronics Mod",
+    "stat":       "244",
     "price":      "$ 168,044",
-    "attribute":  "7.0% Support Station duration"
+    "attribute":  "2.5% Exotic Damage Resilience"
   },
 
   {
     "type":     "weapon",
     "vendor":   "The Last Call",
     "score":    "256",
-    "name":     "Lightweight M4",
+    "name":     "Classic M1A",
     "price":    "$ 1,669,320",
-    "bonus":    "19% Enemy Armor Damage",
-    "dmg":      "16.2K",
-    "rpm":      "850",
-    "mag":      "30",
-    "talent1":  "Vicious",
-    "talent2":  "Capable",
-    "talent3":  "Deadly"
+    "bonus":    "163% Headshot Damage",
+    "dmg":      "52.5K",
+    "rpm":      "300",
+    "mag":      "10",
+    "talent1":  "Commanding",
+    "talent2":  "Toxic",
+    "talent3":  "Proficient"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "The Last Call",
-    "name":       "Heavy Magazine Spring",
-    "price":      "$ 168,044",
-    "attributes": "3.0% Critical Hit Chance<br/>5.0% Reload Speed<br/>9.50% Rate of Fire"
+    "name":       "Omega rifle suppressor - Tan",
+    "price":      "$ 174,722",
+    "attributes": "17.0% Headshot Dmg<br/>2.5% Stability<br/>3.0% Crit Hit Chance<br/>46% Reduced Threat"
   },
 
   {
@@ -139,22 +139,22 @@
     "rarity": "header-he",
     "vendor": "Madison's Stand",
     "score":  "256",
-    "name":   "Steadfast Holster",
-    "armor":  "1,501",
-    "price":  "$ 779,016",
-    "fire":   "1,161",
-    "stam":   "1,125",
-    "elec":   "1,244",
-    "major":  "616 Armor",
-    "minor":  "-"
+    "name":   "Specialized Backpack",
+    "armor":  "1152",
+    "price":  "$ 1,112,880",
+    "fire":   "1258",
+    "stam":   "-",
+    "elec":   "-",
+    "major":  "9% Crit Hit Damage",
+    "minor":  "54% Ammo Capacity"
   },
   {
     "type":       "gear-mod",
     "vendor":     "Madison's Stand",
-    "name":       "Stamina Mod",
-    "stat":       "250",
+    "name":       "Performance Mod",
+    "stat":       "-",
     "price":      "$ 168,044",
-    "attribute":  "1.0% Critical Hit Chance"
+    "attribute":  "4.5% Ballistic Shield dmg resilience"
   }
 
 ]
