@@ -3,22 +3,22 @@
     "type":     "weapon",
     "vendor":   "The Crypt",
     "score":    "256",
-    "name":     "M870 Express",
+    "name":     "Super 90",
     "price":    "$ 1,669,320",
-    "bonus":    "312% Stagger",
-    "dmg":      "128k",
-    "rpm":      "75",
-    "mag":      "5",
-    "talent1":  "Responsive",
+    "bonus":    "304% Stagger",
+    "dmg":      "107k",
+    "rpm":      "150",
+    "mag":      "8",
+    "talent1":  "Trained",
     "talent2":  "Adept",
-    "talent3":  "Trained"
+    "talent3":  "Competent"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "The Crypt",
-    "name":       "Ospre .45 suppressor",
+    "name":       "T2 Micro Red Dot Sight - Tan",
     "price":      "$ 174,722",
-    "attributes": "16.5% Accuracy<br/>2.5% Stability<br/>2.50% Crit Hit Chance<br/>49% Reduced Threat"
+    "attributes": "5.50% Headshot damage<br/>2.5% Crit chance<br/>2% Accuracy"
   },
 
   {
@@ -26,44 +26,44 @@
     "rarity": "header-he",
     "vendor": "The Firewall",
     "score":  "256",
-    "name":   "Cunning Gloves",
-    "armor":  "987",
-    "price":  "$ 890304",
+    "name":   "Enduring Mask",
+    "armor":  "947",
+    "price":  "$ 1,001,592",
     "fire":   "-",
     "stam":   "-",
-    "elec":   "1156",
-    "major":  "14% Crit Hit Damage<br/>1,240 Assault Rifle Damage<br/>4% Health on Kill",
-    "minor":  "-"
+    "elec":   "1147",
+    "major":  "4% Critical Hit Chance",
+    "minor":  "7.50% Enemy Armor Damage"
   },
   {
     "type":       "gear-mod",
     "vendor":     "The Firewall",
-    "name":       "Firearms Mod",
-    "stat":       "237",
+    "name":       "Performance Mod",
+    "stat":       "-",
     "price":      "$ 168,044",
-    "attribute":  "2.5% Exotic Dmg Resilience"
+    "attribute":  "4.50% Support Station Healing Speed"
   },
 
   {
     "type":     "weapon",
     "vendor":   "The Grindhouse",
     "score":    "256",
-    "name":     "Covert SRS",
+    "name":     "Enhanced ACR-E",
     "price":    "$ 1,669,320",
-    "bonus":    "147% Headshot Damage",
-    "dmg":      "99.6K",
-    "rpm":      "53",
-    "mag":      "7",
-    "talent1":  "Predatory",
-    "talent2":  "Determined",
-    "talent3":  "Intense"
+    "bonus":    "21% Enemy Armor Damage",
+    "dmg":      "17.9K",
+    "rpm":      "760",
+    "mag":      "30",
+    "talent1":  "Determined",
+    "talent2":  "Meticulous",
+    "talent3":  "Accurate"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "The Grindhouse",
-    "name":       "PEQ-15 Laser - Red",
+    "name":       "Pro Red Dot Sight",
     "price":      "$ 174,722",
-    "attributes": "16.0% Accuracy<br/>4.5% Optimal Range<br/>4% Critical Hit Damage<br/>"
+    "attributes": "18% Critical Hit Damage<br/>6% Headshot Damage<br/>2% Accuracy"
   },
 
   {
@@ -71,22 +71,22 @@
     "rarity": "header-he",
     "vendor": "Southpaw",
     "score":  "256",
-    "name":   "Inventive Backpack",
-    "armor":  "1,168",
+    "name":   "Steadfast Holster",
+    "armor":  "1,458",
     "price":  "$ 779,016",
-    "fire":   "-",
-    "stam":   "1192",
-    "elec":   "-",
-    "major":  "7% Skill Haste",
-    "minor":  "52% Ammo Capacity"
+    "fire":   "1137",
+    "stam":   "1159",
+    "elec":   "1117",
+    "major":  "620 Armor",
+    "minor":  "-"
   },
   {
     "type":       "gear-mod",
     "vendor":     "Southpaw",
     "name":       "Firearms Mod",
-    "stat":       "233",
+    "stat":       "231 FA",
     "price":      "$ 168,044",
-    "attribute":  "1.0% Crit Hit Chance"
+    "attribute":  "256 Armor"
   },
 
   {
@@ -94,44 +94,44 @@
     "rarity": "header-he",
     "vendor": "The Ward",
     "score":  "256",
-    "name":   "Steadfast Holster",
-    "armor":  "991",
-    "price":  "$ 779,016",
-    "fire":   "1204",
-    "stam":   "1220",
-    "elec":   "1132",
-    "major":  "5% Skill Haste",
-    "minor":  "-"
+    "name":   "Reckless Chest",
+    "armor":  "1,888",
+    "price":  "$ 1,112,880",
+    "fire":   "1114",
+    "stam":   "-",
+    "elec":   "-",
+    "major":  "7% Protection from Elites<br/>6,200 Health",
+    "minor":  "28% Increased Kill XP"
   },
   {
     "type":       "gear-mod",
     "vendor":     "The Ward",
     "name":       "Electronics Mod",
-    "stat":       "244",
+    "stat":       "253 ELE",
     "price":      "$ 168,044",
-    "attribute":  "2.5% Exotic Damage Resilience"
+    "attribute":  "2% Skill Haste"
   },
 
   {
     "type":     "weapon",
     "vendor":   "The Last Call",
     "score":    "256",
-    "name":     "Classic M1A",
+    "name":     "MG5",
     "price":    "$ 1,669,320",
-    "bonus":    "163% Headshot Damage",
-    "dmg":      "52.5K",
-    "rpm":      "300",
-    "mag":      "10",
-    "talent1":  "Commanding",
-    "talent2":  "Toxic",
-    "talent3":  "Proficient"
+    "bonus":    "13% DMG out of cover",
+    "dmg":      "15.1K",
+    "rpm":      "800",
+    "mag":      "50",
+    "talent1":  "Adept",
+    "talent2":  "Accurate",
+    "talent3":  "Unforgiving"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "The Last Call",
-    "name":       "Omega rifle suppressor - Tan",
+    "name":       "Vertical Grip",
     "price":      "$ 174,722",
-    "attributes": "17.0% Headshot Dmg<br/>2.5% Stability<br/>3.0% Crit Hit Chance<br/>46% Reduced Threat"
+    "attributes": "44% Optimal Range<br/>3% Stability<br/>2% Accuracy"
   },
 
   {
@@ -139,14 +139,14 @@
     "rarity": "header-he",
     "vendor": "Madison's Stand",
     "score":  "256",
-    "name":   "Specialized Backpack",
-    "armor":  "1152",
-    "price":  "$ 1,112,880",
-    "fire":   "1258",
+    "name":   "Enduring Mask",
+    "armor":  "935",
+    "price":  "$ 1,001,592",
+    "fire":   "1268",
     "stam":   "-",
     "elec":   "-",
-    "major":  "9% Crit Hit Damage",
-    "minor":  "54% Ammo Capacity"
+    "major":  "5,439 Health",
+    "minor":  "14% Burn Resistance"
   },
   {
     "type":       "gear-mod",
@@ -154,7 +154,7 @@
     "name":       "Performance Mod",
     "stat":       "-",
     "price":      "$ 168,044",
-    "attribute":  "4.5% Ballistic Shield dmg resilience"
+    "attribute":  "5.50% First Aid Self Heal"
   }
 
 ]

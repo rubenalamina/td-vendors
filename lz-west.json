@@ -4,22 +4,22 @@
     "rarity": "header-he",
     "vendor": "Autumn's Hope",
     "score":  "256",
-    "name":   "Robust Chest",
-    "armor":  "1,970",
-    "price":  "$ 1,112,880",
-    "fire":   "-",
-    "stam":   "-",
-    "elec":   "1203",
-    "major":  "7% Damage to Elites<br/>9.50% Exotic Damage Resilience",
-    "minor":  "27% Increased Kill XP"
+    "name":   "Sturdy Holster",
+    "armor":  "867",
+    "price":  "$ 779,016",
+    "fire":   "1185",
+    "stam":   "1186",
+    "elec":   "1230",
+    "major":  "6% Skill Haste",
+    "minor":  "-"
   },
   {
     "type":       "gear-mod",
-    "name":       "Firearms Mod",
+    "name":       "Prototype Performance Mod",
     "vendor":     "Autumn's Hope",
-    "stat":       "265",
+    "stat":       "-",
     "price":      "$ 168,044",
-    "attribute":  "3% Skill Haste"
+    "attribute":  "5% First Aid Self Health"
   },
 
   {
@@ -28,20 +28,20 @@
     "score":    "256",
     "name":     "G36 Enhanced",
     "price":    "$ 1,669,320",
-    "bonus":    "23% Enemy Armor Damage",
-    "dmg":      "17.2K",
+    "bonus":    "21% Enemy Armor Damage",
+    "dmg":      "18.6K",
     "rpm":      "750",
     "mag":      "30",
-    "talent1":  "Determined",
-    "talent2":  "Predatory",
+    "talent1":  "Skilled",
+    "talent2":  "Adept",
     "talent3":  "Focused"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "Wolves Den",
-    "name":       "Vertical Grip",
+    "name":       "Small Grip",
     "price":      "$ 174,722",
-    "attributes": "47% Optimal Range<br/>2.0% Accuracy<br/>4.5% Reload Speed"
+    "attributes": "18% Critical Hit Damage<br/>2.0% Accuracy<br/>4.5% Reload Speed"
   },
 
   {
@@ -49,44 +49,44 @@
     "rarity": "header-he",
     "vendor": "Dante's Run",
     "score":  "256",
-    "name":   "Astute Gloves",
-    "armor":  "986",
-    "price":  "$ 890,304",
-    "fire":   "-",
-    "stam":   "-",
-    "elec":   "1153",
-    "major":  "5% Critical Hit Chance<br/>996 SMG Damage<br/>16% Critical Hit Damage",
+    "name":   "Steadfast Holster",
+    "armor":  "982",
+    "price":  "$ 779,016",
+    "fire":   "1147",
+    "stam":   "1114",
+    "elec":   "1250",
+    "major":  "600 Pistol Damage",
     "minor":  "-"
   },
   {
     "type":       "gear-mod",
     "vendor":     "Dante's Run",
-    "name":       "Performance Mod",
-    "stat":       "-",
+    "name":       "Electronics Mod",
+    "stat":       "238",
     "price":      "$ 168,044",
-    "attribute":  "4.5% Suport Station Healing Speed"
+    "attribute":  "3% Skill Haste"
   },
 
   {
     "type":     "weapon",
     "vendor":   "Kerman Station",
     "score":    "256",
-    "name":     "Tactical Vector 45 ACP",
+    "name":     "Black Market T821",
     "price":    "$ 1,669,320",
-    "bonus":    "31% Critical Hit Damage",
-    "dmg":      "14.5K",
-    "rpm":      "750",
-    "mag":      "20",
-    "talent1":  "Responsive",
-    "talent2":  "Determined",
-    "talent3":  "Ferocious"
+    "bonus":    "32% Critical Hit Damage",
+    "dmg":      "17.4K",
+    "rpm":      "550",
+    "mag":      "32",
+    "talent1":  "Self-preserved",
+    "talent2":  "Responsive",
+    "talent3":  "Vicious"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "Kerman Station",
-    "name":       "Heavy Magazine Spring",
-    "price":      "$ 168,044",
-    "attributes": "10.40 Rate of Fire<br/>3.0% Critical Hit Chance<br/>4% Critical Hit Damage"
+    "name":       "Angled Grip - Red",
+    "price":      "$ 174,722",
+    "attributes": "12% Stability<br/>4.0% Critical Hit Damage<br/>4.5% Optimal Range"
   },
 
   {
@@ -94,14 +94,14 @@
     "rarity": "header-he",
     "vendor": "The Cavern",
     "score":  "256",
-    "name":   "Technical Backpack",
-    "armor":  "1269",
-    "price":  "$ 1,112,880",
+    "name":   "Prosperous Knee Pads",
+    "armor":  "2706",
+    "price":  "$ 890,304",
     "fire":   "-",
-    "stam":   "1,239",
+    "stam":   "1,257",
     "elec":   "-",
-    "major":  "7% Skill Haste",
-    "minor":  "14% Disrupt Resistance"
+    "major":  "1146 Armor",
+    "minor":  "30% Disorient Resistance<br/>28% Bleed Resistance<br/>29% Disrupt Resistance"
   },
   {
     "type":       "gear-mod",
@@ -109,51 +109,51 @@
     "name":       "Performance Mod",
     "stat":       "-",
     "price":      "$ 168,044",
-    "attribute":  "6% Seeker Mine Explosion Radius"
+    "attribute":  "5% Smart Cover Duration"
   },
 
   {
     "type":     "weapon",
     "vendor":   "The Meat Locker",
     "score":    "256",
-    "name":     "Military MK46",
+    "name":     "Black Market SASG-12 S",
     "price":    "$ 1.669,320",
-    "bonus":    "12% Damage Out of Cover",
-    "dmg":      "15.2k",
-    "rpm":      "550",
-    "mag":      "100",
-    "talent1":  "Determined",
-    "talent2":  "Deadly",
-    "talent3":  "Competent"
+    "bonus":    "324.50% Stagger",
+    "dmg":      "93.2K",
+    "rpm":      "180",
+    "mag":      "7",
+    "talent1":  "Accurate",
+    "talent2":  "Competent",
+    "talent3":  "Meticulous"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "The Meat Locker",
-    "name":       "Acog Scope 4x",
+    "name":       "Small Laser Pointer",
     "price":      "$ 174,722",
-    "attributes": "15.5% Accuracy<br/>4.5% Optimal Range<br/>5.5% Headshot Damage"
+    "attributes": "14.5% Accuracy<br/>4.5% Optimal Range<br/>4.5 Reload Speed"
   },
 
   {
     "type":     "weapon",
     "vendor":   "Camp Hudson Weapon Vendor",
     "score":    "256",
-    "name":     "Double Barrel Sawed Off Shotgun",
+    "name":     "SRS A1",
     "price":    "$ 1,669,320",
-    "bonus":    "2950% Stagger",
-    "dmg":      "118k",
-    "rpm":      "200",
-    "mag":      "2",
-    "talent1":  "Trained",
-    "talent2":  "Commanding",
-    "talent3":  "Deadly"
+    "bonus":    "170% Headshot Damage",
+    "dmg":      "102k",
+    "rpm":      "53",
+    "mag":      "7",
+    "talent1":  "Unforgiving",
+    "talent2":  "Capable",
+    "talent3":  "Destructive"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "Camp Hudson Weapon Vendor",
-    "name":       "PEQ-15 Laser - Red",
+    "name":       "Rugged Mini Reflex Sight",
     "price":      "$ 174,722",
-    "attributes": "15% Accuracy<br/>2.5% Stability<br/>4.0% Critical Hit Damage"
+    "attributes": "7% Critical Hit Chance<br/>4% Critical Hit Damage<br/>2.5% Stability"
   },
 
   {
@@ -161,22 +161,22 @@
     "rarity": "header-he",
     "vendor": "Camp Hudson Gear Vendor",
     "score":  "256",
-    "name":   "Enduring Mask",
-    "armor":  "949",
+    "name":   "Rejuvenated",
+    "armor":  "864",
     "price":  "$ 1,001,592",
-    "fire":   "1143",
+    "fire":   "1194",
     "stam":   "-",
     "elec":   "-",
-    "major":  "9% Damage to Elites",
-    "minor":  "14% Increased Skill XP"
+    "major":  "5,382 Health",
+    "minor":  "12% Increased Kill XP"
   },
   {
     "type":       "gear-mod",
     "vendor":     "Camp Hudson Gear Vendor",
-    "name":       "Firearms Mod",
-    "stat":       "261",
+    "name":       "Stamina Mod",
+    "stat":       "235 STA",
     "price":      "$ 168,044",
-    "attribute":  "2.5% Exotic Damage Resilience"
+    "attribute":  "1% Critical Hit Chance"
   }
 
 ]
