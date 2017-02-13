@@ -2,49 +2,49 @@
 
   {
     "type":   "blueprint",
-    "name":   "MP7",
+    "name":   "First Wave PF45",
     "score":  "256",
-   "price":  "PxC 915"
+   "price":  "PxC 749"
   },
 
   {
     "type":   "blueprint",
-    "name":   "M870 Express",
+    "name":   "Super 90",
     "score":  "256",
   "price":  "PxC 998"
   },
 
   {
     "type":   "blueprint",
-    "name":   "Electronics Chest",
+    "name":   "Firearms Gloves",
     "score":  "256",
-  "price":  "PxC 665"
+  "price":  "PxC 499"
   },
 
   {
     "type":   "blueprint",
-    "name":   "Stamina Backpack",
+    "name":   "Electronics Mask",
     "score":  "256",
-    "price":  "PxC 665"
+    "price":  "PxC 582"
   },
 
   {
     "type":   "blueprint",
-    "name":   "Small Laser Pointer<br/>Accuracy, Random, Random",
+    "name":   "Flash Hider<br/>Accuracy, Random, Random",
     "score":  "34",
     "price":  "PxC 200"
   },
 
   {
     "type":   "blueprint",
-    "name":   "Ti-RANT Suppressor<br/>Accuracy, Random, Random",
+    "name":   "Vertical Grip - Foilage Green<br/>Optimal Range, Random, Random",
     "score":  "34",
     "price":  "PxC 200"
   },
 
   {
     "type":   "blueprint",
-    "name":   "Stamina Gear Mod",
+    "name":   "Firearms Gear Mod",
     "score":  "34",
     "price":  "PxC 192"
   },
@@ -58,9 +58,9 @@
 
   {
     "type":   "blueprint",
-    "name":   "Classic FAL",
+    "name":   "Double Barrel Shotgun",
     "score":  "229",
-    "price":  "PxC 679"
+    "price":  "PxC 627"
   },
 
   {
@@ -72,13 +72,13 @@
 
   {
     "type":   "blueprint",
-    "name":   "Custom P416 G3",
+    "name":   "MP7",
     "score":  "204",
-    "price":  "PxC 402"
+    "price":  "PxC 340"
   },
   {
     "type":   "blueprint",
-    "name":   "Converted SMG-9 A2",
+    "name":   "Black Market RPK-74 E",
     "score":  "204",
     "price":  "PxC 340"
   }
