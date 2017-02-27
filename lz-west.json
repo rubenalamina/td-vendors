@@ -4,44 +4,44 @@
     "rarity": "header-he",
     "vendor": "Autumn's Hope",
     "score":  "256",
-    "name":   "Refreshed Mask",
-    "armor":  "1,001",
-    "price":  "$ 1,001,592",
-    "fire":   "1143",
+    "name":   "Cunning Gloves",
+    "armor":  "958",
+    "price":  "$ 890,304",
+    "fire":   "-",
     "stam":   "-",
-    "elec":   "-",
-    "major":  "9,226 Skill Power",
-    "minor":  "14% Disorient Resistance"
+    "elec":   "1233",
+    "major":  "9% Damage To Elites<br />5.0% Critical Hit Chance<br />4% Health on Kill",
+    "minor":  "-"
   },
   {
     "type":       "gear-mod",
-    "name":       "Electronics Mod",
+    "name":       "Performance Mod",
     "vendor":     "Autumn's Hope",
-    "stat":       "237 ELE",
+    "stat":       "-",
     "price":      "$ 168,044",
-    "attribute":  "251 Armor"
+    "attribute":  "5.50% First Aid Ally Heal"
   },
 
   {
     "type":     "weapon",
     "vendor":   "Wolves Den",
     "score":    "256",
-    "name":     "Classic FAL",
+    "name":     "Paratrooper SVD",
     "price":    "$ 1,669,320",
-    "bonus":    "23% Enemy Armor Damage",
-    "dmg":      "23.5K",
-    "rpm":      "650",
-    "mag":      "20",
-    "talent1":  "Skilled",
-    "talent2":  "Ferocious",
-    "talent3":  "Vicious"
+    "bonus":    "142% Headshot Damage",
+    "dmg":      "46.2K",
+    "rpm":      "260",
+    "mag":      "10",
+    "talent1":  "Intense",
+    "talent2":  "Unforgiving",
+    "talent3":  "Disciplined"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "Wolves Den",
-    "name":       "Compensator",
+    "name":       "552 Holosight Tan",
     "price":      "$ 174,722",
-    "attributes": "12.5% Stability<br/>2% Accuracy<br/>4% Crit Hit Damage"
+    "attributes": "6.50% Critical Hit Chance<br/>5.50% Headshot Damaage<br/>4% Critical Hit Damage"
   },
 
   {
@@ -49,14 +49,14 @@
     "rarity": "header-he",
     "vendor": "Dante's Run",
     "score":  "256",
-    "name":   "Specialized Backpack",
-    "armor":  "1,282",
+    "name":   "Vigorous Chest",
+    "armor":  "1,961",
     "price":  "$ 1,112,880",
     "fire":   "-",
     "stam":   "-",
-    "elec":   "1147",
-    "major":  "13% Signature Ability Gain",
-    "minor":  "17% Burn Resistance"
+    "elec":   "1127",
+    "major":  "7% Damage to Elites<br />4% Health on Kill",
+    "minor":  "50% Ammo Capacity"
   },
   {
     "type":       "gear-mod",
@@ -64,29 +64,29 @@
     "name":       "Performance Mod",
     "stat":       "-",
     "price":      "$ 168,044",
-    "attribute":  "4% Turret Damage"
+    "attribute":  "5.0% Pulse Duration"
   },
 
   {
     "type":     "weapon",
     "vendor":   "Kerman Station",
     "score":    "256",
-    "name":     "Converted USC",
+    "name":     "Tactical Super 90 SBS",
     "price":    "$ 1,669,320",
-    "bonus":    "33% Critical Hit Damage",
-    "dmg":      "17.5K",
-    "rpm":      "650",
-    "mag":      "20",
-    "talent1":  "Vicious",
-    "talent2":  "Determined",
-    "talent3":  "Ambusher"
+    "bonus":    "305.0% Stagger",
+    "dmg":      "102K",
+    "rpm":      "150",
+    "mag":      "8",
+    "talent1":  "Sustained",
+    "talent2":  "Ferocious",
+    "talent3":  "Predatory"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "Kerman Station",
-    "name":       "Heavy Spring Magazine",
-    "price":      "$ 168,044",
-    "attributes": "3% Critical Hit Chance<br/>4.5% Reload Speed<br/>10.10% Rate of Fire"
+    "name":       "Mk4 M5A2 Scope (15x)",
+    "price":      "$ 174,722",
+    "attributes": "22.50% Optimal Range<br />4% Critical Hit Damage<br />3.0% Critical Hit Chance"
   },
 
   {
@@ -94,22 +94,22 @@
     "rarity": "header-he",
     "vendor": "The Cavern",
     "score":  "256",
-    "name":   "Reckless Chest",
-    "armor":  "2,903",
-    "price":  "$1,112,880",
-    "fire":   "-",
+    "name":   "Accomplished Kneepads",
+    "armor":  "1504",
+    "price":  "$ 890,304",
+    "fire":   "1135",
     "stam":   "-",
-    "elec":   "1224",
-    "major":  "1,190 Armor<br/>4% Health on Kill",
-    "minor":  "56% Ammo Capacity"
+    "elec":   "-",
+    "major":  "4% Protection from Elites",
+    "minor":  "30% Disorient Resistance<br />56% Increased Kill XP<br />29% Burn Resistance"
   },
   {
     "type":       "gear-mod",
     "vendor":     "The Cavern",
-    "name":       "Electronics Mod",
-    "stat":       "265 ELE",
+    "name":       "Performance Mod",
+    "stat":       "-",
     "price":      "$ 168,044",
-    "attribute":  "256 Armor"
+    "attribute":  "6.50% Mobile Cover Health"
   },
 
   {
@@ -119,41 +119,41 @@
     "name":     "Tactical SA-58",
     "price":    "$ 1,669,320",
     "bonus":    "19% Enemy Armor Damage",
-    "dmg":      "24.1K",
+    "dmg":      "25.6K",
     "rpm":      "650",
     "mag":      "20",
-    "talent1":  "Vicious",
-    "talent2":  "Swift",
-    "talent3":  "Accurate"
+    "talent1":  "Competent",
+    "talent2":  "Talented",
+    "talent3":  "Determined"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "The Meat Locker",
-    "name":       "Ti-Rant Suppressor",
+    "name":       "Omega Rifle Suppressor",
     "price":      "$ 174,722",
-    "attributes": "7.5% Critical Hit Chance<br/>2% Accuracy<br/>4.5% Opitmal Range<br/>42% Reduced Threat"
+    "attributes": "17.0% Headshot Damage<br />2.50% Stability<br />5.0% Optimal Range"
   },
 
   {
     "type":     "weapon",
     "vendor":   "Camp Hudson Weapon Vendor",
     "score":    "256",
-    "name":     "Socom M1A",
+    "name":     "Covert SRS",
     "price":    "$ 1,669,320",
-    "bonus":    "162% Headshot Damage",
-    "dmg":      "48.2K",
-    "rpm":      "300",
-    "mag":      "10",
-    "talent1":  "Trained",
-    "talent2":  "Deadly",
-    "talent3":  "Toxic"
+    "bonus":    "156% Headshot Damage",
+    "dmg":      "96.2K",
+    "rpm":      "53",
+    "mag":      "7",
+    "talent1":  "Talented",
+    "talent2":  "Accurate",
+    "talent3":  "Prepared"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "Camp Hudson Weapon Vendor",
-    "name":       "Ti-RANT Suppressor",
+    "name":       "SR-7 Suppressor",
     "price":      "$ 174,722",
-    "attributes": "6% Critical Hit Chance<br/>5.0% Optimal Range<br/>2.5% Stability<br/> 43% Reduced Threat"
+    "attributes": "19% Critical Hit Damage<br />4.50% Optimal Range<br />2.50% Critical Hit Chance"
   },
 
   {
@@ -161,22 +161,22 @@
     "rarity": "header-he",
     "vendor": "Camp Hudson Gear Vendor",
     "score":  "256",
-    "name":   "Rehabilitated Mask",
-    "armor":  "980",
-    "price":  "$ 1,001,592",
-    "fire":   "-",
-    "stam":   "1251",
-    "elec":   "-",
-    "major":  "8% Damage to Elites",
-    "minor":  "14% Increased Kill XP"
+    "name":   "Sturdy Holster",
+    "armor":  "1,607",
+    "price":  "$ 779,016",
+    "fire":   "1209",
+    "stam":   "1256",
+    "elec":   "1227",
+    "major":  "621 Armor",
+    "minor":  "-"
   },
   {
     "type":       "gear-mod",
     "vendor":     "Camp Hudson Gear Vendor",
-    "name":       "Stamina Mod",
-    "stat":       "263 STA",
+    "name":       "Performance Mod",
+    "stat":       "4.0% Turret Damage",
     "price":      "$ 168,044",
-    "attribute":  "3% Signature Ability Gain"
+    "attribute":  "-"
   }
 
 ]

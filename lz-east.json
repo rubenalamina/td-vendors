@@ -3,22 +3,22 @@
     "type":     "weapon",
     "vendor":   "The Crypt",
     "score":    "256",
-    "name":     "Enhanced Aug AP3",
+    "name":     "Lightweight M4",
     "price":    "$ 1,669,320",
-    "bonus":    "32% Critical Hit Damage",
-    "dmg":      "16.3K",
-    "rpm":      "725",
-    "mag":      "25",
-    "talent1":  "Commanding",
-    "talent2":  "Talented",
-    "talent3":  "Adept"
+    "bonus":    "20% Enemy Armor Damage",
+    "dmg":      "18.1K",
+    "rpm":      "850",
+    "mag":      "30",
+    "talent1":  "Capable",
+    "talent2":  "Determined",
+    "talent3":  "Ferocious"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "The Crypt",
-    "name":       "Extended Magazine",
-    "price":      "$ 168,044",
-    "attributes": "101.50% Magazine Size<br/>3.0% Critical Hit Chance<br/>3% Critical Hit Damage"
+    "name":       "CQBSS Scope",
+    "price":      "$ 174,722",
+    "attributes": "13.0% Stability<br />2.50% Critical Hit Chance<br />4% Critical Hit Damage"
   },
 
   {
@@ -26,44 +26,44 @@
     "rarity": "header-he",
     "vendor": "The Firewall",
     "score":  "256",
-    "name":   "Specialized Backpack",
-    "armor":  "1,265",
+    "name":   "Resourceful Backpack",
+    "armor":  "1,276",
     "price":  "$ 1,112,880",
     "fire":   "-",
     "stam":   "-",
-    "elec":   "1142",
-    "major":  "11,822 Skill Power",
-    "minor":  "17% Burn Resistance"
+    "elec":   "1171",
+    "major":  "13% Signature Ability Resource Gain",
+    "minor":  "14% Bleed Resistance"
   },
   {
     "type":       "gear-mod",
     "vendor":     "The Firewall",
-    "name":       "Prototype Performance Mod",
-    "stat":       "-",
+    "name":       "Stamina Mod",
+    "stat":       "231 STA",
     "price":      "$ 168,044",
-    "attribute":  "3% Smart Cover Damage Resilience"
+    "attribute":  "1,756 Health"
   },
 
   {
     "type":     "weapon",
     "vendor":   "The Grindhouse",
     "score":    "256",
-    "name":     "Black Market SASG-12 S",
+    "name":     "M700 Tactical",
     "price":    "$ 1,669,320",
-    "bonus":    "320% Stagger",
-    "dmg":      "90.5K",
-    "rpm":      "180",
+    "bonus":    "168% Headshot Damage",
+    "dmg":      "104K",
+    "rpm":      "54",
     "mag":      "7",
-    "talent1":  "Deadly",
-    "talent2":  "Adept",
-    "talent3":  "Predatory"
+    "talent1":  "Meticulous",
+    "talent2":  "Toxic",
+    "talent3":  "Elevated"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "The Grindhouse",
     "name":       "Peq-15 Laser",
     "price":      "$ 174,722",
-    "attributes": "16% Accuracy<br/>2% Stability<br/>4.5% Optimal Range"
+    "attributes": "16.0% Accuracy<br />2.50% Stability<br />4.0% Critical Hit Damage"
   },
 
   {
@@ -71,14 +71,16 @@
     "rarity": "header-he",
     "vendor": "Southpaw",
     "score":  "256",
-    "name":   "Decisive Gloves",
-    "armor":  "976",
-    "price":  "$ 890,304",
+    "name":   "Rehabilitated Mask",
+    "armor":  "991",
+    "price":  "$1,001,592",
     "fire":   "-",
-    "stam":   "1191",
+    "stam":   "1271",
     "elec":   "-",
-    "major":  "4% Health on Kill<br/>1,319 LMG Damage<br/>5.5% Critical Hit Chance",
-    "minor":  "-"
+    "major":  "9.50% Eexotic Damage Resilience",
+    "minor":  "16% Blind/Deaf Resistance"
+
+
   },
   {
     "type":       "gear-mod",
@@ -86,7 +88,7 @@
     "name":       "Performance Mod",
     "stat":       "-",
     "price":      "$ 168,044",
-    "attribute":  "4.5% Ballistic Shield Damage Resilience"
+    "attribute":  "2.0% Pulse Critical Hit Damage"
   },
 
   {
@@ -94,44 +96,44 @@
     "rarity": "header-he",
     "vendor": "The Ward",
     "score":  "256",
-    "name":   "Rapid Chest",
-    "armor":  "1,739",
-    "price":  "$ 1,112,880",
-    "fire":   "-",
+    "name":   "Cunning Gloves",
+    "armor":  "881",
+    "price":  "$ 890,304",
+    "fire":   "1188",
     "stam":   "-",
-    "elec":   "1223",
-    "major":  "6,647 Health<br/>9% Exotic Damage Resilience",
-    "minor":  "53% Ammo Capacity"
+    "elec":   "-",
+    "major":  "4,670 Marksman Rifle Damage<br />1,244 Pistol Damage<br />14% Critical Hit Damage",
+    "minor":  "-"
   },
   {
     "type":       "gear-mod",
     "vendor":     "The Ward",
-    "name":       "Performance Mod",
-    "stat":       "-",
+    "name":       "Electronics Mod",
+    "stat":       "253 ELEC",
     "price":      "$ 168,044",
-    "attribute":  "7% Support Station Duration"
+    "attribute":  "1,725 Health"
   },
 
   {
     "type":     "weapon",
     "vendor":   "The Last Call",
     "score":    "256",
-    "name":     "Double Barrel Shotgun",
+    "name":     "M700 Tactical",
     "price":    "$ 1,669,320",
-    "bonus":    "291.5% Stagger",
-    "dmg":      "146K",
-    "rpm":      "200",
-    "mag":      "2",
-    "talent1":  "Adept",
-    "talent2":  "Destructive",
-    "talent3":  "Sustained"
+    "bonus":    "147% Headshot",
+    "dmg":      "102K",
+    "rpm":      "54",
+    "mag":      "7",
+    "talent1":  "Prepared",
+    "talent2":  "Balanced",
+    "talent3":  "Elevated"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "The Last Call",
-    "name":       "Extended Magazine",
+    "name":       "Quick Release Magazine",
     "price":      "$ 168,044",
-    "attributes": "95% Magazine Size<br/>4.5% Reload Speed<br/>5.3% Rate of Fire"
+    "attributes": "28.50% Reload Speed<br />4% Critical Hit Damage<br />4.90% Rate of Fire"
   },
 
   {
@@ -139,14 +141,14 @@
     "rarity": "header-he",
     "vendor": "Madison's Stand",
     "score":  "256",
-    "name":   "Accomplished Knee Pads",
-    "armor":  "1,492",
-    "price":  "$ 890,304",
-    "fire":   "1192",
-    "stam":   "-",
+    "name":   "Forceful Vest",
+    "armor":  "1,720",
+    "price":  "$1,112,880",
+    "fire":   "-",
+    "stam":   "1182",
     "elec":   "-",
-    "major":  "4% Protection from Elites",
-    "minor":  "29% Burn Resistance<br/>29% Burn/Deaf Resistance<br/>53% Increased Kill XP"
+    "major":  "11.0% Exotic Damage Resilience<br />4% Health on Kill",
+    "minor":  "56% Ammo Capacity"
   },
   {
     "type":       "gear-mod",
@@ -154,7 +156,7 @@
     "name":       "Performance Mod",
     "stat":       "-",
     "price":      "$ 168,044",
-    "attribute":  "3% Smart Cover Damage Resilience"
+    "attribute":  "3.50% Ballistic Shield Damage"
   }
 
 ]
