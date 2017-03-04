@@ -19,12 +19,12 @@
     "vendor": "DZ West 53rd",
     "score":  "256",
     "name":   "Relentless Backpack",
-    "armor":  "2,080",
+    "armor":  "1,208",
     "price":  "DZ 277,440",
     "fire":   "1153",
     "stam":   "-",
     "elec":   "-",
-    "major":  "872 Armor",
+    "major":  "12,141 Health",
     "minor":  "15% Bleed Resistance"
   },
 
@@ -51,7 +51,7 @@
     "score":    "256",
     "name":     "Tactical UMP-45",
     "price":    "DZ 416,160",
-    "bonus":    "36% Critical Hit Damage",
+    "bonus":    "21.50% Critical Hit Chance",
     "dmg":      "20.7k",
     "rpm":      "600",
     "mag":      "30",
@@ -144,7 +144,7 @@
     "score":    "256",
     "name":     "Tactical AUG A3P",
     "price":    "DZ 416,160",
-    "bonus":    "36% Critical Hit Damage",
+    "bonus":    "2.150% Critical Hit Chance",
     "dmg":      "19.2k",
     "rpm":      "725",
     "mag":      "25",
@@ -164,7 +164,7 @@
     "fire":   "1178",
     "stam":   "-",
     "elec":   "-",
-    "major":  "7% Skill Haste",
+    "major":  "14.50% Stability",
     "minor":  "56% Ammo Capacity"
   },
 
@@ -191,7 +191,7 @@
     "score":    "256",
     "name":     "Converted SMG-9",
     "price":    "DZ 416,160",
-    "bonus":    "32% Critical Hit Damage",
+    "bonus":    "20.0% Critical Hit Chance",
     "dmg":      "17.2k",
     "rpm":      "825",
     "mag":      "32",
@@ -211,7 +211,7 @@
     "fire":   "1118",
     "stam":   "1205",
     "elec":   "1163",
-    "major":  "3% Protection from Elites",
+    "major":  "6% Skill Haste",
     "minor":  "-"
   },
 
@@ -236,7 +236,7 @@
     "type":     "weapon",
     "vendor":   "DZ West 31st",
     "score":    "256",
-    "name":     "Tactical SA-58",
+    "name":     "Classic FAL",
     "price":    "DZ 416,160",
     "bonus":    "20% Enemy Armor Damage",
     "dmg":      "28.3k",
@@ -258,7 +258,7 @@
     "fire":   "-",
     "stam":   "-",
     "elec":   "1136",
-    "major":  "4% Damage to Elites",
+    "major":  "3.50% Enemy Armor Damage",
     "minor":  "31% Blind/Deaf Resistance</br>52% Increased Kill XP</br>11.5% Enemy Armor Damage"
   },
 
@@ -268,7 +268,7 @@
     "name":       "Firearms Mod",
     "stat":       "267 FA",
     "price":      "DZ 21,362",
-    "attribute":  "273 Armor"
+    "attribute":  "3,243 Health"
   },
 
   {
@@ -283,11 +283,11 @@
     "type":     "weapon",
     "vendor":   "DZ 5th Ave",
     "score":    "256",
-    "name":     "ACR",
+    "name":     "Black Market AK-74",
     "price":    "DZ 416,160",
     "bonus":    "19% Enemy Armor Damage",
     "dmg":      "19.6k",
-    "rpm":      "760",
+    "rpm":      "600",
     "mag":      "30",
     "talent1":  "Self-Preserved",
     "talent2":  "Sustained",

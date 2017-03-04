@@ -5,12 +5,12 @@
     "vendor": "BoO Gear Vendor",
     "name":   "Reckless Chest",
     "score":  "256",
-    "armor":  "2,979",
+    "armor":  "1,755",
     "price":  "$ 1,112,880",
     "fire":   "1264",
     "stam":   "-",
     "elec":   "-",
-    "major":  "9.5 Exotic Damage Resilience<br/>1,224 Armor",
+    "major":  "9.5 Exotic Damage Resilience<br/>16,168 Health",
     "minor":  "24% Increased Kill XP"
   },
   {
@@ -21,14 +21,13 @@
     "price":      "$ 168,044",
     "attribute":  "7% Ballistic Shield Health"
   },
-
   {
     "type":     "weapon",
     "name":     "Tactical AUG A3P",
     "vendor":   "BoO Weapons Vendor",
     "score":    "256",
     "price":    "$ 1,669,320",
-    "bonus":    "29% Critical Hit Damage",
+    "bonus":    "18.50% Critical Hit Chance",
     "dmg":      "16.6K",
     "rpm":      "725",
     "mag":      "25",
@@ -43,7 +42,6 @@
     "price":      "$ 174,722",
     "attributes": "17% Headshot Damage<br/>4.5% Optimal Range<br/>4% Critical Hit Damage"
   },
-
   {
     "type":     "weapon",
     "vendor":   "DZ Vendor at BoO",
@@ -69,7 +67,7 @@
     "fire":   "-",
     "stam":   "1124",
     "elec":   "-",
-    "major":  "874 SMG Damage<br/>10% Damage to Elites<br/>15% Critical Hit Damage",
+    "major":  "7% Skill Haste<br/>6.0% Critical Hit Chance<br/>4% Health on Kill",
     "minor":  "-"
   },
   {
@@ -87,160 +85,117 @@
     "price":      "DZ 24,137",
     "attributes": "16 Critical Hit Damage<br/>3% Critical Hit Chance<br/>5.5% Headshot Damage<br/>44% Reduced Threat"
   },
-
   {
     "type":     "weapon",
-    "name":     "Pakhan",
-    "vendor":   "Advanced Weaponry Vendor",
-    "score":    "256",
-    "price":    "$ 1,669,320",
-    "bonus":    "12% DMG Out of Cover",
-    "dmg":      "18.6K",
-    "rpm":      "650",
-    "mag":      "45",
-    "talent1":  "Swift",
-    "talent2":  "Destructive",
-    "talent3":  "Ferocious"
-  },
-  {
-    "type":     "weapon",
-    "name":     "Cassidy",
-    "vendor":   "Advanced Weaponry Vendor",
-    "score":    "256",
-    "price":    "$ 1,669,320",
-    "bonus":    "348% Stagger",
-    "dmg":      "187k",
-    "rpm":      "200",
-    "mag":      "2",
-    "talent1":  "Responsive",
-    "talent2":  "Commanding",
-    "talent3":  "Meticulous"
-  },
-  {
-    "type":     "weapon",
-    "name":     "Centurion",
-    "vendor":   "Advanced Weaponry Vendor",
-    "score":    "256",
-    "price":    "$ 1,669,320",
-    "bonus":    "-",
-    "dmg":      "23.8K",
-    "rpm":      "310",
-    "mag":      "7",
-    "talent1":  "Provident",
-    "talent2":  "Intense",
-    "talent3":  "Expert"
-  },
-  {
-    "type":     "weapon",
-    "name":     "M45A1",
+    "name":     "X-45",
     "vendor":   "Advanced Weaponry Vendor",
     "score":    "256",
     "price":    "$ 1,335,456",
     "bonus":    "-",
-    "dmg":      "25K",
-    "rpm":      "310",
-    "mag":      "7",
+    "dmg":      "15.0k",
+    "rpm":      "625",
+    "mag":      "10",
     "talent1":  "Expert",
-    "talent2":  "Dominant",
+    "talent2":  "Accurate",
     "talent3":  "-"
   },
   {
     "type":     "weapon",
-    "name":     "Burst Fire MP-5 A4",
+    "name":     "Vector 45 ACP",
     "vendor":   "Advanced Weaponry Vendor",
     "score":    "256",
     "price":    "$ 1,669,320",
-    "bonus":    "33% Critical Hit Damage",
-    "dmg":      "18.1k",
-    "rpm":      "800",
-    "mag":      "32",
-    "talent1":  "Fierce",
-    "talent2":  "Adept",
-    "talent3":  "Brutal"
+    "bonus":    "22.50% Critical Hit Chance",
+    "dmg":      "16.6k",
+    "rpm":      "750",
+    "mag":      "25",
+    "talent1":  "Brutal",
+    "talent2":  "Commanding",
+    "talent3":  "Fierce"
   },
   {
     "type":     "weapon",
-    "name":     "Enhanced ACR-E",
+    "name":     "Classic AK-47",
     "vendor":   "Advanced Weaponry Vendor",
     "score":    "256",
     "price":    "$ 1,669,320",
-    "bonus":    "23% Enemy Armor Damage",
-    "dmg":      "16.7K",
-    "rpm":      "760",
+    "bonus":    "22% Enemy Armor Damage",
+    "dmg":      "22.1K",
+    "rpm":      "600",
     "mag":      "30",
+    "talent1":  "Intense",
+    "talent2":  "Meticulous",
+    "talent3":  "Ferocious"
+  },
+  {
+    "type":     "weapon",
+    "name":     "SASG-12",
+    "vendor":   "Advanced Weaponry Vendor",
+    "score":    "256",
+    "price":    "$ 1,669,320",
+    "bonus":    "317.50% Stagger",
+    "dmg":      "90.7k",
+    "rpm":      "180",
+    "mag":      "7",
+    "talent1":  "Commanding",
+    "talent2":  "Competent",
+    "talent3":  "Ferocious"
+  },
+  {
+    "type":     "weapon",
+    "name":     "Surplus SVD",
+    "vendor":   "Advanced Weaponry Vendor",
+    "score":    "256",
+    "price":    "$ 1,669,320",
+    "bonus":    "153% Headshot Damage",
+    "dmg":      "48.5k",
+    "rpm":      "260",
+    "mag":      "10",
+    "talent1":  "Unforgiving",
+    "talent2":  "Adept",
+    "talent3":  "Disciplined"
+  },
+  {
+    "type":     "weapon",
+    "name":     "Tactical M249 Para",
+    "vendor":   "Advanced Weaponry Vendor",
+    "score":    "256",
+    "price":    "$ 1,669,320",
+    "bonus":    "14% DMG Out of Cover",
+    "dmg":      "16.6k",
+    "rpm":      "550",
+    "mag":      "100",
     "talent1":  "Unforgiving",
     "talent2":  "Deadly",
     "talent3":  "Sustained"
   },
   {
-    "type":     "weapon",
-    "name":     "Military M870",
-    "vendor":   "Advanced Weaponry Vendor",
-    "score":    "256",
-    "price":    "$ 1,669,320",
-    "bonus":    "308% Stagger",
-    "dmg":      "140k",
-    "rpm":      "75",
-    "mag":      "5",
-    "talent1":  "Ferocious",
-    "talent2":  "Competent",
-    "talent3":  "Unforgiving"
-  },
-  {
-    "type":     "weapon",
-    "name":     "Custom M44",
-    "vendor":   "Advanced Weaponry Vendor",
-    "score":    "256",
-    "price":    "$ 1,669,320",
-    "bonus":    "148% Headshot Damage",
-    "dmg":      "105k",
-    "rpm":      "54",
-    "mag":      "7",
-    "talent1":  "Capable",
-    "talent2":  "Toxic",
-    "talent3":  "Elevated"
-  },
-  {
-    "type":     "weapon",
-    "name":     "Military MK46",
-    "vendor":   "Advanced Weaponry Vendor",
-    "score":    "256",
-    "price":    "$ 1,669,320",
-    "bonus":    "13% DMG Out of Cover",
-    "dmg":      "17.9k",
-    "rpm":      "550",
-    "mag":      "100",
-    "talent1":  "Capable",
-    "talent2":  "Swift",
-    "talent3":  "Dominant"
-  },
-  {
     "type":       "weapon-mod",
-    "name":       "Heavy magazine Spring",
+    "name":       "Quick Release Magazine",
     "vendor":     "Advanced Weaponry Vendor",
     "price":      "$ 168,044",
-    "attributes": "10.50% Magazine Size<br/>4% Critical Hit Damage<br/>10.90% Rate of Fire"
+    "attributes": "29.50% Reload Speed<br/>4% Critical Hit Damage<br/>11.0% Magazine Size"
   },
   {
     "type":       "weapon-mod",
-    "name":       "Large Suppressor",
+    "name":       "Compensator",
     "vendor":     "Advanced Weaponry Vendor",
     "price":      "$ 174,722",
-    "attributes": "18% Critical Hit Damage<br/>5% Optimal Range<br/>6% Headshot Damage<br/>50% Reduced Threat"
+    "attributes": "13.50% Stability<br/>4% Critical Hit Damage<br/>2.50% Critical Hit Chance"
   },
   {
     "type":       "weapon-mod",
-    "name":       "Vertical Grip - Wolf Grey",
+    "name":       "Handstop - FDE",
     "vendor":     "Advanced Weaponry Vendor",
     "price":      "$ 174,722",
-    "attributes": "44.5% Optimal Range<br/>4% Critical Hit Damage<br/>2.5 Stability"
+    "attributes": "27.0% Reload Speed<br/>5.0% Optimal Range<br/>2.0% Accuracy"
   },
   {
     "type":       "weapon-mod",
-    "name":       "Reflex Sight",
+    "name":       "VX-1 Scope (12x)",
     "vendor":     "Advanced Weaponry Vendor",
     "price":      "$ 174,722",
-    "attributes": "7% Critical Hit Chance<br/>4% Critical Hit Damage<br/>4.5% Optimal Range"
+    "attributes": "18.0% Headshot Damage<br/>2.0% Accuracy<br/>2.50% Stability"
   }
 
 ]

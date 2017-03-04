@@ -3,12 +3,12 @@
     "type":     "weapon",
     "vendor":   "The Crypt",
     "score":    "256",
-    "name":     "Lightweight M4",
+    "name":     "Classic FAL",
     "price":    "$ 1,669,320",
     "bonus":    "20% Enemy Armor Damage",
-    "dmg":      "18.1K",
-    "rpm":      "850",
-    "mag":      "30",
+    "dmg":      "26.9K",
+    "rpm":      "650",
+    "mag":      "20",
     "talent1":  "Capable",
     "talent2":  "Determined",
     "talent3":  "Ferocious"
@@ -32,7 +32,7 @@
     "fire":   "-",
     "stam":   "-",
     "elec":   "1171",
-    "major":  "13% Signature Ability Resource Gain",
+    "major":  "15.50% Stability",
     "minor":  "14% Bleed Resistance"
   },
   {
@@ -41,7 +41,7 @@
     "name":       "Stamina Mod",
     "stat":       "231 STA",
     "price":      "$ 168,044",
-    "attribute":  "1,756 Health"
+    "attribute":  "2% All Resistance"
   },
 
   {
@@ -102,7 +102,7 @@
     "fire":   "1188",
     "stam":   "-",
     "elec":   "-",
-    "major":  "4,670 Marksman Rifle Damage<br />1,244 Pistol Damage<br />14% Critical Hit Damage",
+    "major":  "2,662 Pistol Damage<br />8% Skill Haste<br />1,144 Assault Rifle Damage",
     "minor":  "-"
   },
   {
@@ -111,7 +111,7 @@
     "name":       "Electronics Mod",
     "stat":       "253 ELEC",
     "price":      "$ 168,044",
-    "attribute":  "1,725 Health"
+    "attribute":  "2% All Resistance"
   },
 
   {

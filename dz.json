@@ -4,69 +4,69 @@
     "rarity": "header-gs",
     "vendor": "DZ 06",
     "score":  "256",
-    "name":   "Tactician Mask",
-    "armor":  "902",
-    "price":  "DZ 277,440",
+    "name":   "Predator's Mask",
+    "armor":  "916",
+    "price":  "DZ 249,696",
     "fire":   "-",
-    "stam":   "-",
+    "stam":   "1192",
     "elec":   "1256",
-    "major":  "9% Damage to Elites",
-    "minor":  "17% Blind/Deaf Resistance"
+    "major":  "9.50% Exotic Damage Resilience",
+    "minor":  "15% Burn Resistance"
   },
   {
     "type":   "gear",
     "rarity": "header-gs",
     "vendor": "DZ 06",
     "score":  "256",
-    "name":   "Banshee Chest",
-    "armor":  "1,712",
+    "name":   "Striker's Harness",
+    "armor":  "1,723",
     "price":  "DZ 277,440",
     "fire":   "-",
-    "stam":   "-",
-    "elec":   "1230",
-    "major":  "11% Exotic Damage Resilience<br/>6,610 Health",
-    "minor":  "27% Increased Kill XP"
-  },
-  {
-    "type":   "gear",
-    "rarity": "header-gs",
-    "vendor": "DZ 06",
-    "score":  "256",
-    "name":   "Sentry's Call Backpack",
-    "armor":  "2,099",
-    "price":  "DZ 277,440",
-    "fire":   "1192",
-    "stam":   "-",
+    "stam":   "1241",
     "elec":   "-",
-    "major":  "882 Armor",
-    "minor":  "16% Burn Resistance"
+    "major":  "9.50% Exotic Damage Resilience<br />14,366 Health",
+    "minor":  "23% Increased Kill XP"
   },
   {
     "type":   "gear",
     "rarity": "header-gs",
     "vendor": "DZ 06",
     "score":  "256",
-    "name":   "Tactician Kneepads",
-    "armor":  "2,786",
+    "name":   "Tactician's Backpack",
+    "armor":  "1,202",
     "price":  "DZ 277,440",
     "fire":   "-",
     "stam":   "-",
-    "elec":   "1159",
-    "major":  "1,208 Armor",
-    "minor":  "51% Increased Kill XP<br/>31% Disorient Resistance<br/>31% Disrupt Resistance"
+    "elec":   "1,234",
+    "major":  "13,122 Skill Power",
+    "minor":  "17% Disrupt Resistance"
   },
   {
     "type":   "gear",
     "rarity": "header-gs",
     "vendor": "DZ 06",
     "score":  "256",
-    "name":   "Striker's Holster",
-    "armor":  "861",
-    "price":  "DZ 277,440",
-    "fire":   "1241",
-    "stam":   "1125",
-    "elec":   "1154",
-    "major":  "5% Skill Haste",
+    "name":   "Final Measure Kneepads",
+    "armor":  "1,547",
+    "price":  "DZ 221,952",
+    "fire":   "-",
+    "stam":   "1248",
+    "elec":   "-",
+    "major":  "7% Critical Hit Damage",
+    "minor":  "14% Damage to Elites<br />29% Blind/Deaf Resistance<br />29% Shock Resistance"
+  },
+  {
+    "type":   "gear",
+    "rarity": "header-gs",
+    "vendor": "DZ 06",
+    "score":  "256",
+    "name":   "Tactician's Holster",
+    "armor":  "947",
+    "price":  "DZ 194,208",
+    "fire":   "1238",
+    "stam":   "1159",
+    "elec":   "1180",
+    "major":  "21.0% Reload Speed",
     "minor":  "-"
   },
   {
@@ -74,13 +74,13 @@
     "rarity": "header-gs",
     "vendor": "DZ 06",
     "score":  "256",
-    "name":   "Predator's Mark Gloves",
-    "armor":  "916",
+    "name":   "Final Measure Gloves",
+    "armor":  "956",
     "price":  "DZ 277,440",
-    "fire":   "1195",
+    "fire":   "1141",
     "stam":   "-",
     "elec":   "-",
-    "major":  "1,316 LMG Damage<br/>5.5% Critical Hit Chance<br/>15% Critical Hit Damage",
+    "major":  "998 SMG Damage<br />15% Critical Hit Damage<br />8% Skill Haste",
     "minor":  "-"
   },
 
@@ -150,8 +150,8 @@
     "score":    "256",
     "name":     "Converted SMG-9",
     "price":    "DZ 416,160",
-    "bonus":    "36% Critical Hit Damage",
-    "dmg":      "11.6k",
+    "bonus":    "21.50% Critical Hit Chance",
+    "dmg":      "14.5k",
     "rpm":      "825",
     "mag":      "32",
     "talent1":  "Vicious",
@@ -162,7 +162,7 @@
     "type":     "weapon",
     "vendor":   "DZ 03",
     "score":    "256",
-    "name":     "ACR",
+    "name":     "Military SA-58s",
     "price":    "DZ 416,160",
     "bonus":    "21% Enemy Armor Damage",
     "dmg":      "13.6k",
@@ -226,7 +226,7 @@
     "fire":   "1178",
     "stam":   "-",
     "elec":   "-",
-    "major":  "5,191 Health",
+    "major":  "4% All Resistance",
     "minor":  "14% Disorient Resistance"
   },
   {
@@ -240,7 +240,7 @@
     "fire":   "1219",
     "stam":   "-",
     "elec":   "-",
-    "major":  "9.5% Exotic Damage Resilience<br/>7% Damage to Elites",
+    "major":  "9.5% Exotic Damage Resilience<br/>5.50% Enemy Armor Damage",
     "minor":  "23% Increased Kill XP"
   },
   {
@@ -254,7 +254,7 @@
     "fire":   "-",
     "stam":   "-",
     "elec":   "1247",
-    "major":  "12,739 Skill Power",
+    "major":  "8% Critical Hit Damage",
     "minor":  "16% Bleed Resistance"
   },
   {
@@ -268,7 +268,7 @@
     "fire":   "-",
     "stam":   "1193",
     "elec":   "-",
-    "major":  "4% Damage to Elites",
+    "major":  "3.50% Enemy Armor Damage",
     "minor":  "29% Blind/Deaf Resistance<br/>48% Increased Kill XP<br/>33% Shock Resistance"
   },
   {
@@ -282,7 +282,7 @@
     "fire":   "1178",
     "stam":   "1261",
     "elec":   "1141",
-    "major":  "4% Protection from Elites",
+    "major":  "7% Skill Haste",
     "minor":  "-"
   },
   {
@@ -296,7 +296,7 @@
     "fire":   "1199",
     "stam":   "-",
     "elec":   "-",
-    "major":  "1,167 Shotgun Damage<br/>15% Critical Hit Damage<br/>10% Damage to Elites",
+    "major":  "1,167 Shotgun Damage<br/>4% Health on Kill<br/>8% Enemy Armor Damage",
     "minor":  "-"
   }
 

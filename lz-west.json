@@ -10,7 +10,7 @@
     "fire":   "-",
     "stam":   "-",
     "elec":   "1233",
-    "major":  "9% Damage To Elites<br />5.0% Critical Hit Chance<br />4% Health on Kill",
+    "major":  "7% Enemy Armor Damage<br />5.0% Critical Hit Chance<br />4% Health on Kill",
     "minor":  "-"
   },
   {
@@ -55,7 +55,7 @@
     "fire":   "-",
     "stam":   "-",
     "elec":   "1127",
-    "major":  "7% Damage to Elites<br />4% Health on Kill",
+    "major":  "5.50% Enemy Armor Damage<br />4% Health on Kill",
     "minor":  "50% Ammo Capacity"
   },
   {
@@ -100,7 +100,7 @@
     "fire":   "1135",
     "stam":   "-",
     "elec":   "-",
-    "major":  "4% Protection from Elites",
+    "major":  "12,962 Skill Power",
     "minor":  "30% Disorient Resistance<br />56% Increased Kill XP<br />29% Burn Resistance"
   },
   {
@@ -116,15 +116,15 @@
     "type":     "weapon",
     "vendor":   "The Meat Locker",
     "score":    "256",
-    "name":     "Tactical SA-58",
+    "name":     "Military G36",
     "price":    "$ 1,669,320",
     "bonus":    "19% Enemy Armor Damage",
-    "dmg":      "25.6K",
-    "rpm":      "650",
-    "mag":      "20",
+    "dmg":      "20.9k",
+    "rpm":      "750",
+    "mag":      "30",
     "talent1":  "Competent",
-    "talent2":  "Talented",
-    "talent3":  "Determined"
+    "talent2":  "Skilled",
+    "talent3":  "Focused"
   },
   {
     "type":       "weapon-mod",
@@ -167,7 +167,7 @@
     "fire":   "1209",
     "stam":   "1256",
     "elec":   "1227",
-    "major":  "621 Armor",
+    "major":  "7,686 Health",
     "minor":  "-"
   },
   {

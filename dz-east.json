@@ -68,7 +68,7 @@
     "fire":   "1156",
     "stam":   "1170",
     "elec":   "1189",
-    "major":  "573 Pistol Damage",
+    "major":  "17.5% Reload Speed",
     "minor":  "-"
   },
   {
@@ -112,7 +112,7 @@
     "fire":   "-",
     "stam":   "1132",
     "elec":   "-",
-    "major":  "4,655 Marksman Rifle Damage<br/>5.5% Critical Hit Chance<br/>14% Critical Hit Damage",
+    "major":  "2,654 Pistol Damage<br/>16% Critical Hit Damage<br/>1,164 LMG Damage",
     "minor":  "-"
   },
   {
@@ -156,7 +156,7 @@
     "fire":   "1164",
     "stam":   "1162",
     "elec":   "1214",
-    "major":  "6% Skill Haste",
+    "major":  "4% Critical Hit Chance",
     "minor":  "-"
   },
   {
@@ -178,7 +178,7 @@
     "type":     "weapon",
     "vendor":   "DZ East 34th",
     "score":    "256",
-    "name":     "Tactical Mk 16",
+    "name":     "SCAR-L",
     "price":    "DZ 416,160",
     "bonus":    "23% Enemy Armor Damage",
     "dmg":      "23.4k",
@@ -199,8 +199,8 @@
     "fire":   "1167",
     "stam":   "-",
     "elec":   "-",
-    "major":  "8% Damage to Elites",
-    "minor":  "7.5% Enemy Armor Damage"
+    "major":  "6.5% Enemy Armor Damage",
+    "minor":  "10% Damage to Elites"
   },
   {
     "type":       "gear-mod",
@@ -243,7 +243,7 @@
     "fire":   "1119",
     "stam":   "1117",
     "elec":   "1143",
-    "major":  "592 Pistol Damage",
+    "major":  "18.5% Reload Speed",
     "minor":  "-"
   },
   {
