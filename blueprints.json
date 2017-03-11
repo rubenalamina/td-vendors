@@ -2,23 +2,23 @@
 
   {
     "type":   "blueprint",
-    "name":   "Snubnosed Rhino",
+    "name":   "Lighweight M4",
     "score":  "256",
-    "price":  "PxC 749"
+    "price":  "PxC 1082"
   },
 
   {
     "type":   "blueprint",
-    "name":   "M870 Express",
+    "name":   "Surplus SVD",
     "score":  "256",
     "price":  "PxC 998"
   },
 
   {
     "type":   "blueprint",
-    "name":   "Firearms Knee Pads",
+    "name":   "Firearms Backpack",
     "score":  "256",
-    "price":  "PxC 499"
+    "price":  "PxC 665"
   },
 
   {
@@ -30,55 +30,55 @@
 
   {
     "type":   "blueprint",
-    "name":   "High Velocity Magazine<br/>Critical Hit Chance, Random, Random",
-    "score":  "34",
-    "price":  "PxC 192"
-  },
-
-  {
-    "type":   "blueprint",
-    "name":   "Ti-RANT Suppressor<br/>Critical Hit Chance, Random, Random, Reduced Threat",
+    "name":   "Small Grip - Red<br/>Critical Hit Damage, Random, Random",
     "score":  "34",
     "price":  "PxC 200"
   },
 
   {
     "type":   "blueprint",
-    "name":   "Stamina Gear Mod",
+    "name":   "Heavy Magazine Spring<br/>Rate of Fire, Random, Random",
+    "score":  "34",
+    "price":  "PxC 200"
+  },
+
+  {
+    "type":   "blueprint",
+    "name":   "Electronics Gear Mod",
     "score":  "34",
     "price":  "PxC 192"
   },
 
   {
     "type":   "blueprint",
-    "name":   "Performance Gear Mod",
+    "name":   "Firearms Gear Mod",
     "score":  "34",
     "price":  "PxC 192"
   },
 
   {
     "type":   "blueprint",
-    "name":   "Military P416",
+    "name":   "Classic FAL",
     "score":  "229",
     "price":  "PxC 679"
   },
 
   {
     "type":   "blueprint",
-    "name":   "Military M60 E4",
+    "name":   "Tactical SASG-12 K",
     "score":  "229",
-    "price":  "PxC 574"
+    "price":  "PxC 627"
   },
 
   {
     "type":   "blueprint",
-    "name":   "Custom L86 A2",
+    "name":   "Custom P416 G3",
     "score":  "204",
-    "price":  "PxC 340"
+    "price":  "PxC 402"
   },
   {
     "type":   "blueprint",
-    "name":   "Custom M870 MCS",
+    "name":   "MP-5 ST",
     "score":  "204",
     "price":  "PxC 340"
   }

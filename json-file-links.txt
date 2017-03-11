@@ -1,6 +1,7 @@
 http://rubenalamina.mx/division/blueprints.json
 http://rubenalamina.mx/division/boo.json
 http://rubenalamina.mx/division/dz.json
+http://rubenalamina.mx/division/dz-north.json
 http://rubenalamina.mx/division/dz-east.json
 http://rubenalamina.mx/division/dz-west.json
 http://rubenalamina.mx/division/lz-east.json

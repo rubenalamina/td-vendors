@@ -5,56 +5,57 @@
     "vendor": "Autumn's Hope",
     "score":  "256",
     "name":   "Sturdy Holster",
-    "armor":  "887",
+    "armor":  "884",
     "price":  "$ 779,016",
-    "fire":   "1173",
-    "stam":   "1139",
-    "elec":   "1115",
-    "major":  "7,460 Health",
+    "fire":   "1236",
+    "stam":   "1224",
+    "elec":   "1256",
+    "major":  "17.5% Reload Speed",
     "minor":  "-"
   },
   {
     "type":       "gear-mod",
-    "name":       "Performance Mod",
+    "name":       "Electronics Mod",
     "vendor":     "Autumn's Hope",
-    "stat":       "-",
+    "stat":       "246 ELE",
     "price":      "$ 168,044",
-    "attribute":  "3.50% Seeker Mine Damage"
+    "attribute":  "2,896 Skill Power"
   },
 
   {
     "type":     "weapon",
     "vendor":   "Wolves Den",
     "score":    "256",
-    "name":     "M870 Express",
+    "name":     "LVOA-C",
     "price":    "$ 1,669,320",
-    "bonus":    "332,0% Stagger",
-    "dmg":      "174k",
-    "rpm":      "75",
-    "mag":      "5",
-    "talent1":  "Commanding",
-    "talent2":  "Brutal",
-    "talent3":  "Self-Preserved"
+    "bonus":    "22% Enemy Armor Damage",
+    "dmg":      "16.3K",
+    "rpm":      "850",
+    "mag":      "30",
+    "talent1":  "Fierce",
+    "talent2":  "Unforgiving",
+    "talent3":  "Destructive"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "Wolves Den",
-    "name":       "Extended Magazine",
-    "price":      "$ 168,044",
-    "attributes": "108.50% Magazine Size<br/>4% Critical Hit Damage<br/>4.5% Reload Speed"
+    "name":       "Rugged mini reflex sight",
+    "price":      "$ 174,722",
+    "attributes": "6.5% Critical Hit Chance<br/>4% Critical Hit Damage<br/>2.5% Stability"
   },
+
   {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "Dante's Run",
     "score":  "256",
-    "name":   "Cunning Gloves",
-    "armor":  "950",
-    "price":  "$ 890,304",
-    "fire":   "1245",
-    "stam":   "-",
-    "elec":   "-",
-    "major":  "4,534 Marksman Rifle Damage<br />4% Health on Kill<br/>8% Enermy Armor Damage",
+    "name":   "Steadfast Holster",
+    "armor":  "928",
+    "price":  "$ 1,112,880",
+    "fire":   "1231",
+    "stam":   "1205",
+    "elec":   "1228",
+    "major":  "3.5% Critical Hit Chance",
     "minor":  "-"
   },
   {
@@ -63,116 +64,119 @@
     "name":       "Performance Mod",
     "stat":       "-",
     "price":      "$ 168,044",
-    "attribute":  "3.5% Sticky Bomb Damage"
+    "attribute":  "5.5% First Aid self heal"
   },
+
   {
     "type":     "weapon",
     "vendor":   "Kerman Station",
     "score":    "256",
-    "name":     "Surplus SVD",
+    "name":     "Custom L86 A2",
     "price":    "$ 1,669,320",
-    "bonus":    "162% Headshot Damage",
-    "dmg":      "65.6k",
-    "rpm":      "260",
-    "mag":      "10",
-    "talent1":  "Commanding",
-    "talent2":  "Intense",
-    "talent3":  "Discipline"
+    "bonus":    "12% DMG out of cover",
+    "dmg":      "16.3K",
+    "rpm":      "610",
+    "mag":      "30",
+    "talent1":  "Self-preserved",
+    "talent2":  "Swift",
+    "talent3":  "Brutal"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "Kerman Station",
-    "name":       "Compensator",
+    "name":       "High velocity magazine",
     "price":      "$ 174,722",
-    "attributes": "11.50% Stability<br />6% Headshot Damage<br />2.5% Critical Hit Chance"
+    "attributes": "7% Critical Hit Chance<br/>11% Magazine Size<br/>4% Critical Hit Damage"
   },
+
   {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "The Cavern",
     "score":  "256",
-    "name":   "Tactical Pack",
-    "armor":  "1199",
-    "price":  "$ 1,112,880",
-    "fire":   "-",
-    "stam":   "1221",
+    "name":   "Rehabilitated Mask",
+    "armor":  "979",
+    "price":  "$ 890,304",
+    "fire":   "1209",
+    "stam":   "-",
     "elec":   "-",
-    "major":  "15% Stability",
-    "minor":  "16% Disrupt Resistance"
+    "major":  "9,285 Skill Power",
+    "minor":  "12% Increased Kill XP"
   },
   {
     "type":       "gear-mod",
     "vendor":     "The Cavern",
-    "name":       "Performance Mod",
-    "stat":       "-",
+    "name":       "Electronics Mod",
+    "stat":       "236 ELE",
     "price":      "$ 168,044",
-    "attribute":  "3.50% Seeker Mine Damage"
-  },
-  {
-    "type":     "weapon",
-    "vendor":   "The Meat Locker",
-    "score":    "256",
-    "name":     "Converted SMG-9 A2",
-    "price":    "$ 1,669,320",
-    "bonus":    "19.50% Critical Hit Chance",
-    "dmg":      "20.8K",
-    "rpm":      "825",
-    "mag":      "32",
-    "talent1":  "Adept",
-    "talent2":  "Commanding",
-    "talent3":  "Brutal"
-  },
-  {
-    "type":       "weapon-mod",
-    "vendor":     "The Meat Locker",
-    "name":       "Quick Release Magazine",
-    "price":      "$ 168,044",
-    "attributes": "29% Reload Speed<br />11% Magazine Size<br />5.20% Rate of Fire"
+    "attribute":  "2% All Resistance"
   },
 
   {
     "type":     "weapon",
-    "vendor":   "Camp Hudson",
+    "vendor":   "The Meat Locker",
     "score":    "256",
-    "name":     "Black Market SASG-12 S",
+    "name":     "Police T821",
     "price":    "$ 1,669,320",
-    "bonus":    "295% Stagger",
-    "dmg":      "119K",
-    "rpm":      "180",
-    "mag":      "7",
-    "talent1":  "Merticulous",
-    "talent2":  "Self-Preserved",
-    "talent3":  "Swift"
+    "bonus":    "19.5% Critical Hit Chance",
+    "dmg":      "15.9K",
+    "rpm":      "550",
+    "mag":      "32",
+    "talent1":  "Responsive",
+    "talent2":  "Determined",
+    "talent3":  "Sustained"
   },
   {
     "type":       "weapon-mod",
-    "vendor":     "Camp Hudson",
-    "name":       "Small Grip - Red",
+    "vendor":     "The Meat Locker",
+    "name":       "ACOG Scope (4x) - Bronze",
     "price":      "$ 174,722",
-    "attributes": "16% Critical Hit Damage<br />5% Optimal Range<br />2% Accuracy"
+    "attributes": "15.5% Accuracy<br/>4.5% Optimal Range<br/>3% Critical Hit Chance"
+  },
+
+  {
+    "type":     "weapon",
+    "vendor":   "Camp Hudson Weapon Vendor",
+    "score":    "256",
+    "name":     "Black Market SASG-12 S",
+    "price":    "$ 1,669,320",
+    "bonus":    "316.5% Stagger",
+    "dmg":      "83.4K",
+    "rpm":      "180",
+    "mag":      "7",
+    "talent1":  "Swift",
+    "talent2":  "Vicious",
+    "talent3":  "Brutal"
+  },
+  {
+    "type":       "weapon-mod",
+    "vendor":     "Camp Hudson Weapon Vendor",
+    "name":       "Extended Magazine",
+    "price":      "$ 174,722",
+    "attributes": "109.5% Magazine Size<br/>4.5% Reload Speed<br/>4.8% Rate of Fire"
   },
 
   {
     "type":   "gear",
     "rarity": "header-he",
-    "vendor": "Camp Hudson",
+    "vendor": "Camp Hudson Gear Vendor",
     "score":  "256",
-    "name":   "Decisive",
-    "armor":  "898",
-    "price":  "$ 890,304",
+    "name":   "Rehabilitated Mask",
+    "armor":  "941",
+    "price":  "$ 1,001,592",
     "fire":   "-",
-    "stam":   "1154",
-    "elec":   "-",
-    "major":  "856 SMG Damage<br />7% Skill Haste<br />7.5% Enermy Armor Damage",
-    "minor":  "-"
+    "stam":   "-",
+    "elec":   "1191",
+    "major":  "4% All Resistance",
+    "minor":  "14% Increased Kill XP"
   },
   {
     "type":       "gear-mod",
-    "vendor":     "Camp Hudson",
+    "vendor":     "Camp Hudson Gear Vendor",
     "name":       "Firearms Mod",
-    "stat":       "229 FA",
+    "stat":       "230 FA",
     "price":      "$ 168,044",
-    "attribute":  "3,053 Health"
+    "attribute":  "2.5% Exotic Damage Resilience"
   }
 
 ]
