@@ -1,6 +1,6 @@
 [
   {
-    "type":     "weapon",
+    "type":     "exotic",
     "rarity":   "header-ex",
     "vendor":   "Special Equipment Vendor",
     "name":     "Liberator",
@@ -15,7 +15,7 @@
     "talent3":  "Adept"
   },
   {
-    "type":     "weapon",
+    "type":     "exotic",
     "rarity":   "header-ex",
     "vendor":   "Special Equipment Vendor",
     "name":     "Pakhan",
@@ -30,7 +30,7 @@
     "talent3":  "Pakhan"
   },
   {
-    "type":     "weapon",
+    "type":     "exotic",
     "rarity":   "header-ex",
     "vendor":   "Special Equipment Vendor",
     "name":     "Cassidy",
@@ -45,7 +45,7 @@
     "talent3":  "Boomstick"
   },
   {
-    "type":     "weapon",
+    "type":     "exotic",
     "rarity":   "header-ex",
     "vendor":   "Special Equipment Vendor",
     "name":     "Centurion",
@@ -61,7 +61,7 @@
   },
 
   {
-    "type":     "weapon",
+    "type":     "exotic",
     "rarity":   "header-ex",
     "vendor":   "Special Equipment Vendor",
     "name":     "Historian",

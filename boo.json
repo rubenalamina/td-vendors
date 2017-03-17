@@ -173,74 +173,32 @@
     "talent3":  "Meticulous"
   },
   {
-    "type":     "weapon",
-    "name":     "Military M870",
-    "vendor":   "Advanced Weaponry Vendor",
-    "score":    "256",
-    "price":    "$ 1,669,320",
-    "bonus":    "308% Stagger",
-    "dmg":      "140k",
-    "rpm":      "75",
-    "mag":      "5",
-    "talent1":  "Ferocious",
-    "talent2":  "Competent",
-    "talent3":  "Unforgiving"
-  },
-  {
-    "type":     "weapon",
-    "name":     "Custom M44",
-    "vendor":   "Advanced Weaponry Vendor",
-    "score":    "256",
-    "price":    "$ 1,669,320",
-    "bonus":    "148% Headshot Damage",
-    "dmg":      "105k",
-    "rpm":      "54",
-    "mag":      "7",
-    "talent1":  "Capable",
-    "talent2":  "Toxic",
-    "talent3":  "Elevated"
-  },
-  {
-    "type":     "weapon",
-    "name":     "Military MK46",
-    "vendor":   "Advanced Weaponry Vendor",
-    "score":    "256",
-    "price":    "$ 1,669,320",
-    "bonus":    "13% DMG Out of Cover",
-    "dmg":      "17.9k",
-    "rpm":      "550",
-    "mag":      "100",
-    "talent1":  "Capable",
-    "talent2":  "Swift",
-    "talent3":  "Dominant"
-  },
-  {
     "type":       "weapon-mod",
-    "name":       "Heavy magazine Spring",
+    "name":       "Extended Magazine",
     "vendor":     "Advanced Weaponry Vendor",
     "price":      "$ 168,044",
-    "attributes": "10.50% Magazine Size<br/>4% Critical Hit Damage<br/>10.90% Rate of Fire"
+    "attributes": "110.0% Magazine Size<br/>5.0 Reload Speed<br/>5.20% Rate of Fire"
   },
   {
     "type":       "weapon-mod",
-    "name":       "Large Suppressor",
+    "name":       "Large Suppressor - FDE",
     "vendor":     "Advanced Weaponry Vendor",
     "price":      "$ 174,722",
-    "attributes": "18% Critical Hit Damage<br/>5% Optimal Range<br/>6% Headshot Damage<br/>50% Reduced Threat"
+    "attributes": "17% Critical Hit Damage<br/>3.0% Critical Hit Chance<br/>6.0% Headshot Damage<br/>47% Reduced Threat"
   },
   {
     "type":       "weapon-mod",
-    "name":       "Vertical Grip - Wolf Grey",
+    "name":       "Vertical Grip",
     "vendor":     "Advanced Weaponry Vendor",
     "price":      "$ 174,722",
-    "attributes": "44.5% Optimal Range<br/>4% Critical Hit Damage<br/>2.5 Stability"
+    "attributes": "44.5% Optimal Range<br/>2.50% Stability<br/>4.50% Reload Speed"
   },
   {
     "type":       "weapon-mod",
-    "name":       "Reflex Sight",
+    "name":       "Improved Iron Sights",
     "vendor":     "Advanced Weaponry Vendor",
     "price":      "$ 174,722",
-    "attributes": "7% Critical Hit Chance<br/>4% Critical Hit Damage<br/>4.5% Optimal Range"
+    "attributes": "12.50% Stability<br/>6.0% Headshot Damage<br/>4.0% Critical Hit Damage"
   }
 
 ]
