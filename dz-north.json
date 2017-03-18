@@ -32,7 +32,7 @@
     "rarity": "header-gs",
     "vendor": "DZ 09",
     "score":  "256",
-    "name":   "Tactician's Authority Backpack",
+    "name":   "Tactician's Backpack",
     "armor":  "1,319",
     "price":  "DZ 277,440",
     "fire":   "-",
@@ -46,7 +46,7 @@
     "rarity": "header-gs",
     "vendor": "DZ 09",
     "score":  "256",
-    "name":   "FireCrest Pads",
+    "name":   "FireCrest Knee Pads",
     "armor":  "1,545",
     "price":  "DZ 221,952",
     "fire":   "-",
@@ -60,7 +60,7 @@
     "rarity": "header-gs",
     "vendor": "DZ 09",
     "score":  "256",
-    "name":   "Tactician's Authority Holster",
+    "name":   "Tactician's Holster",
     "armor":  "862",
     "price":  "DZ 194,208",
     "fire":   "1125",
@@ -282,7 +282,7 @@
   {
     "type":       "gear-mod",
     "name":       "Stamina Mod",
-    "vendor":     "East 64th St",
+    "vendor":     "DZ East 64th St",
     "stat":       "241 STA",
     "price":      "DZ 21,362",
     "attribute":  "2,886 Skill Power"
@@ -290,7 +290,7 @@
   {
     "type":       "gear-mod",
     "name":       "Performance Mod",
-    "vendor":     "East 64th St",
+    "vendor":     "DZ East 64th St",
     "stat":       "-",
     "price":      "DZ 21,362",
     "attribute":  "6% First Aid Ally Heal"

@@ -80,8 +80,8 @@
   {
     "type":       "gear-mod",
     "vendor":     "Southpaw",
-    "name":       "Firearms Mod",
-    "stat":       "255 FA",
+    "name":       "Performance Mod",
+    "stat":       "-",
     "price":      "$ 168,044",
     "attribute":  "4.0% Ballistic Shield Damage"
   },

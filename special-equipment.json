@@ -10,7 +10,9 @@
     "dmg":      "132k",
     "rpm":      "600",
     "mag":      "2",
-    "talent1":  "Boomstick"
+    "talent1":  "Pedatory",
+    "talent2":  "Sustained",
+    "talent3":  "Boomstick"
   },
   {
     "type":     "exotic",
@@ -225,14 +227,14 @@
     "fire":   "-",
     "stam":   "-",
     "elec":   "1246",
-    "major":  "49.0% Exotic Damage Resilience",
+    "major":  "9.0% Exotic Damage Resilience",
     "minor":  "12% Increased Kill XP"
   },
   {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "Special Equipment Vendor",
-    "name":   "Rapid Vest",
+    "name":   "Rapid Chest",
     "score":  "256",
     "armor":  "1,952",
     "price":  "PxC 832",
@@ -260,7 +262,7 @@
     "type":   "gear",
     "rarity": "header-gs",
     "vendor": "Special Equipment Vendor",
-    "name":   "Final Measure Vest",
+    "name":   "Final Measure Chest",
     "score":  "256",
     "armor":  "1,982",
     "price":  "PxC 832",
