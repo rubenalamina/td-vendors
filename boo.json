@@ -5,72 +5,72 @@
     "vendor": "BoO Gear Vendor",
     "name":   "Cunning Gloves",
     "score":  "256",
-    "armor":  "873",
+    "armor":  "989",
     "price":  "$ 890,304",
-    "fire":   "-",
-    "stam":   "1115",
+    "fire":   "1186",
+    "stam":   "-",
     "elec":   "-",
-    "major":  "6% Critical Hit Chance<br/>8% Skill Haste<br/>1290 LMG Damage",
+    "major":  "5.5% Critical Hit Chance<br/>1,299 Shotgun Damage<br/>8% Skill Haste",
     "minor":  "-"
   },
   {
     "type":       "gear-mod",
-    "name":       "Electronics Mod",
+    "name":       "Performance Mod",
     "vendor":     "BoO Gear Vendor",
     "stat":       "-",
     "price":      "$ 168,044",
-    "attribute":  "1% Critical Hit Chance"
+    "attribute":  "3.5% Turret damage"
   },
 
   {
     "type":     "weapon",
-    "name":     "MP-5 ST",
+    "name":     "Military M60 E4",
     "vendor":   "BoO Weapons Vendor",
     "score":    "256",
     "price":    "$ 1,669,320",
-    "bonus":    "19.5% Critical Hit Chance",
-    "dmg":      "16.8k",
-    "rpm":      "800",
-    "mag":      "32",
-    "talent1":  "Determined",
-    "talent2":  "Predatory",
-    "talent3":  "Dominant"
+    "bonus":    "11% DMG out of cover",
+    "dmg":      "17.3k",
+    "rpm":      "500",
+    "mag":      "100",
+    "talent1":  "Destructive",
+    "talent2":  "Sustained",
+    "talent3":  "Accurate"
   },
   {
     "type":       "weapon-mod",
-    "name":       "Quick Relase Magazine",
+    "name":       "Ti-RANT Suppressor",
     "vendor":     "BoO Weapons Vendor",
     "price":      "$ 168,044",
-    "attributes": "28% Reload Speed<br/>4% Critical Hit Damage<br/>11% Magazine Size"
+    "attributes": "7.5% Critical Hit Chance<br/>4.5% Optimal Range<br/>2.5% Stability<br/>47% Reduced Threat"
   },
 
   {
     "type":     "weapon",
     "vendor":   "DZ Vendor at BoO",
-    "name":     "SCAR-L",
+    "name":     "Custom P416 G3",
     "score":    "256",
     "price":    "DZ 416,160",
-    "bonus":    "23% Enemy Armor Damage",
-    "dmg":      "21.9k",
-    "rpm":      "625",
+    "bonus":    "19% Enemy Armor Damage",
+    "dmg":      "16.6k",
+    "rpm":      "750",
     "mag":      "30",
-    "talent1":  "Intense",
-    "talent2":  "Swift",
-    "talent3":  "Fierce"
+    "talent1":  "Adept",
+    "talent2":  "Brutal",
+    "talent3":  "Meticulous"
   },
   {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "DZ Vendor at BoO",
-    "name":   "Technical Backpack",
+    "name":   "Rehabilitated Mask",
     "score":  "256",
-    "armor":  "1332",
+    "armor":  "940",
     "price":  "DZ 221,952",
     "fire":   "-",
-    "stam":   "1212",
-    "elec":   "-",
-    "major":  "8% Critical Hit Damage",
-    "minor":  "48% Ammo Capacity"
+    "stam":   "-",
+    "elec":   "1271",
+    "major":  "4% Health on Kill",
+    "minor":  "16% Disorient Resistance"
   },
   {
     "type":       "gear-mod",
@@ -78,71 +78,71 @@
     "vendor":     "DZ Vendor at BoO",
     "stat":       "-",
     "price":      "DZ 21,362",
-    "attribute":  "4.5% Ballistic Shield Damage Resilience"
+    "attribute":  "2% Pulse Critical Hit Chance"
   },
   {
     "type":       "weapon-mod",
-    "name":       "Compensator",
+    "name":       "Small laser pointer",
     "vendor":     "DZ Vendor at BoO",
     "price":      "DZ 24,137",
-    "attributes": "12% Stability<br/>2% Accuracy<br/>5% Optimal Range"
+    "attributes": "15.5% Accuracy<br/>4% Critical Hit Damage<br/>2.5% Stability"
   },
 
   {
     "type":     "weapon",
-    "name":     "Rhino Special",
+    "name":     "Rhino",
     "vendor":   "Advanced Weaponry Vendor",
     "score":    "256",
     "price":    "$ 1,335,456",
     "bonus":    "-",
-    "dmg":      "31.9k",
+    "dmg":      "29.7k",
     "rpm":      "350",
     "mag":      "6",
     "talent1":  "Expert",
-    "talent2":  "Proficient",
+    "talent2":  "Toxic",
     "talent3":  "-"
   },
   {
     "type":     "weapon",
-    "name":     "Tactical AUG A3P",
+    "name":     "AUG A3 Para XS",
     "vendor":   "Advanced Weaponry Vendor",
     "score":    "256",
     "price":    "$ 1,669,320",
-    "bonus":    "20% Critical Hit Chance",
-    "dmg":      "17.1k",
+    "bonus":    "22.5% Critical Hit Chance",
+    "dmg":      "16.3k",
     "rpm":      "725",
     "mag":      "25",
-    "talent1":  "Ferocious",
-    "talent2":  "Dominant",
-    "talent3":  "Accurate"
+    "talent1":  "Swift",
+    "talent2":  "Fierce",
+    "talent3":  "Dominant"
   },
   {
     "type":     "weapon",
-    "name":     "SCAR-L",
+    "name":     "Military AK-47M",
     "vendor":   "Advanced Weaponry Vendor",
     "score":    "256",
     "price":    "$ 1,669,320",
-    "bonus":    "22% Enemy Armor Damage",
-    "dmg":      "20.6k",
-    "rpm":      "625",
+    "bonus":    "18% Enemy Armor Damage",
+    "dmg":      "19.9k",
+    "rpm":      "600",
     "mag":      "30",
-    "talent1":  "Adept",
-    "talent2":  "Ferocious",
-    "talent3":  "Responsive"
+    "talent1":  "Talented",
+    "talent2":  "Fierce",
+    "talent3":  "Adept"
   },
   {
     "type":     "weapon",
-    "name":     "Double Barrel Shotgun",
+    "name":     "Double Barrel Sawed Off",
     "vendor":   "Advanced Weaponry Vendor",
     "score":    "256",
     "price":    "$ 1,669,320",
-    "bonus":    "299.5% Stagger",
-    "dmg":      "144k",
+    "bonus":    "349.5% Stagger",
+    "dmg":      "128K",
     "rpm":      "200",
     "mag":      "2",
-    "talent1":  "Swift",
-    "talent2":  "Self-Preserved",
-    "talent3":  "Talented"
+    "talent1":  "Trained",
+    "talent2":  "Fierce",
+    "talent3":  "Sustained"
   },
   {
     "type":     "weapon",
@@ -150,55 +150,55 @@
     "vendor":   "Advanced Weaponry Vendor",
     "score":    "256",
     "price":    "$ 1,669,320",
-    "bonus":    "147% Headshot Damage",
-    "dmg":      "113K",
+    "bonus":    "146% Headshot Damage",
+    "dmg":      "110K",
     "rpm":      "54",
     "mag":      "7",
-    "talent1":  "Sustained",
-    "talent2":  "Coolheaded",
+    "talent1":  "Commanding",
+    "talent2":  "Adept",
     "talent3":  "Elevated"
   },
   {
     "type":     "weapon",
-    "name":     "Military MK46",
+    "name":     "Infantry MG5",
     "vendor":   "Advanced Weaponry Vendor",
     "score":    "256",
     "price":    "$ 1,669,320",
-    "bonus":    "12% DMG Out of Cover",
-    "dmg":      "18.9k",
-    "rpm":      "550",
-    "mag":      "100",
-    "talent1":  "Adept",
-    "talent2":  "Unforgiving",
-    "talent3":  "Meticulous"
+    "bonus":    "15% DMG Out of Cover",
+    "dmg":      "13.7K",
+    "rpm":      "800",
+    "mag":      "50",
+    "talent1":  "Self-Preserved",
+    "talent2":  "Skilled",
+    "talent3":  "Competent"
   },
   {
     "type":       "weapon-mod",
-    "name":       "Extended Magazine",
+    "name":       "High velocity Magazine",
     "vendor":     "Advanced Weaponry Vendor",
     "price":      "$ 168,044",
-    "attributes": "110.0% Magazine Size<br/>5.0 Reload Speed<br/>5.20% Rate of Fire"
+    "attributes": "6.5% Critical Hit Chance<br/>11% Magazine Size<br/>4.9% Rate of Fire"
   },
   {
     "type":       "weapon-mod",
-    "name":       "Large Suppressor - FDE",
+    "name":       "Compensator",
     "vendor":     "Advanced Weaponry Vendor",
     "price":      "$ 174,722",
-    "attributes": "17% Critical Hit Damage<br/>3.0% Critical Hit Chance<br/>6.0% Headshot Damage<br/>47% Reduced Threat"
+    "attributes": "13% Stability<br/>2% Accuracy<br/>4.5% Optimal Range"
   },
   {
     "type":       "weapon-mod",
-    "name":       "Vertical Grip",
+    "name":       "PEQ-15 Laser - Green",
     "vendor":     "Advanced Weaponry Vendor",
     "price":      "$ 174,722",
-    "attributes": "44.5% Optimal Range<br/>2.50% Stability<br/>4.50% Reload Speed"
+    "attributes": "16.5% Accuracy<br/>2.50% Stability<br/>4% Critical Hit Damage"
   },
   {
     "type":       "weapon-mod",
-    "name":       "Improved Iron Sights",
+    "name":       "Russian red dot sight",
     "vendor":     "Advanced Weaponry Vendor",
     "price":      "$ 174,722",
-    "attributes": "12.50% Stability<br/>6.0% Headshot Damage<br/>4.0% Critical Hit Damage"
+    "attributes": "16% Accuracy<br/>2.5% Stability<br/>3% Critical Hit Chance"
   }
 
 ]

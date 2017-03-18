@@ -2,16 +2,16 @@
 
   {
     "type":   "blueprint",
-    "name":   "Lightweight M4",
+    "name":   "ACR",
     "score":  "256",
-    "price":  "PxC 1082"
+   "price":  "PxC 1082"
   },
 
   {
     "type":   "blueprint",
-    "name":   "Surplus SVD",
+    "name":   "Lightweight M4",
     "score":  "256",
-    "price":  "PxC 998"
+  "price":  "PxC 1082"
   },
 
   {
@@ -23,9 +23,16 @@
 
   {
     "type":   "blueprint",
-    "name":   "Stamina Chest",
+    "name":   "Electronics Mask",
     "score":  "256",
-    "price":  "PxC 665"
+    "price":  "PxC 582"
+  },
+
+  {
+    "type":   "blueprint",
+    "name":   "PRO Red Dot Sight<br/>Critical Hit Damage, Random, Random",
+    "score":  "34",
+    "price":  "PxC 200"
   },
 
   {
@@ -37,20 +44,6 @@
 
   {
     "type":   "blueprint",
-    "name":   "Heavy Magazine Spring<br/>Rate of Fire, Random, Random",
-    "score":  "34",
-    "price":  "PxC 200"
-  },
-
-  {
-    "type":   "blueprint",
-    "name":   "Electronics Gear Mod",
-    "score":  "34",
-    "price":  "PxC 192"
-  },
-
-  {
-    "type":   "blueprint",
     "name":   "Firearms Gear Mod",
     "score":  "34",
     "price":  "PxC 192"
@@ -58,27 +51,34 @@
 
   {
     "type":   "blueprint",
-    "name":   "Classic FAL",
-    "score":  "229",
-    "price":  "PxC 679"
+    "name":   "Stamina Gear Mod",
+    "score":  "34",
+    "price":  "PxC 192"
   },
 
   {
     "type":   "blueprint",
-    "name":   "Tactical SASG-12 K",
+    "name":   "Military M870",
     "score":  "229",
     "price":  "PxC 627"
   },
 
   {
     "type":   "blueprint",
-    "name":   "Custom P416 G3",
+    "name":   "586 Magnum",
+    "score":  "229",
+    "price":  "PxC 470"
+  },
+
+  {
+    "type":   "blueprint",
+    "name":   "Police T821",
     "score":  "204",
-    "price":  "PxC 402"
+    "price":  "PxC 340"
   },
   {
     "type":   "blueprint",
-    "name":   "MP-5 ST",
+    "name":   "LVOA-C",
     "score":  "204",
     "price":  "PxC 340"
   }

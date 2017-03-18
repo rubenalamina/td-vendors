@@ -3,84 +3,79 @@
     "type":     "weapon",
     "vendor":   "The Crypt",
     "score":    "256",
-    "name":     "Double Barrel Shotgun",
+    "name":     "Enhanced AUG A3P",
     "price":    "$ 1,669,320",
-    "bonus":    "300.5% Stagger",
-    "dmg":      "132K",
-    "rpm":      "200",
-    "mag":      "2",
-    "talent1":  "Destructive",
-    "talent2":  "Capable",
-    "talent3":  "Deadly"
+    "bonus":    "19.50% Critical Hit Chance",
+    "dmg":      "21.5k",
+    "rpm":      "725",
+    "mag":      "25",
+    "talent1":  "Determined",
+    "talent2":  "Vicious",
+    "talent3":  "Fierce"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "The Crypt",
-    "name":       "EXPS3 Holographic sight - Tan",
+    "name":       "Ti-RANT Suppressor",
     "price":      "$ 174,722",
-    "attributes": "24.% Optimal Range<br/>2% Accuracy<br/>4% Critical Hit Damage"
+    "attributes": "7.50% Critical Hit Chance<br/>5.50% Headshot Damage<br/>4% Critical Hit Damage<br/>50% Reduced Threat"
   },
-
   {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "The Firewall",
     "score":  "256",
-    "name":   "Decisive Gloves",
-    "armor":  "938",
+    "name":   "Rapid Chest",
+    "armor":  "1,927",
     "price":  "$ 890,304",
     "fire":   "-",
-    "stam":   "1157",
+    "stam":   "1139",
     "elec":   "-",
-    "major":  "1,306 LMG Damage<br/>7% Enemy Armor Damage<br/>2,534 Pistol Damage",
-    "minor":  "-"
+    "major":  "10.50% Exotic Damage Resilience<br/>5.50% Enemy Armor Damage",
+    "minor":  "24% Increased Kill XP"
   },
   {
     "type":       "gear-mod",
     "vendor":     "The Firewall",
-    "name":       "Firearms Mod",
-    "stat":       "260 FA",
+    "name":       "Performance Mod",
+    "stat":       "-",
     "price":      "$ 168,044",
-    "attribute":  "2% Exotic Damage Resilience"
+    "attribute":  "2.50% Smart Cover Damage Resilience"
   },
-
   {
     "type":     "weapon",
     "vendor":   "The Grindhouse",
     "score":    "256",
-    "name":     "Military M9",
+    "name":     "Custom M870 MCS",
     "price":    "$ 1,669,320",
-    "bonus":    "-",
-    "dmg":      "16.7K",
-    "rpm":      "450",
-    "mag":      "15",
-    "talent1":  "Expert",
-    "talent2":  "Swift",
-    "talent3":  "-"
+    "bonus":    "304.0% Stagger",
+    "dmg":      "172k",
+    "rpm":      "75",
+    "mag":      "5",
+    "talent1":  "Adept",
+    "talent2":  "Unforgiving",
+    "talent3":  "Destructive"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "The Grindhouse",
-    "name":       "Angled Grip",
+    "name":       "Omega Rifle Suppressor",
     "price":      "$ 174,722",
-    "attributes": "13.5% Stability<br/>4.5% Optimal Range<br/>2% Accuracy"
+    "attributes": "16.50% Stability<br/>3.0% Critical Hit Chance<br/>4.50% Optimal Range<br/>43% Reduced Threat"
   },
-
   {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "Southpaw",
     "score":  "256",
-    "name":   "Recovered Mask",
-    "armor":  "881",
+    "name":   "Recovered Holster",
+    "armor":  "917",
     "price":  "$ 779,016",
-    "fire":   "1230",
-    "stam":   "1265",
-    "elec":   "1162",
-    "major":  "20.5% Reload Speed",
+    "fire":   "1213",
+    "stam":   "1192",
+    "elec":   "1141",
+    "major":  "7,902 Health",
     "minor":  "-"
-
-
   },
   {
     "type":       "gear-mod",
@@ -88,22 +83,21 @@
     "name":       "Firearms Mod",
     "stat":       "255 FA",
     "price":      "$ 168,044",
-    "attribute":  "2.5% Exotic Damage Resilience"
+    "attribute":  "4.0% Ballistic Shield Damage"
   },
-
   {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "The Ward",
     "score":  "256",
-    "name":   "Prosperous Knee Pads",
-    "armor":  "1,561",
+    "name":   "Cunning Gloves",
+    "armor":  "936",
     "price":  "$ 890,304",
-    "fire":   "1267",
-    "stam":   "-",
+    "fire":   "-",
+    "stam":   "1177",
     "elec":   "-",
-    "major":  "15,759 Health",
-    "minor":  "13% Damage to Elites<br/>50% Increased Kill XP<br/>32% Shock Resistance"
+    "major":  "990 SMG Damage<br/>7% Skill Haste<br/>2,335 Pistol Damage",
+    "minor":  "-"
   },
   {
     "type":       "gear-mod",
@@ -111,52 +105,50 @@
     "name":       "Performance Mod",
     "stat":       "-",
     "price":      "$ 168,044",
-    "attribute":  "6.5% Turret duration"
+    "attribute":  "6.0% First Aid Self Heal"
   },
-
   {
     "type":     "weapon",
     "vendor":   "The Last Call",
     "score":    "256",
-    "name":     "Double Barrel Sawed Off",
+    "name":     "X-45",
     "price":    "$ 1,669,320",
-    "bonus":    "352% Stagger",
-    "dmg":      "127K",
-    "rpm":      "200",
-    "mag":      "2",
-    "talent1":  "Unforgiving",
-    "talent2":  "Accurate",
-    "talent3":  "Sustained"
+    "bonus":    "-",
+    "dmg":      "18.9k",
+    "rpm":      "625",
+    "mag":      "10",
+    "talent1":  "Expert",
+    "talent2":  "Capable",
+    "talent3":  "-"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "The Last Call",
-    "name":       "Heavy Magazine Spring",
+    "name":       "Ti-RANT Suppressor",
     "price":      "$ 168,044",
-    "attributes": "4% Critical Hit Damage<br/>3% Critical Hit Chance<br/>9.2% Rate of Fire"
+    "attributes": "7.0% Critical Hit Chance<br/>4% Critical Hit Damage<br/>5.50% Headshot Damage<br/>46% Reduced Threat"
   },
-
   {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "Madison's Stand",
     "score":  "256",
-    "name":   "Rapid Vest",
-    "armor":  "1,923",
+    "name":   "Relentless Backpack",
+    "armor":  "1,238",
     "price":  "$1,112,880",
-    "fire":   "1268",
+    "fire":   "-",
     "stam":   "-",
-    "elec":   "-",
-    "major":  "4% All Resistance<br/>4% Health on Kill",
-    "minor":  "25% Increased Kill XP"
+    "elec":   "1211",
+    "major":  "15.0% Stability",
+    "minor":  "55% Ammo Capacity"
   },
   {
     "type":       "gear-mod",
     "vendor":     "Madison's Stand",
     "name":       "Firearms Mod",
-    "stat":       "232 FA",
+    "stat":       "244 FA",
     "price":      "$ 168,044",
-    "attribute":  "3,004 Health"
+    "attribute":  "2.50% Exotic Damage Resilience"
   }
 
 ]
