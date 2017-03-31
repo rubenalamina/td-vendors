@@ -3,79 +3,79 @@
     "type":     "weapon",
     "vendor":   "The Crypt",
     "score":    "256",
-    "name":     "Enhanced AUG A3P",
+    "name":     "Classic FAL",
     "price":    "$ 1,669,320",
-    "bonus":    "19.50% Critical Hit Chance",
-    "dmg":      "21.5k",
-    "rpm":      "725",
-    "mag":      "25",
-    "talent1":  "Determined",
-    "talent2":  "Vicious",
-    "talent3":  "Fierce"
+    "bonus":    "19% Enemy Armor Damage",
+    "dmg":      "24.6k",
+    "rpm":      "650",
+    "mag":      "20",
+    "talent1":  "Brutal",
+    "talent2":  "Deadly",
+    "talent3":  "Commanding"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "The Crypt",
-    "name":       "Ti-RANT Suppressor",
+    "name":       "Russian Red Dot Sight",
     "price":      "$ 174,722",
-    "attributes": "7.50% Critical Hit Chance<br/>5.50% Headshot Damage<br/>4% Critical Hit Damage<br/>50% Reduced Threat"
+    "attributes": "15.0% Accuracy<br/>5% Critical Hit Damage<br/>2.50% Stability"
   },
   {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "The Firewall",
     "score":  "256",
-    "name":   "Rapid Chest",
-    "armor":  "1,927",
-    "price":  "$ 890,304",
+    "name":   "Technical Backpack",
+    "armor":  "1,256",
+    "price":  "$ 1,112,880",
     "fire":   "-",
-    "stam":   "1139",
+    "stam":   "1165",
     "elec":   "-",
-    "major":  "10.50% Exotic Damage Resilience<br/>5.50% Enemy Armor Damage",
-    "minor":  "24% Increased Kill XP"
+    "major":  "14.50% Stability",
+    "minor":  "15% Bleed Resistance"
   },
   {
     "type":       "gear-mod",
     "vendor":     "The Firewall",
-    "name":       "Performance Mod",
-    "stat":       "-",
+    "name":       "Firearms Mod",
+    "stat":       "261 FA",
     "price":      "$ 168,044",
-    "attribute":  "2.50% Smart Cover Damage Resilience"
+    "attribute":  "2,962 Health"
   },
   {
     "type":     "weapon",
     "vendor":   "The Grindhouse",
     "score":    "256",
-    "name":     "Custom M870 MCS",
+    "name":     "ACR",
     "price":    "$ 1,669,320",
-    "bonus":    "304.0% Stagger",
-    "dmg":      "172k",
-    "rpm":      "75",
-    "mag":      "5",
-    "talent1":  "Adept",
-    "talent2":  "Unforgiving",
-    "talent3":  "Destructive"
+    "bonus":    "22% Enemy Armor Damage",
+    "dmg":      "18.9k",
+    "rpm":      "760",
+    "mag":      "30",
+    "talent1":  "Commanding",
+    "talent2":  "Capable",
+    "talent3":  "Responsive"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "The Grindhouse",
-    "name":       "Omega Rifle Suppressor",
-    "price":      "$ 174,722",
-    "attributes": "16.50% Stability<br/>3.0% Critical Hit Chance<br/>4.50% Optimal Range<br/>43% Reduced Threat"
+    "name":       "High Velocity Magazine",
+    "price":      "$ 168,044",
+    "attributes": "6.50% Critical Hit Chance<br/>4.0% Reload Speed<br/>4% Critical Hit Damage"
   },
   {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "Southpaw",
     "score":  "256",
-    "name":   "Recovered Holster",
-    "armor":  "917",
-    "price":  "$ 779,016",
-    "fire":   "1213",
-    "stam":   "1192",
-    "elec":   "1141",
-    "major":  "7,902 Health",
-    "minor":  "-"
+    "name":   "Robust Chest",
+    "armor":  "1,981",
+    "price":  "$ 1,112,880",
+    "fire":   "-",
+    "stam":   "1171",
+    "elec":   "-",
+    "major":  "4% Health On Kill<br/>5.50% Enemy Armor Damage",
+    "minor":  "54% Ammo Capacity"
   },
   {
     "type":       "gear-mod",
@@ -83,21 +83,21 @@
     "name":       "Performance Mod",
     "stat":       "-",
     "price":      "$ 168,044",
-    "attribute":  "4.0% Ballistic Shield Damage"
+    "attribute":  "6.50% Mobile Cover Health"
   },
   {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "The Ward",
     "score":  "256",
-    "name":   "Cunning Gloves",
-    "armor":  "936",
-    "price":  "$ 890,304",
+    "name":   "Specialized Backpack",
+    "armor":  "1,326",
+    "price":  "$ 1,112,880",
     "fire":   "-",
-    "stam":   "1177",
+    "stam":   "1142",
     "elec":   "-",
-    "major":  "990 SMG Damage<br/>7% Skill Haste<br/>2,335 Pistol Damage",
-    "minor":  "-"
+    "major":  "11,629 Skill Power",
+    "minor":  "16% Disrupt Resistance"
   },
   {
     "type":       "gear-mod",
@@ -105,50 +105,50 @@
     "name":       "Performance Mod",
     "stat":       "-",
     "price":      "$ 168,044",
-    "attribute":  "6.0% First Aid Self Heal"
+    "attribute":  "6.50% Turrent Duration"
   },
   {
     "type":     "weapon",
     "vendor":   "The Last Call",
     "score":    "256",
-    "name":     "X-45",
+    "name":     "Classic M44 Carbine",
     "price":    "$ 1,669,320",
-    "bonus":    "-",
-    "dmg":      "18.9k",
-    "rpm":      "625",
-    "mag":      "10",
-    "talent1":  "Expert",
-    "talent2":  "Capable",
-    "talent3":  "-"
+    "bonus":    "169% Headshot Damage",
+    "dmg":      "118k",
+    "rpm":      "55",
+    "mag":      "5",
+    "talent1":  "Dominant",
+    "talent2":  "Adept",
+    "talent3":  "Coolheaded"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "The Last Call",
-    "name":       "Ti-RANT Suppressor",
-    "price":      "$ 168,044",
-    "attributes": "7.0% Critical Hit Chance<br/>4% Critical Hit Damage<br/>5.50% Headshot Damage<br/>46% Reduced Threat"
+    "name":       "Rugged Mini Reflex Sight",
+    "price":      "$ 174,722",
+    "attributes": "6.50% Critical Hit Chance<br/>4% Critical Hit Damage<br/>2.50% Stability"
   },
   {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "Madison's Stand",
     "score":  "256",
-    "name":   "Relentless Backpack",
-    "armor":  "1,238",
-    "price":  "$1,112,880",
+    "name":   "Accomplished Pads",
+    "armor":  "1,432",
+    "price":  "$890,304",
     "fire":   "-",
-    "stam":   "-",
-    "elec":   "1211",
-    "major":  "15.0% Stability",
-    "minor":  "55% Ammo Capacity"
+    "stam":   "1242",
+    "elec":   "-",
+    "major":  "3% All Resistance",
+    "minor":  "56% Increase XP On Kill<br/>32% Disrupt Resistance<br/>12% Damage To Elites"
   },
   {
     "type":       "gear-mod",
     "vendor":     "Madison's Stand",
-    "name":       "Firearms Mod",
-    "stat":       "244 FA",
+    "name":       "Stamina Mod",
+    "stat":       "242 STA",
     "price":      "$ 168,044",
-    "attribute":  "2.50% Exotic Damage Resilience"
+    "attribute":  "3,196 Health"
   }
 
 ]

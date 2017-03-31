@@ -4,47 +4,47 @@
     "type":   "blueprint",
     "name":   "ACR",
     "score":  "256",
-   "price":  "PxC 1082"
+    "price":  "PxC 1082"
   },
 
   {
     "type":   "blueprint",
-    "name":   "Lightweight M4",
+    "name":   "Classic AK-47",
     "score":  "256",
-  "price":  "PxC 1082"
+    "price":  "PxC 1082"
   },
 
   {
     "type":   "blueprint",
-    "name":   "Firearms Backpack",
+    "name":   "Stamina Knee Pads",
     "score":  "256",
-    "price":  "PxC 665"
+    "price":  "PxC 499"
   },
 
   {
     "type":   "blueprint",
-    "name":   "Electronics Mask",
+    "name":   "Firearms Gloves",
     "score":  "256",
-    "price":  "PxC 582"
+    "price":  "PxC 499"
   },
 
   {
     "type":   "blueprint",
-    "name":   "PRO Red Dot Sight<br/>Critical Hit Damage, Random, Random",
+    "name":   "Vertical Grip - Foliage Green<br/>Optimal Range, Random, Random",
     "score":  "34",
     "price":  "PxC 200"
   },
 
   {
     "type":   "blueprint",
-    "name":   "Small Grip - Red<br/>Critical Hit Damage, Random, Random",
+    "name":   "Extended Magazine<br/>Magazine Size, Random, Random",
     "score":  "34",
-    "price":  "PxC 200"
+    "price":  "PxC 192"
   },
 
   {
     "type":   "blueprint",
-    "name":   "Firearms Gear Mod",
+    "name":   "Electronics Gear Mod",
     "score":  "34",
     "price":  "PxC 192"
   },
@@ -58,13 +58,6 @@
 
   {
     "type":   "blueprint",
-    "name":   "Military M870",
-    "score":  "229",
-    "price":  "PxC 627"
-  },
-
-  {
-    "type":   "blueprint",
     "name":   "586 Magnum",
     "score":  "229",
     "price":  "PxC 470"
@@ -72,13 +65,20 @@
 
   {
     "type":   "blueprint",
-    "name":   "Police T821",
+    "name":   "Military AK-47M",
+    "score":  "229",
+    "price":  "PxC 679"
+  },
+
+  {
+    "type":   "blueprint",
+    "name":   "Police 686 Magnum",
     "score":  "204",
-    "price":  "PxC 340"
+    "price":  "PxC 278"
   },
   {
     "type":   "blueprint",
-    "name":   "LVOA-C",
+    "name":   "Black Market SASG-12 S",
     "score":  "204",
     "price":  "PxC 340"
   }

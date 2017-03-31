@@ -5,43 +5,43 @@
     "vendor": "Autumn's Hope",
     "score":  "256",
     "name":   "Accomplished Knee Pads",
-    "armor":  "884",
+    "armor":  "1,586",
     "price":  "$ 890,304",
     "fire":   "-",
-    "stam":   "1123",
+    "stam":   "1245",
     "elec":   "-",
-    "major":  "14,847 Health",
-    "minor":  "13% Damage to Elites<br />31% Burn Resistance<br />29% Shock Resistance"
+    "major":  "3.5 Enemy Armor Damage",
+    "minor":  "12% Damage to Elites<br />30% Bleed Resistance<br />54% Increased Kill XP"
   },
   {
     "type":       "gear-mod",
-    "name":       "Stamina Mod",
+    "name":       "Performance Mod",
     "vendor":     "Autumn's Hope",
-    "stat":       "236 STA",
+    "stat":       "-",
     "price":      "$ 168,044",
-    "attribute":  "3% Skill Haste"
+    "attribute":  "4.5% Smart Cover Duration"
   },
 
   {
     "type":     "weapon",
     "vendor":   "Wolves Den",
     "score":    "256",
-    "name":     "Rhino Special",
-    "price":    "$ 1,335,456",
-    "bonus":    "-",
-    "dmg":      "28.5K",
-    "rpm":      "850",
-    "mag":      "30",
-    "talent1":  "Expert",
-    "talent2":  "Coolheaded",
-    "talent3":  "-"
+    "name":     "Tactical SASG-12 K",
+    "price":    "$ 1,669,320",
+    "bonus":    "323% Stagger",
+    "dmg":      "72.9K",
+    "rpm":      "180",
+    "mag":      "7",
+    "talent1":  "Trained",
+    "talent2":  "Capable",
+    "talent3":  "Ferocious"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "Wolves Den",
-    "name":       "VX-1 Scope (12x)",
+    "name":       "Small laser pointer",
     "price":      "$ 174,722",
-    "attributes": "16% Headshot Damage<br />2.0% Accuracy<br />3.0% Critical Hit Chance"
+    "attributes": "16% Accuracy<br />2.5% Stability<br />4.5% Reload Speed"
   },
 
   {
@@ -49,44 +49,44 @@
     "rarity": "header-he",
     "vendor": "Dante's Run",
     "score":  "256",
-    "name":   "Nimble Holster",
-    "armor":  "965",
-    "price":  "$ 779,016",
-    "fire":   "1139",
-    "stam":   "1147",
-    "elec":   "1114",
-    "major":  "7,456 Health",
-    "minor":  "-"
+    "name":   "Inventive Back Pack",
+    "armor":  "1,192",
+    "price":  "$ 1,112,880",
+    "fire":   "-",
+    "stam":   "-",
+    "elec":   "1268",
+    "major":  "11,693 Skill Power",
+    "minor":  "16% Burn Resistance"
   },
   {
     "type":       "gear-mod",
     "vendor":     "Dante's Run",
-    "name":       "Performance Mod",
-    "stat":       "-",
+    "name":       "Firearms Mod",
+    "stat":       "237 FA",
     "price":      "$ 168,044",
-    "attribute":  "3.50% Ballistic Shield Damage"
+    "attribute":  "3% Skill Haste"
   },
 
   {
     "type":     "weapon",
     "vendor":   "Kerman Station",
     "score":    "256",
-    "name":     "Tactical Mk 16",
+    "name":     "Infantry MG5",
     "price":    "$ 1,669,320",
-    "bonus":    "23% Enemy Armor Damage",
-    "dmg":      "19.3K",
-    "rpm":      "625",
-    "mag":      "30",
-    "talent1":  "Deadly",
-    "talent2":  "Skilled",
-    "talent3":  "Capable"
+    "bonus":    "12%  DMG Out of Cover",
+    "dmg":      "11.4K",
+    "rpm":      "800",
+    "mag":      "50",
+    "talent1":  "Fierce",
+    "talent2":  "Destructive",
+    "talent3":  "Talented"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "Kerman Station",
-    "name":       "Angled grip - Red",
-    "price":      "$ 174,722",
-    "attributes": "12% Stability<br />5.0% Reload Speed<br />4% Critical Hit Damage"
+    "name":       "Heavy Magazine Spring",
+    "price":      "$ 168,044",
+    "attributes": "3% Critical Hit Chance<br />5.0% Reload Speed<br />10% Rate of Fire"
   },
 
   {
@@ -94,66 +94,66 @@
     "rarity": "header-he",
     "vendor": "The Cavern",
     "score":  "256",
-    "name":   "Rapid Chest",
-    "armor":  "979",
-    "price":  "$ 1,112,880",
+    "name":   "Tenacious Mask",
+    "armor":  "875",
+    "price":  "$ 1,001,592",
     "fire":   "-",
-    "stam":   "1217",
-    "elec":   "-",
-    "major":  "4% All Resistance<br />10.0% Exotic Damage Resilience",
-    "minor":  "51% Ammo Capacity"
+    "stam":   "-",
+    "elec":   "1235",
+    "major":  "7.0% Enemy Armor Damage",
+    "minor":  "13% Increased Kill XP"
   },
   {
     "type":       "gear-mod",
     "vendor":     "The Cavern",
-    "name":       "Firearms Mod",
-    "stat":       "255 FA",
+    "name":       "Stamina Mod",
+    "stat":       "265 STA",
     "price":      "$ 168,044",
-    "attribute":  "2.0% Exotic Damage Resilience"
+    "attribute":  "2,964 Skill Power"
   },
 
   {
     "type":     "weapon",
     "vendor":   "The Meat Locker",
     "score":    "256",
-    "name":     "Paratrooper SVD",
+    "name":     "Military AK-47M",
     "price":    "$ 1,669,320",
-    "bonus":    "163% Headshot Damage",
-    "dmg":      "48.6K",
-    "rpm":      "260",
-    "mag":      "10",
-    "talent1":  "Sustained",
-    "talent2":  "Vicious",
-    "talent3":  "Disciplined"
+    "bonus":    "18% Enemy Armor Damage",
+    "dmg":      "16.6K",
+    "rpm":      "600",
+    "mag":      "30",
+    "talent1":  "Capable",
+    "talent2":  "Swift",
+    "talent3":  "Competent"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "The Meat Locker",
-    "name":       "Osprey .45 Suppresso - FDE",
+    "name":       "T2 Micro Red Dot Sight",
     "price":      "$ 174,722",
-    "attributes": "15.50% Accuracy<br/>6.0% Headshot Damage<br/>2.50% Stability<br />45% Reduced Threat"
+    "attributes": "14.50% Accuracy<br/>5.0% Optimal Range<br/>4.00% Critical Hit Damage"
   },
 
   {
     "type":     "weapon",
     "vendor":   "Camp Hudson Weapon Vendor",
     "score":    "256",
-    "name":     "Super 90",
-    "price":    "$ 1,669,320",
-    "bonus":    "349.0% Stagger",
-    "dmg":      "97.5K",
-    "rpm":      "150",
-    "mag":      "8",
-    "talent1":  "Swift",
-    "talent2":  "Predatory",
-    "talent3":  "Deadly"
+    "name":     "Police 686 Magnum",
+    "price":    "$ 1,335,456",
+    "bonus":    "-",
+    "dmg":      "26.5K",
+    "rpm":      "350",
+    "mag":      "6",
+    "talent1":  "Expert",
+    "talent2":  "Commanding",
+    "talent3":  "-"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "Camp Hudson Weapon Vendor",
-    "name":       "Vertical Grip",
+    "name":       "Osprey .45 Suppressor",
     "price":      "$ 174,722",
-    "attributes": "48.50% Optimal Range<br />2.0% Accuracy<br />4% Critical Hit Damage"
+    "attributes": "16.50% Accuracy<br />3.0% Critical Hit Chance<br />4.5% Optimal Range<br />43% Reduced Threat"
   },
 
   {
@@ -161,22 +161,22 @@
     "rarity": "header-he",
     "vendor": "Camp Hudson Gear Vendor",
     "score":  "256",
-    "name":   "Steadfast Holster",
-    "armor":  "908",
-    "price":  "$ 779,016",
-    "fire":   "1249",
-    "stam":   "1258",
-    "elec":   "1239",
-    "major":  "6% Skill Haste",
-    "minor":  "-"
+    "name":   "Accomplished Knee Pads",
+    "armor":  "1605",
+    "price":  "$ 890,304",
+    "fire":   "1177",
+    "stam":   "-",
+    "elec":   "-",
+    "major":  "8% Critical Hit Damage",
+    "minor":  "12% Damage to Elites<br />28% Shock Resistance<br />31% Disrupt Resistance"
   },
   {
     "type":       "gear-mod",
     "vendor":     "Camp Hudson Gear Vendor",
     "name":       "Electronics Mod",
-    "stat":       "241 ELE",
+    "stat":       "243 ELE",
     "price":      "$ 168,044",
-    "attribute":  "3,134 Health"
+    "attribute":  "3,294 Skill Power"
   }
 
 ]
