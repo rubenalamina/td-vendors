@@ -3,203 +3,203 @@
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "BoO Gear Vendor",
-    "name":   "Recovered Holster",
+    "name":   "Robust Chest",
     "score":  "256",
-    "armor":  "859",
-    "price":  "$779,016",
-    "fire":   "1135",
-    "stam":   "1249",
-    "elec":   "1147",
-    "major":  "3.5%% Critical Hit Damage<br/>",
-    "minor":  "-"
+    "armor":  "1923",
+    "price":  "$1,112,880",
+    "fire":   "-",
+    "stam":   "-",
+    "elec":   "1172",
+    "major":  "10.5% Exotic Damage Resilience<br/>4% All Resistance",
+    "minor":  "25% Kill XP"
   },
   {
     "type":       "gear-mod",
-    "name":       "Performance Mod",
+    "name":       "Electronics Mod",
     "vendor":     "BoO Gear Vendor",
-    "stat":       "-",
+    "stat":       "265 ELE",
     "price":      "$ 168,044",
-    "attribute":  "3.5% Sticky bomb Damage"
+    "attribute":  "3% Skill Haste"
   },
 
   {
     "type":     "weapon",
-    "name":     "AUG A3 Para XS",
+    "name":     "Police UMP-45",
     "vendor":   "BoO Weapons Vendor",
     "score":    "256",
     "price":    "$ 1,669,320",
-    "bonus":    "22.5% Critical Hit Chance",
-    "dmg":      "18.4K",
-    "rpm":      "725",
-    "mag":      "25",
-    "talent1":  "Swift",
-    "talent2":  "Brutal",
-    "talent3":  "Vicious"
+    "bonus":    "20.5% Critical Hit Chance",
+    "dmg":      "19.6K",
+    "rpm":      "600",
+    "mag":      "30",
+    "talent1":  "Destructive",
+    "talent2":  "Responsive",
+    "talent3":  "Ambusher"
   },
   {
     "type":       "weapon-mod",
-    "name":       "Small Grip",
+    "name":       "Muzzle Brake",
     "vendor":     "BoO Weapons Vendor",
     "price":      "$ 174,722",
-    "attributes": "16% Critical Hit Damage<br/>2.5% Stability<br/>5% Reload Speed"
+    "attributes": "12% Stability<br/>4.5% Optimal Range<br/>6% Headshot Damage"
   },
 
   {
     "type":     "weapon",
     "vendor":   "DZ Vendor at BoO",
-    "name":     "Infantry MG5",
+    "name":     "Police 686 Magnum",
     "score":    "256",
-    "price":    "DZ 416,160",
-    "bonus":    "15% DMG to targets out of Cover",
-    "dmg":      "16.8",
-    "rpm":      "800",
-    "mag":      "100",
-    "talent1":  "Competent",
-    "talent2":  "Prepared",
-    "talent3":  "Dominant"
+    "price":    "DZ 332,928",
+    "bonus":    "-",
+    "dmg":      "32.8K",
+    "rpm":      "350",
+    "mag":      "6",
+    "talent1":  "Expert",
+    "talent2":  "Accurate",
+    "talent3":  "-"
   },
   {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "DZ Vendor at BoO",
-    "name":   "Inventive Backpack",
+    "name":   "Astute Gloves",
     "score":  "256",
-    "armor":  "1246",
-    "price":  "DZ 277,440",
-    "fire":   "-",
-    "stam":   "1134",
+    "armor":  "964",
+    "price":  "DZ 221,952",
+    "fire":   "1154",
+    "stam":   "-",
     "elec":   "-",
-    "major":  "11,705 Health",
-    "minor":  "15% Burn Resistance"
+    "major":  "7% Enemy Armor Damage<br/>946 SMG Damage<br/>15% Critical Hit Damage",
+    "minor":  "-"
   },
   {
     "type":       "gear-mod",
     "name":       "Stamina Mod",
     "vendor":     "DZ Vendor at BoO",
-    "stat":       "248 STA",
+    "stat":       "239 STA",
     "price":      "DZ 21,362",
     "attribute":  "2.5% Exotic Damage Resilience"
   },
   {
     "type":       "weapon-mod",
-    "name":       "Loud Vent Brake",
+    "name":       "VX-1 (12X) Scope",
     "vendor":     "DZ Vendor at BoO",
     "price":      "DZ 24,137",
-    "attributes": "16% Critical Hit Damage<br/>2.5% Stability<br/>2.5% Critical Hit Chance<br/>43% Increased Threat"
+    "attributes": "16% Headshot Damage<br/>2.5% Stability<br/>4.5% Optimal Range"
   },
 
   {
     "type":     "weapon",
-    "name":     "Snubnosed Rhino",
+    "name":     "Rhino",
     "vendor":   "Advanced Weaponry Vendor",
     "score":    "256",
     "price":    "$ 1,335,456",
     "bonus":    "-",
-    "dmg":      "31.7K",
+    "dmg":      "34.1K",
     "rpm":      "350",
     "mag":      "6",
     "talent1":  "Expert",
-    "talent2":  "Sustained",
+    "talent2":  "Skilled",
     "talent3":  "-"
   },
   {
     "type":     "weapon",
-    "name":     "Converted SMG-9 A2",
+    "name":     "Black Market T821",
     "vendor":   "Advanced Weaponry Vendor",
     "score":    "256",
     "price":    "$ 1,669,320",
-    "bonus":    "20% Critical Hit Chance",
-    "dmg":      "16.5K",
-    "rpm":      "825",
+    "bonus":    "22% Critical Hit Chance",
+    "dmg":      "18.5K",
+    "rpm":      "550",
     "mag":      "32",
-    "talent1":  "Vicious",
-    "talent2":  "Adept",
-    "talent3":  "Skilled"
+    "talent1":  "Accurate",
+    "talent2":  "Dominant",
+    "talent3":  "Talented"
   },
   {
     "type":     "weapon",
-    "name":     "Military P416",
+    "name":     "Custom P416 G3",
     "vendor":   "Advanced Weaponry Vendor",
     "score":    "256",
     "price":    "$ 1,669,320",
-    "bonus":    "21% Enemy Armor Damage",
-    "dmg":      "18.8",
+    "bonus":    "19% Enemy Armor Damage",
+    "dmg":      "19.3K",
     "rpm":      "750",
     "mag":      "30",
-    "talent1":  "Skilled",
-    "talent2":  "Sustained",
-    "talent3":  "Accurate"
+    "talent1":  "Focused",
+    "talent2":  "Swift",
+    "talent3":  "Prepared"
   },
   {
     "type":     "weapon",
-    "name":     "Super 90",
+    "name":     "Marine Super 90",
     "vendor":   "Advanced Weaponry Vendor",
     "score":    "256",
     "price":    "$ 1,669,320",
-    "bonus":    "302.5% Stagger",
-    "dmg":      "117K",
+    "bonus":    "349.5% Stagger",
+    "dmg":      "116K",
     "rpm":      "150",
     "mag":      "8",
-    "talent1":  "Brutal",
-    "talent2":  "Ferocious",
-    "talent3":  "Unforgiving"
+    "talent1":  "Fierce",
+    "talent2":  "Predatory",
+    "talent3":  "Meticulous"
   },
   {
     "type":     "weapon",
-    "name":     "Classic M1A",
+    "name":     "M700 Tactical",
     "vendor":   "Advanced Weaponry Vendor",
     "score":    "256",
     "price":    "$ 1,669,320",
-    "bonus":    "144% Headshot Damage",
-    "dmg":      "54.7K",
-    "rpm":      "300",
-    "mag":      "10",
-    "talent1":  "Determined",
-    "talent2":  "Brutal",
-    "talent3":  "Fierce"
+    "bonus":    "169% Headshot Damage",
+    "dmg":      "111K",
+    "rpm":      "54",
+    "mag":      "7",
+    "talent1":  "Harmful",
+    "talent2":  "Toxic",
+    "talent3":  "Elevated"
   },
   {
     "type":     "weapon",
-    "name":     "M249 B",
+    "name":     "Military L86 LSW",
     "vendor":   "Advanced Weaponry Vendor",
     "score":    "256",
     "price":    "$ 1,669,320",
-    "bonus":    "13% Damage to targets out of Cover",
-    "dmg":      "19.1k",
-    "rpm":      "550",
-    "mag":      "100",
-    "talent1":  "Determined",
-    "talent2":  "Skilled",
-    "talent3":  "Competent"
+    "bonus":    "14% Damage to targets out of Cover",
+    "dmg":      "19.9k",
+    "rpm":      "610",
+    "mag":      "30",
+    "talent1":  "Prepared",
+    "talent2":  "Sustained",
+    "talent3":  "Ferocious"
   },
 
   {
     "type":       "weapon-mod",
-    "name":       "High Velocity Magazine",
+    "name":       "Quick Release Magazine",
     "vendor":     "Advanced Weaponry Vendor",
     "price":      "$ 168,044",
-    "attributes": "7% Critical Hit Chance<br/>4% Critical Hit Damage<br/>4.9% Rate of Fire"
+    "attributes": "30% Reload Speed<br/>4% Critical Hit Chance<br/>2.5% Critical Hit Damage"
   },
   {
     "type":       "weapon-mod",
-    "name":       "Flash Hider",
+    "name":       "SR-7 Suppressor",
     "vendor":     "Advanced Weaponry Vendor",
     "price":      "$ 174,722",
-    "attributes": "14.5% Accuracy<br/>2.5% Stability<br/>3% Critical Hit Chance"
+    "attributes": "17% Critical Hit Damage<br/>2% Accuracy<br/>5.5% Headshot Damage<br/>43% Reduced Threat"
   },
   {
     "type":       "weapon-mod",
-    "name":       "Vertical Grip Foliage Green",
+    "name":       "Small Laser Pointer",
     "vendor":     "Advanced Weaponry Vendor",
     "price":      "$ 174,722",
-    "attributes": "47% Optimal Range<br/>2% Accuracy<br/>2.5% Stability"
+    "attributes": "15% Accuracy<br/>2.5% Stability<br/>4% Critical Hit Damage"
   },
   {
     "type":       "weapon-mod",
-    "name":       "VX-1 Scope (12X)",
+    "name":       "PRO red dot sight",
     "vendor":     "Advanced Weaponry Vendor",
     "price":      "$ 174,722",
-    "attributes": "18.5% Headshot Damage<br/>4% Critical Hit Damage<br/>5% Optimal Range"
+    "attributes": "6% Headshot Damage<br/>4.5% Optimal Range<br/>4% Critical Hit Damage"
   }
 
 ]

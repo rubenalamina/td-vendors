@@ -9,35 +9,35 @@
 
   {
     "type":   "blueprint",
-    "name":   "Classic AK-47",
+    "name":   "MP7",
     "score":  "256",
-    "price":  "PxC 1082"
+    "price":  "PxC 915"
   },
 
   {
     "type":   "blueprint",
-    "name":   "Stamina Knee Pads",
+    "name":   "Firearms Backpack",
     "score":  "256",
-    "price":  "PxC 499"
+    "price":  "PxC 665"
   },
 
   {
     "type":   "blueprint",
-    "name":   "Firearms Gloves",
+    "name":   "Holster",
     "score":  "256",
-    "price":  "PxC 499"
+    "price":  "PxC 416"
   },
 
   {
     "type":   "blueprint",
-    "name":   "Vertical Grip - Foliage Green<br/>Optimal Range, Random, Random",
+    "name":   "Flash Hider<br/>Accuracy, Random, Random",
     "score":  "34",
     "price":  "PxC 200"
   },
 
   {
     "type":   "blueprint",
-    "name":   "Extended Magazine<br/>Magazine Size, Random, Random",
+    "name":   "Heavy Magazine Spring<br/>Rate of Fire, Random, Random",
     "score":  "34",
     "price":  "PxC 192"
   },
@@ -58,28 +58,28 @@
 
   {
     "type":   "blueprint",
-    "name":   "586 Magnum",
+    "name":   "Military L86 LSW",
     "score":  "229",
-    "price":  "PxC 470"
+    "price":  "PxC 574"
   },
 
   {
     "type":   "blueprint",
-    "name":   "Military AK-47M",
+    "name":   "Classic FAL",
     "score":  "229",
     "price":  "PxC 679"
   },
 
   {
     "type":   "blueprint",
-    "name":   "Police 686 Magnum",
+    "name":   "MP-5 ST",
     "score":  "204",
-    "price":  "PxC 278"
+    "price":  "PxC 340"
   },
   {
     "type":   "blueprint",
-    "name":   "Black Market SASG-12 S",
+    "name":   "Black Market AK-74",
     "score":  "204",
-    "price":  "PxC 340"
+    "price":  "PxC 402"
   }
 ]

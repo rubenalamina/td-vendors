@@ -3,79 +3,79 @@
     "type":     "weapon",
     "vendor":   "The Crypt",
     "score":    "256",
-    "name":     "Classic FAL",
-    "price":    "$ 1,669,320",
-    "bonus":    "19% Enemy Armor Damage",
-    "dmg":      "24.6k",
-    "rpm":      "650",
-    "mag":      "20",
-    "talent1":  "Brutal",
-    "talent2":  "Deadly",
-    "talent3":  "Commanding"
+    "name":     "M1911",
+    "price":    "$ 1,335,456",
+    "bonus":    "-",
+    "dmg":      "22.0k",
+    "rpm":      "310",
+    "mag":      "7",
+    "talent1":  "Expert",
+    "talent2":  "Dominant",
+    "talent3":  "-"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "The Crypt",
-    "name":       "Russian Red Dot Sight",
+    "name":       "Small Laser Pointer",
     "price":      "$ 174,722",
-    "attributes": "15.0% Accuracy<br/>5% Critical Hit Damage<br/>2.50% Stability"
+    "attributes": "16.0% Accuracy<br/>4% Critical Hit Damage<br/>2.50% Stability"
   },
   {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "The Firewall",
     "score":  "256",
-    "name":   "Technical Backpack",
-    "armor":  "1,256",
-    "price":  "$ 1,112,880",
+    "name":   "Prosperous Knee Pads",
+    "armor":  "1,629",
+    "price":  "$ 890,304",
     "fire":   "-",
-    "stam":   "1165",
+    "stam":   "1126",
     "elec":   "-",
-    "major":  "14.50% Stability",
-    "minor":  "15% Bleed Resistance"
+    "major":  "3% All Resistance",
+    "minor":  "13% Damage to Elites<br/>28% Blind/Deaf Resistance<br/>29% Bleed Resistance"
   },
   {
     "type":       "gear-mod",
     "vendor":     "The Firewall",
-    "name":       "Firearms Mod",
-    "stat":       "261 FA",
+    "name":       "Performance Mod",
+    "stat":       "-",
     "price":      "$ 168,044",
-    "attribute":  "2,962 Health"
+    "attribute":  "3.50% Mobile Cover Damage Resilience"
   },
   {
     "type":     "weapon",
     "vendor":   "The Grindhouse",
     "score":    "256",
-    "name":     "ACR",
+    "name":     "Double Barrel Sawed Off",
     "price":    "$ 1,669,320",
-    "bonus":    "22% Enemy Armor Damage",
-    "dmg":      "18.9k",
-    "rpm":      "760",
-    "mag":      "30",
-    "talent1":  "Commanding",
-    "talent2":  "Capable",
-    "talent3":  "Responsive"
+    "bonus":    "330.0% Stagger",
+    "dmg":      "114k",
+    "rpm":      "200",
+    "mag":      "2",
+    "talent1":  "Dominant",
+    "talent2":  "Adept",
+    "talent3":  "Meticulous"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "The Grindhouse",
-    "name":       "High Velocity Magazine",
-    "price":      "$ 168,044",
-    "attributes": "6.50% Critical Hit Chance<br/>4.0% Reload Speed<br/>4% Critical Hit Damage"
+    "name":       "552 Holosight",
+    "price":      "$ 174,722",
+    "attributes": "7.50% Critical Hit Chance<br/>4.50% Optimal Range<br/>4% Critical Hit Damage"
   },
   {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "Southpaw",
     "score":  "256",
-    "name":   "Robust Chest",
-    "armor":  "1,981",
-    "price":  "$ 1,112,880",
+    "name":   "Refreshed Mask",
+    "armor":  "958",
+    "price":  "$ 1,001,592",
     "fire":   "-",
-    "stam":   "1171",
-    "elec":   "-",
-    "major":  "4% Health On Kill<br/>5.50% Enemy Armor Damage",
-    "minor":  "54% Ammo Capacity"
+    "stam":   "-",
+    "elec":   "1255",
+    "major":  "4% Health on Kill",
+    "minor":  "14% Burn Resistance"
   },
   {
     "type":       "gear-mod",
@@ -90,14 +90,14 @@
     "rarity": "header-he",
     "vendor": "The Ward",
     "score":  "256",
-    "name":   "Specialized Backpack",
-    "armor":  "1,326",
-    "price":  "$ 1,112,880",
+    "name":   "Prosperous Knee Pads",
+    "armor":  "1,635",
+    "price":  "$ 890,304",
     "fire":   "-",
-    "stam":   "1142",
+    "stam":   "1180",
     "elec":   "-",
-    "major":  "11,629 Skill Power",
-    "minor":  "16% Disrupt Resistance"
+    "major":  "8% Exotic Damage Resilience",
+    "minor":  "30% Bleed Resistance<br/>28% Disorient Resistance<br/>14% Damage to Elites"
   },
   {
     "type":       "gear-mod",
@@ -105,50 +105,50 @@
     "name":       "Performance Mod",
     "stat":       "-",
     "price":      "$ 168,044",
-    "attribute":  "6.50% Turrent Duration"
+    "attribute":  "4.0% Smart Cover Duration"
   },
   {
     "type":     "weapon",
     "vendor":   "The Last Call",
     "score":    "256",
-    "name":     "Classic M44 Carbine",
+    "name":     "Tactical SA-58",
     "price":    "$ 1,669,320",
-    "bonus":    "169% Headshot Damage",
-    "dmg":      "118k",
-    "rpm":      "55",
-    "mag":      "5",
-    "talent1":  "Dominant",
-    "talent2":  "Adept",
-    "talent3":  "Coolheaded"
+    "bonus":    "18% Enemy Armor Damage",
+    "dmg":      "22.4k",
+    "rpm":      "650",
+    "mag":      "20",
+    "talent1":  "Prepared",
+    "talent2":  "Competent",
+    "talent3":  "Swift"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "The Last Call",
-    "name":       "Rugged Mini Reflex Sight",
+    "name":       "PRO Red Dot Sight",
     "price":      "$ 174,722",
-    "attributes": "6.50% Critical Hit Chance<br/>4% Critical Hit Damage<br/>2.50% Stability"
+    "attributes": "17% Critical Hit Damage<br/>2.50% Stability<br/>5.50% Headshot Damage"
   },
   {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "Madison's Stand",
     "score":  "256",
-    "name":   "Accomplished Pads",
-    "armor":  "1,432",
+    "name":   "Savage Gloves",
+    "armor":  "984",
     "price":  "$890,304",
     "fire":   "-",
-    "stam":   "1242",
+    "stam":   "1215",
     "elec":   "-",
-    "major":  "3% All Resistance",
-    "minor":  "56% Increase XP On Kill<br/>32% Disrupt Resistance<br/>12% Damage To Elites"
+    "major":  "16% Critical Hit Damage<br/>4,028 Marksman Rifle Damage<br/>5.0% Critical Hit Chance",
+    "minor":  "-"
   },
   {
     "type":       "gear-mod",
     "vendor":     "Madison's Stand",
-    "name":       "Stamina Mod",
-    "stat":       "242 STA",
+    "name":       "Firearms Mod",
+    "stat":       "246 FA",
     "price":      "$ 168,044",
-    "attribute":  "3,196 Health"
+    "attribute":  "2,928 Skill Power"
   }
 
 ]
