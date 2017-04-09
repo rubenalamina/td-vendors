@@ -3,79 +3,78 @@
     "type":     "weapon",
     "vendor":   "The Crypt",
     "score":    "256",
-    "name":     "M1911",
-    "price":    "$ 1,335,456",
-    "bonus":    "-",
-    "dmg":      "22.0k",
-    "rpm":      "310",
-    "mag":      "7",
-    "talent1":  "Expert",
-    "talent2":  "Dominant",
-    "talent3":  "-"
+    "name":     "M249 B",
+    "price":    "$ 1,669,320",
+    "bonus":    "14% DMG Out of Cover",
+    "dmg":      "19.0k",
+    "rpm":      "550",
+    "mag":      "100",
+    "talent1":  "Determined",
+    "talent2":  "Self-preserved",
+    "talent3":  "Commanding"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "The Crypt",
-    "name":       "Small Laser Pointer",
-    "price":      "$ 174,722",
-    "attributes": "16.0% Accuracy<br/>4% Critical Hit Damage<br/>2.50% Stability"
+    "name":       "Heavy Magazine",
+    "price":      "$ 168,044",
+    "attributes": "5% Reload Speed<br/>11% Magazine Size<br/>9.30% Rate of Fire"
   },
   {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "The Firewall",
     "score":  "256",
-    "name":   "Prosperous Knee Pads",
-    "armor":  "1,629",
+    "name":   "Decisive Gloves",
+    "armor":  "911",
     "price":  "$ 890,304",
     "fire":   "-",
-    "stam":   "1126",
-    "elec":   "-",
-    "major":  "3% All Resistance",
-    "minor":  "13% Damage to Elites<br/>28% Blind/Deaf Resistance<br/>29% Bleed Resistance"
+    "stam":   "-",
+    "elec":   "1189",
+    "attributes": "1,252 Shotgun Damage<br/>4% Health on Kill<br/>7.5% Enemy Armor Damage"
   },
   {
     "type":       "gear-mod",
     "vendor":     "The Firewall",
-    "name":       "Performance Mod",
-    "stat":       "-",
+    "name":       "Electronic Mod",
+    "stat":       "255",
     "price":      "$ 168,044",
-    "attribute":  "3.50% Mobile Cover Damage Resilience"
+    "attribute":  "3% Signature Ability Gain"
   },
   {
     "type":     "weapon",
     "vendor":   "The Grindhouse",
     "score":    "256",
-    "name":     "Double Barrel Sawed Off",
+    "name":     "Double Barrel Shotgun",
     "price":    "$ 1,669,320",
-    "bonus":    "330.0% Stagger",
-    "dmg":      "114k",
+    "bonus":    "330.5% Stagger",
+    "dmg":      "147k",
     "rpm":      "200",
     "mag":      "2",
-    "talent1":  "Dominant",
-    "talent2":  "Adept",
-    "talent3":  "Meticulous"
+    "talent1":  "Determined",
+    "talent2":  "Predatory",
+    "talent3":  "Destructive"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "The Grindhouse",
-    "name":       "552 Holosight",
+    "name":       "Angled Grip",
     "price":      "$ 174,722",
-    "attributes": "7.50% Critical Hit Chance<br/>4.50% Optimal Range<br/>4% Critical Hit Damage"
+    "attributes": "14% Stability<br/>2% Accuracy<br/>4.5% Optimal Range"
   },
   {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "Southpaw",
     "score":  "256",
-    "name":   "Refreshed Mask",
-    "armor":  "958",
+    "name":   "Tenacious Mask",
+    "armor":  "967",
     "price":  "$ 1,001,592",
     "fire":   "-",
     "stam":   "-",
-    "elec":   "1255",
-    "major":  "4% Health on Kill",
-    "minor":  "14% Burn Resistance"
+    "elec":   "1184",
+    "major":  "6.5% Enemy Armor Damage",
+    "minor":  "14% Increased Kill XP"
   },
   {
     "type":       "gear-mod",
@@ -83,7 +82,7 @@
     "name":       "Performance Mod",
     "stat":       "-",
     "price":      "$ 168,044",
-    "attribute":  "6.50% Mobile Cover Health"
+    "attribute":  "6.50% Support Station Range"
   },
   {
     "type":   "gear",
@@ -111,44 +110,44 @@
     "type":     "weapon",
     "vendor":   "The Last Call",
     "score":    "256",
-    "name":     "Tactical SA-58",
+    "name":     "Custom L86 A2",
     "price":    "$ 1,669,320",
-    "bonus":    "18% Enemy Armor Damage",
-    "dmg":      "22.4k",
-    "rpm":      "650",
-    "mag":      "20",
-    "talent1":  "Prepared",
-    "talent2":  "Competent",
-    "talent3":  "Swift"
+    "bonus":    "15% DMG out of cover",
+    "dmg":      "19.6k",
+    "rpm":      "610",
+    "mag":      "30",
+    "talent1":  "Swift",
+    "talent2":  "Adept",
+    "talent3":  "Unforgiving"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "The Last Call",
-    "name":       "PRO Red Dot Sight",
-    "price":      "$ 174,722",
-    "attributes": "17% Critical Hit Damage<br/>2.50% Stability<br/>5.50% Headshot Damage"
+    "name":       "Extended Magazine",
+    "price":      "$ 168,044",
+    "attributes": "110% Magazine Size<br/>4% Critical Damage<br/>3% Critical Hit Chance"
   },
   {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "Madison's Stand",
     "score":  "256",
-    "name":   "Savage Gloves",
-    "armor":  "984",
-    "price":  "$890,304",
+    "name":   "Resourceful Backpack",
+    "armor":  "1,216",
+    "price":  "$1,112,880",
     "fire":   "-",
-    "stam":   "1215",
+    "stam":   "1216",
     "elec":   "-",
-    "major":  "16% Critical Hit Damage<br/>4,028 Marksman Rifle Damage<br/>5.0% Critical Hit Chance",
-    "minor":  "-"
+    "major":  "15.50% Stability",
+    "minor":  "49% Ammo Capacity"
   },
   {
     "type":       "gear-mod",
     "vendor":     "Madison's Stand",
-    "name":       "Firearms Mod",
-    "stat":       "246 FA",
+    "name":       "Stamina Mod",
+    "stat":       "249 STA",
     "price":      "$ 168,044",
-    "attribute":  "2,928 Skill Power"
+    "attribute":  "2% All Resistance"
   }
 
 ]
