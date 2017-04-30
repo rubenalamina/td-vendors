@@ -1,0 +1,205 @@
+[
+  {
+    "type":   "gear",
+    "rarity": "header-he",
+    "vendor": "BoO Gear Vendor",
+    "name":   "Accomplished Kneepads",
+    "score":  "256",
+    "armor":  "1,923",
+    "price":  "$890,304",
+    "fire":   "1211",
+    "stam":   "-",
+    "elec":   "-",
+    "major":  "3% All Resistance",
+    "minor":  "30% Disorient Resistance<br />12% Damage to Elites<br />29% Burn Resistance"
+  },
+  {
+    "type":       "gear-mod",
+    "name":       "Performance Mod",
+    "vendor":     "BoO Gear Vendor",
+    "stat":       "-",
+    "price":      "$ 168,044",
+    "attribute":  "4% Turret Damage"
+  },
+
+  {
+    "type":     "weapon",
+    "name":     "SASG-12",
+    "vendor":   "BoO Weapons Vendor",
+    "score":    "256",
+    "price":    "$ 1,669,320",
+    "bonus":    "339.50% Stagger",
+    "dmg":      "101K",
+    "rpm":      "180",
+    "mag":      "7",
+    "talent1":  "Ferocious",
+    "talent2":  "Self-preserved",
+    "talent3":  "Sustained"
+  },
+  {
+    "type":       "weapon-mod",
+    "name":       "Angled grip",
+    "vendor":     "BoO Weapons Vendor",
+    "price":      "$ 174,722",
+    "attributes": "12.50% Stability<br >4.50% Reload Speed<br />4.50% Optimal Range"
+  },
+
+  {
+    "type":     "weapon",
+    "vendor":   "DZ Vendor at BoO",
+    "name":     "Police Mk17",
+    "score":    "256",
+    "price":    "DZ 416,160",
+    "bonus":    "166% Headshot Damage",
+    "dmg":      "66.0K",
+    "rpm":      "275",
+    "mag":      "20",
+    "talent1":  "Balanced",
+    "talent2":  "Harmful",
+    "talent3":  "Predatory"
+  },
+  {
+    "type":   "gear",
+    "rarity": "header-he",
+    "vendor": "DZ Vendor at BoO",
+    "name":   "Resourceful Backpack",
+    "score":  "256",
+    "armor":  "964",
+    "price":  "DZ 221,952",
+    "fire":   "1173",
+    "stam":   "-",
+    "elec":   "-",
+    "major":  "11,354 Health<br />15% Bleed Resistance",
+    "minor":  "-"
+  },
+  {
+    "type":       "gear-mod",
+    "name":       "Electronics Mod",
+    "vendor":     "DZ Vendor at BoO",
+    "stat":       "250 ELE",
+    "price":      "DZ 21,362",
+    "attribute":  "2,931 Health"
+  },
+  {
+    "type":       "weapon-mod",
+    "name":       "Heavy Magazine Spring",
+    "vendor":     "DZ Vendor at BoO",
+    "price":      "DZ 21,362",
+    "attributes": "4% Critical Hit Damage<br />2.50% Critical Hit Chance<br />9.30% Rate of Fire"
+  },
+
+  {
+    "type":     "weapon",
+    "name":     "X-45",
+    "vendor":   "Advanced Weaponry Vendor",
+    "score":    "256",
+    "price":    "$ 1,335,456",
+    "bonus":    "-",
+    "dmg":      "17.4K",
+    "rpm":      "625",
+    "mag":      "10",
+    "talent1":  "Expert",
+    "talent2":  "Ferocious",
+    "talent3":  "-"
+  },
+  {
+    "type":     "weapon",
+    "name":     "Navy MP5 N",
+    "vendor":   "Advanced Weaponry Vendor",
+    "score":    "256",
+    "price":    "$ 1,669,320",
+    "bonus":    "22.50% Critical Hit Chance",
+    "dmg":      "20.0K",
+    "rpm":      "800",
+    "mag":      "32",
+    "talent1":  "Predatory",
+    "talent2":  "Determined",
+    "talent3":  "Meticulous"
+  },
+  {
+    "type":     "weapon",
+    "name":     "LVOA-C",
+    "vendor":   "Advanced Weaponry Vendor",
+    "score":    "256",
+    "price":    "$ 1,669,320",
+    "bonus":    "21% Enemy Armor Damage",
+    "dmg":      "23.3K",
+    "rpm":      "850",
+    "mag":      "30",
+    "talent1":  "Competent",
+    "talent2":  "Capable",
+    "talent3":  "Responsive"
+  },
+  {
+    "type":     "weapon",
+    "name":     "SASG-12",
+    "vendor":   "Advanced Weaponry Vendor",
+    "score":    "256",
+    "price":    "$ 1,669,320",
+    "bonus":    "317.0% Stagger",
+    "dmg":      "104K",
+    "rpm":      "180",
+    "mag":      "7",
+    "talent1":  "Competent",
+    "talent2":  "Self-preserved",
+    "talent3":  "Swift"
+  },
+  {
+    "type":     "weapon",
+    "name":     "Classic M44 Carbine",
+    "vendor":   "Advanced Weaponry Vendor",
+    "score":    "256",
+    "price":    "$ 1,669,320",
+    "bonus":    "161% Headshot Damage",
+    "dmg":      "135K",
+    "rpm":      "55",
+    "mag":      "5",
+    "talent1":  "Vicious",
+    "talent2":  "Commanding",
+    "talent3":  "Swift"
+  },
+  {
+    "type":     "weapon",
+    "name":     "Military M60 E4",
+    "vendor":   "Advanced Weaponry Vendor",
+    "score":    "256",
+    "price":    "$ 1,669,320",
+    "bonus":    "14% Damage to targets out of Cover",
+    "dmg":      "19.9k",
+    "rpm":      "500",
+    "mag":      "100",
+    "talent1":  "Predatory",
+    "talent2":  "Self-preserved",
+    "talent3":  "Competent"
+  },
+
+  {
+    "type":       "weapon-mod",
+    "name":       "High Velocity Magazine",
+    "vendor":     "Advanced Weaponry Vendor",
+    "price":      "$ 168,044",
+    "attributes": "6.50% Critical Hit Chance<br />4% Critical Hit Damage<br />4.50% Reload Speed"
+  },
+  {
+    "type":       "weapon-mod",
+    "name":       "Flash hider",
+    "vendor":     "Advanced Weaponry Vendor",
+    "price":      "$ 174,722",
+    "attributes": "16.0% Accuracy<br />3.0% Critical Hit Chance<br />4% Critical Hit Damage"
+  },
+  {
+    "type":       "weapon-mod",
+    "name":       "Vertical grip - Wolf Grey",
+    "vendor":     "Advanced Weaponry Vendor",
+    "price":      "$ 174,722",
+    "attributes": "42.0% Optimal Range<br />2.0% Accuracy<br />4% Critical Hit Damage"
+  },
+  {
+    "type":       "weapon-mod",
+    "name":       "T2 micro red dot sight - Tan",
+    "vendor":     "Advanced Weaponry Vendor",
+    "price":      "$ 174,722",
+    "attributes": "5.50% Headshot Damage<br />4% Critical Hit Damage<br />2.50% Stability"
+  }
+
+]

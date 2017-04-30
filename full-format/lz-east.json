@@ -1,0 +1,153 @@
+[
+  {
+    "type":     "weapon",
+    "vendor":   "The Crypt",
+    "score":    "256",
+    "name":     "M249 B",
+    "price":    "$ 1,669,320",
+    "bonus":    "14% DMG Out of Cover",
+    "dmg":      "19.0k",
+    "rpm":      "550",
+    "mag":      "100",
+    "talent1":  "Determined",
+    "talent2":  "Self-preserved",
+    "talent3":  "Commanding"
+  },
+  {
+    "type":       "weapon-mod",
+    "vendor":     "The Crypt",
+    "name":       "Heavy Magazine",
+    "price":      "$ 168,044",
+    "attributes": "5% Reload Speed<br/>11% Magazine Size<br/>9.30% Rate of Fire"
+  },
+  {
+    "type":   "gear",
+    "rarity": "header-he",
+    "vendor": "The Firewall",
+    "score":  "256",
+    "name":   "Decisive Gloves",
+    "armor":  "911",
+    "price":  "$ 890,304",
+    "fire":   "-",
+    "stam":   "-",
+    "elec":   "1189",
+    "attributes": "1,252 Shotgun Damage<br/>4% Health on Kill<br/>7.5% Enemy Armor Damage"
+  },
+  {
+    "type":       "gear-mod",
+    "vendor":     "The Firewall",
+    "name":       "Electronic Mod",
+    "stat":       "255",
+    "price":      "$ 168,044",
+    "attribute":  "3% Signature Ability Gain"
+  },
+  {
+    "type":     "weapon",
+    "vendor":   "The Grindhouse",
+    "score":    "256",
+    "name":     "Double Barrel Shotgun",
+    "price":    "$ 1,669,320",
+    "bonus":    "330.5% Stagger",
+    "dmg":      "147k",
+    "rpm":      "200",
+    "mag":      "2",
+    "talent1":  "Determined",
+    "talent2":  "Predatory",
+    "talent3":  "Destructive"
+  },
+  {
+    "type":       "weapon-mod",
+    "vendor":     "The Grindhouse",
+    "name":       "Angled Grip",
+    "price":      "$ 174,722",
+    "attributes": "14% Stability<br/>2% Accuracy<br/>4.5% Optimal Range"
+  },
+  {
+    "type":   "gear",
+    "rarity": "header-he",
+    "vendor": "Southpaw",
+    "score":  "256",
+    "name":   "Tenacious Mask",
+    "armor":  "967",
+    "price":  "$ 1,001,592",
+    "fire":   "-",
+    "stam":   "-",
+    "elec":   "1184",
+    "major":  "6.5% Enemy Armor Damage",
+    "minor":  "14% Increased Kill XP"
+  },
+  {
+    "type":       "gear-mod",
+    "vendor":     "Southpaw",
+    "name":       "Performance Mod",
+    "stat":       "-",
+    "price":      "$ 168,044",
+    "attribute":  "6.50% Support Station Range"
+  },
+  {
+    "type":   "gear",
+    "rarity": "header-he",
+    "vendor": "The Ward",
+    "score":  "256",
+    "name":   "Prosperous Knee Pads",
+    "armor":  "1,635",
+    "price":  "$ 890,304",
+    "fire":   "-",
+    "stam":   "1180",
+    "elec":   "-",
+    "major":  "8% Exotic Damage Resilience",
+    "minor":  "30% Bleed Resistance<br/>28% Disorient Resistance<br/>14% Damage to Elites"
+  },
+  {
+    "type":       "gear-mod",
+    "vendor":     "The Ward",
+    "name":       "Performance Mod",
+    "stat":       "-",
+    "price":      "$ 168,044",
+    "attribute":  "4.0% Smart Cover Duration"
+  },
+  {
+    "type":     "weapon",
+    "vendor":   "The Last Call",
+    "score":    "256",
+    "name":     "Custom L86 A2",
+    "price":    "$ 1,669,320",
+    "bonus":    "15% DMG out of cover",
+    "dmg":      "19.6k",
+    "rpm":      "610",
+    "mag":      "30",
+    "talent1":  "Swift",
+    "talent2":  "Adept",
+    "talent3":  "Unforgiving"
+  },
+  {
+    "type":       "weapon-mod",
+    "vendor":     "The Last Call",
+    "name":       "Extended Magazine",
+    "price":      "$ 168,044",
+    "attributes": "110% Magazine Size<br/>4% Critical Damage<br/>3% Critical Hit Chance"
+  },
+  {
+    "type":   "gear",
+    "rarity": "header-he",
+    "vendor": "Madison's Stand",
+    "score":  "256",
+    "name":   "Resourceful Backpack",
+    "armor":  "1,216",
+    "price":  "$1,112,880",
+    "fire":   "-",
+    "stam":   "1216",
+    "elec":   "-",
+    "major":  "15.50% Stability",
+    "minor":  "49% Ammo Capacity"
+  },
+  {
+    "type":       "gear-mod",
+    "vendor":     "Madison's Stand",
+    "name":       "Stamina Mod",
+    "stat":       "249 STA",
+    "price":      "$ 168,044",
+    "attribute":  "2% All Resistance"
+  }
+
+]

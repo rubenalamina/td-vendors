@@ -1,0 +1,85 @@
+[
+
+  {
+    "type":   "blueprint",
+    "name":   "Classic RPK-74",
+    "score":  "256",
+    "price":  "PxC 915"
+  },
+
+  {
+    "type":   "blueprint",
+    "name":   "Classic M60",
+    "score":  "256",
+    "price":  "PxC 915"
+  },
+
+  {
+    "type":   "blueprint",
+    "name":   "Firearms Gloves",
+    "score":  "256",
+    "price":  "PxC 499"
+  },
+
+  {
+    "type":   "blueprint",
+    "name":   "Holster",
+    "score":  "256",
+    "price":  "PxC 416"
+  },
+
+  {
+    "type":   "blueprint",
+    "name":   "Omega Rifle Suppressor - Tan<br/>Reduced Threat, Headshot Damage, Random, Random",
+    "score":  "34",
+    "price":  "PxC 200"
+  },
+
+  {
+    "type":   "blueprint",
+    "name":   "Mk4 M5A2 Scope (15x)<br/>Optimal Range, Random, Random",
+    "score":  "34",
+    "price":  "PxC 200"
+  },
+
+  {
+    "type":   "blueprint",
+    "name":   "Stamina Gear Mod",
+    "score":  "34",
+    "price":  "PxC 192"
+  },
+
+  {
+    "type":   "blueprint",
+    "name":   "Electronics Gear Mod",
+    "score":  "34",
+    "price":  "PxC 192"
+  },
+
+  {
+    "type":   "blueprint",
+    "name":   "Black Market RPK-74 E",
+    "score":  "229",
+    "price":  "PxC 574"
+  },
+
+  {
+    "type":   "blueprint",
+    "name":   "Double Barrel Shotgun",
+    "score":  "229",
+    "price":  "PxC 627"
+  },
+
+  {
+    "type":   "blueprint",
+    "name":   "Converted SMG-9 A2",
+    "score":  "204",
+    "price":  "PxC 340"
+  },
+  {
+    "type":   "blueprint",
+    "name":   "Officer's M9 A1",
+    "score":  "204",
+    "price":  "PxC 340"
+  }
+]
