@@ -3,151 +3,143 @@
     "type":     "weapon",
     "vendor":   "The Crypt",
     "score":    "256",
-    "name":     "M249 B",
+    "name":     "First Wave M1A",
     "price":    "$ 1,669,320",
-    "bonus":    "14% DMG Out of Cover",
-    "dmg":      "19.0k",
-    "rpm":      "550",
-    "mag":      "100",
-    "talent1":  "Determined",
-    "talent2":  "Self-preserved",
-    "talent3":  "Commanding"
+    "bonus":    "150% Headshot Damage",
+    "talent1":  "Ferocious",
+    "talent2":  "Destructive",
+    "talent3":  "Adept"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "The Crypt",
-    "name":       "Heavy Magazine",
-    "price":      "$ 168,044",
-    "attributes": "5% Reload Speed<br/>11% Magazine Size<br/>9.30% Rate of Fire"
+    "name":       "PRO Red Dot Sight",
+    "price":      "$ 174,722",
+    "attributes": "19% Critical Hit Damage<br/>4.5% Optimal Range<br/>2% Accuracy"
   },
   {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "The Firewall",
     "score":  "256",
-    "name":   "Decisive Gloves",
-    "armor":  "911",
+    "name":   "Robust Chest",
+    "armor":  "1713",
     "price":  "$ 890,304",
-    "fire":   "-",
+    "fire":   "1139",
     "stam":   "-",
-    "elec":   "1189",
-    "attributes": "1,252 Shotgun Damage<br/>4% Health on Kill<br/>7.5% Enemy Armor Damage"
+    "elec":   "-",
+    "major": "16,140 Health<br/>5.5% Enemy Armor Damage",
+    "minor": "26% Increased Kill XP"
   },
   {
     "type":       "gear-mod",
     "vendor":     "The Firewall",
-    "name":       "Electronic Mod",
-    "stat":       "255",
+    "name":       "Performance Mod",
+    "stat":       "-",
     "price":      "$ 168,044",
-    "attribute":  "3% Signature Ability Gain"
+    "attribute":  "6.5% Turret Health"
   },
   {
     "type":     "weapon",
     "vendor":   "The Grindhouse",
     "score":    "256",
-    "name":     "Double Barrel Shotgun",
+    "name":     "Enhanced AUG A3P",
     "price":    "$ 1,669,320",
-    "bonus":    "330.5% Stagger",
-    "dmg":      "147k",
-    "rpm":      "200",
-    "mag":      "2",
-    "talent1":  "Determined",
-    "talent2":  "Predatory",
-    "talent3":  "Destructive"
+    "bonus":    "19% Critical Hit Chance",
+    "talent1":  "Deadly",
+    "talent2":  "Talented",
+    "talent3":  "Brutal"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "The Grindhouse",
-    "name":       "Angled Grip",
+    "name":       "Heavy Magazine Spring",
     "price":      "$ 174,722",
-    "attributes": "14% Stability<br/>2% Accuracy<br/>4.5% Optimal Range"
+    "attributes": "11% Magazine Size<br/>4.5% Reload Speed<br/>10% Rate of Fire"
   },
   {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "Southpaw",
     "score":  "256",
-    "name":   "Tenacious Mask",
-    "armor":  "967",
-    "price":  "$ 1,001,592",
+    "name":   "Astute Gloves",
+    "armor":  "937",
+    "price":  "$ 890,304",
     "fire":   "-",
-    "stam":   "-",
-    "elec":   "1184",
-    "major":  "6.5% Enemy Armor Damage",
-    "minor":  "14% Increased Kill XP"
+    "stam":   "1244",
+    "elec":   "-",
+    "major":  "929 SMG Damage",
+    "minor":  "6% Critical Hit Chance<br/>14% Critical Hit Damage"
   },
   {
     "type":       "gear-mod",
     "vendor":     "Southpaw",
-    "name":       "Performance Mod",
-    "stat":       "-",
+    "name":       "Electronics Mod",
+    "stat":       "238 ELE",
     "price":      "$ 168,044",
-    "attribute":  "6.50% Support Station Range"
+    "attribute":  "3,065 Health"
   },
   {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "The Ward",
     "score":  "256",
-    "name":   "Prosperous Knee Pads",
-    "armor":  "1,635",
-    "price":  "$ 890,304",
+    "name":   "Rejuvenated Mask",
+    "armor":  "858",
+    "price":  "$ 1,001,592",
     "fire":   "-",
-    "stam":   "1180",
+    "stam":   "1221",
     "elec":   "-",
-    "major":  "8% Exotic Damage Resilience",
-    "minor":  "30% Bleed Resistance<br/>28% Disorient Resistance<br/>14% Damage to Elites"
+    "major":  "9% Exotic Damage Resilience",
+    "minor":  "15% Burn Resistance"
   },
   {
     "type":       "gear-mod",
     "vendor":     "The Ward",
-    "name":       "Performance Mod",
-    "stat":       "-",
+    "name":       "Electronics Mod",
+    "stat":       "264 ELE",
     "price":      "$ 168,044",
-    "attribute":  "4.0% Smart Cover Duration"
+    "attribute":  "3% Signature Resource Gain"
   },
   {
     "type":     "weapon",
     "vendor":   "The Last Call",
     "score":    "256",
-    "name":     "Custom L86 A2",
+    "name":     "Marine Super 90",
     "price":    "$ 1,669,320",
-    "bonus":    "15% DMG out of cover",
-    "dmg":      "19.6k",
-    "rpm":      "610",
-    "mag":      "30",
-    "talent1":  "Swift",
-    "talent2":  "Adept",
-    "talent3":  "Unforgiving"
+    "bonus":    "332% Stagger",
+    "talent1":  "Fierce",
+    "talent2":  "Brutal",
+    "talent3":  "Swift"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "The Last Call",
-    "name":       "Extended Magazine",
+    "name":       "High Velocity Magazine",
     "price":      "$ 168,044",
-    "attributes": "110% Magazine Size<br/>4% Critical Damage<br/>3% Critical Hit Chance"
+    "attributes": "6.5% Critical Hit Chance<br/>4% Critical Hit Damage<br/>5.3% Rate of Fire"
   },
   {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "Madison's Stand",
     "score":  "256",
-    "name":   "Resourceful Backpack",
-    "armor":  "1,216",
+    "name":   "Vigorous Chest",
+    "armor":  "1,886",
     "price":  "$1,112,880",
     "fire":   "-",
-    "stam":   "1216",
-    "elec":   "-",
-    "major":  "15.50% Stability",
-    "minor":  "49% Ammo Capacity"
+    "stam":   "-",
+    "elec":   "1216",
+    "major":  "9% Exotic Damage Resilience<br/>4% All Resistance",
+    "minor":  "26% Increased Kill XP"
   },
   {
     "type":       "gear-mod",
     "vendor":     "Madison's Stand",
-    "name":       "Stamina Mod",
-    "stat":       "249 STA",
+    "name":       "Performance Mod",
+    "stat":       "-",
     "price":      "$ 168,044",
-    "attribute":  "2% All Resistance"
+    "attribute":  "5% Pulse Duration"
   }
 
 ]

@@ -2,42 +2,42 @@
 
   {
     "type":   "blueprint",
-    "name":   "Classic RPK-74",
+    "name":   "Classic M44 Carbine",
     "score":  "256",
-    "price":  "PxC 915"
+    "price":  "PxC 998"
   },
 
   {
     "type":   "blueprint",
-    "name":   "Classic M60",
+    "name":   "ACR",
     "score":  "256",
-    "price":  "PxC 915"
+    "price":  "PxC 1082"
   },
 
   {
     "type":   "blueprint",
-    "name":   "Firearms Gloves",
+    "name":   "Stamina Mask",
     "score":  "256",
-    "price":  "PxC 499"
+    "price":  "PxC 582"
   },
 
   {
     "type":   "blueprint",
-    "name":   "Holster",
+    "name":   "Electronics Gloves",
     "score":  "256",
-    "price":  "PxC 416"
+    "price":  "PxC 582"
   },
 
   {
     "type":   "blueprint",
-    "name":   "Omega Rifle Suppressor - Tan<br/>Reduced Threat, Headshot Damage, Random, Random",
+    "name":   "Flash Hider<br/>Accuracy, Random, Random",
     "score":  "34",
     "price":  "PxC 200"
   },
 
   {
     "type":   "blueprint",
-    "name":   "Mk4 M5A2 Scope (15x)<br/>Optimal Range, Random, Random",
+    "name":   "EXPS3 Holographic Sight - Tan<br/>Optimal Range, Random, Random",
     "score":  "34",
     "price":  "PxC 200"
   },
@@ -51,9 +51,16 @@
 
   {
     "type":   "blueprint",
-    "name":   "Electronics Gear Mod",
+    "name":   "Performance Gear Mod",
     "score":  "34",
     "price":  "PxC 192"
+  },
+
+  {
+    "type":   "blueprint",
+    "name":   "Military P416",
+    "score":  "229",
+    "price":  "PxC 679"
   },
 
   {
@@ -65,21 +72,14 @@
 
   {
     "type":   "blueprint",
-    "name":   "Double Barrel Shotgun",
-    "score":  "229",
-    "price":  "PxC 627"
-  },
-
-  {
-    "type":   "blueprint",
-    "name":   "Converted SMG-9 A2",
+    "name":   "Black Market AK-74",
     "score":  "204",
-    "price":  "PxC 340"
+    "price":  "PxC 402"
   },
   {
     "type":   "blueprint",
-    "name":   "Officer's M9 A1",
+    "name":   "Police 686 Magnum",
     "score":  "204",
-    "price":  "PxC 340"
+    "price":  "PxC 278"
   }
 ]

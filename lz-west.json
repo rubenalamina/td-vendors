@@ -4,44 +4,41 @@
     "rarity": "header-he",
     "vendor": "Autumn's Hope",
     "score":  "256",
-    "name":  "Specialized Backpack",
-    "armor":  "1,259",
-    "price":  "$ 1,112,880",
-    "fire":  "1118",
+    "name":  "Prosperous Kneepads",
+    "armor":  "1,474",
+    "price":  "$ 890,304",
+    "fire":  "-",
     "stam":  "-",
-    "elec":  "-",
-    "major":  "13,116 Health",
-    "minor":  "51% Ammo Capacity"
+    "elec":  "1148",
+    "major":  "7.5% Exotic Damage Resilience",
+    "minor":  "30% Bleed Resistance<br />13% Damage To Elites<br />32% Shock Resistance"
   },
   {
     "type":      "gear-mod",
     "name":      "Stamina Mod",
     "vendor":    "Autumn's Hope",
-    "stat":      "230 STA",
+    "stat":      "228 STA",
     "price":      "$ 168,044",
-    "attribute":  "3,156 Skill Power"
+    "attribute":  "2.5% Exotic Damage Resilience"
   },
 
   {
     "type":    "weapon",
     "vendor":  "Wolves Den",
     "score":    "256",
-    "name":    "Military MK46",
+    "name":    "M249 B",
     "price":    "$ 1,669,320",
-    "bonus":    "15% DMG to target out of cover",
-    "dmg":      "20.7K",
-    "rpm":      "550",
-    "mag":      "100",
-    "talent1":  "Meticulous",
-    "talent2":  "Self-Preserved",
-    "talent3":  "Sustained"
+    "bonus":    "12% DMG to target out of cover",
+    "talent1":  "Ferocious",
+    "talent2":  "Brutal",
+    "talent3":  "Determined"
   },
   {
     "type":      "weapon-mod",
     "vendor":    "Wolves Den",
-    "name":      "Angled Grip",
+    "name":      "Compensator",
     "price":      "$ 174,722",
-    "attributes": "11.5% Stability<br />5% Optimal Range<br />4% Critical Hit Damage"
+    "attributes": "13.5% Stability<br />3% Critical Hit Chance<br />4% Critical Hit Damage"
   },
 
   {
@@ -49,14 +46,14 @@
     "rarity": "header-he",
     "vendor": "Dante's Run",
     "score":  "256",
-    "name":  "Nimble Holster",
-    "armor":  "883",
-    "price":  "$ 779,016",
-    "fire":  "1125",
-    "stam":  "1240",
-    "elec":  "1158",
-    "major":  "6% Skill Haste",
-    "minor":  "-"
+    "name":  "Refreshed Mask",
+    "armor":  "945",
+    "price":  "$ 1,001,592",
+    "fire":  "1252",
+    "stam":  "-",
+    "elec":  "-",
+    "major":  "9.034 Skill Power",
+    "minor":  "14% Disorient Resistance"
   },
   {
     "type":      "gear-mod",
@@ -64,29 +61,26 @@
     "name":      "Performance Mod",
     "stat":      "-",
     "price":      "$ 168,044",
-    "attribute":  "3.5% Seeker Mine Damage"
+    "attribute":  "6% Sticky Bomb Explosion Radius"
   },
 
   {
     "type":    "weapon",
     "vendor":  "Kerman Station",
     "score":    "256",
-    "name":    "Tactical UMP-45",
-    "price":    "$ 1,669,320",
-    "bonus":    "22% Critical Hit Chance",
-    "dmg":      "21.2K",
-    "rpm":      "600",
-    "mag":      "30",
-    "talent1":  "Brutal",
-    "talent2":  "Sustained",
-    "talent3":  "Ambusher"
+    "name":    "93R",
+    "price":    "$ 1,335,456",
+    "bonus":    "-",
+    "talent1":  "Expert",
+    "talent2":  "Competent",
+    "talent3":  "-"
   },
   {
     "type":      "weapon-mod",
     "vendor":    "Kerman Station",
-    "name":      "Omega Rifle Suppressor",
+    "name":      "Small RDS Scope",
     "price":      "$ 174,722",
-    "attribute": "18% Headshot Damage<br/>4% Critical Hit Damage<br/>4.5% Optimal Range<br/>45% Reduced Threat"
+    "attributes": "13% Stability<br/>2.5% Critical Hit Chance<br/>2% Accuracy"
   },
 
   {
@@ -94,66 +88,60 @@
     "rarity": "header-he",
     "vendor": "The Cavern",
     "score":  "256",
-    "name":  "Resourceful Backpack",
-    "armor":  "1,316",
+    "name":  "Inventive Backpack",
+    "armor":  "1,249",
     "price":  "$ 1,112,880",
     "fire":  "-",
     "stam":  "-",
-    "elec":  "1160",
-    "major":  "14.5% Stability",
-    "minor":  "16% Burn Resistance"
+    "elec":  "1132",
+    "major":  "15.5% Stability",
+    "minor":  "15% Bleed Resistance"
   },
   {
     "type":      "gear-mod",
     "vendor":    "The Cavern",
-    "name":      "Stamina Mod",
-    "stat":      "245 STA",
+    "name":      "Performance Mod",
+    "stat":      "-",
     "price":      "$ 168,044",
-    "attribute":  "3,306 Skill Power"
+    "attribute":  "5% Smart Cover Duration"
   },
 
   {
     "type":    "weapon",
     "vendor":  "The Meat Locker",
     "score":    "256",
-    "name":    "Black Market SASG-12S",
-    "price":    "$ 1,669,320,456",
-    "bonus":    "332.5% Stagger",
-    "dmg":      "101K",
-    "rpm":      "180",
-    "mag":      "7",
-    "talent1":  "Deadly",
-    "talent2":  "Accurate",
-    "talent3":  "Capable"
+    "name":    "Converted SMG-9 A2",
+    "price":    "$ 1,669,320",
+    "bonus":    "21% Critical Hit Chance",
+    "talent1":  "Brutal",
+    "talent2":  "Adept",
+    "talent3":  "Skilled"
   },
   {
     "type":      "weapon-mod",
     "vendor":    "The Meat Locker",
-    "name":      "Small Grip - Red",
+    "name":      "Improved Iron Sights",
     "price":      "$ 174,722",
-    "attributes": "17% Critical Hit Damage<br />2% Accuracy<br />4.5% Reload Speed"
+    "attributes": "13% Stability<br />2% Accuracy<br />4% Critical Hit Damage"
   },
 
   {
-    "type":     "weapon",
-    "vendor":   "Camp Hudson Weapon Vendor",
+    "type":    "weapon",
+    "vendor":  "Camp Hudson Weapon Vendor",
     "score":    "256",
-    "name":     "Custom PF45",
-    "price":    "$ 1,335,456",
-    "bonus":    "-",
-    "dmg":      "17.2K",
-    "rpm":      "600",
-    "mag":      "15",
-    "talent1":  "Expert",
-    "talent2":  "Accurate",
-    "talent3":  "-"
+    "name":    "G36",
+    "price":    "$ 1,669,320",
+    "bonus":    "20% Enemy Armor Damage",
+    "talent1":  "Adept",
+    "talent2":  "Swift",
+    "talent3":  "Focused"
   },
   {
     "type":      "weapon-mod",
     "vendor":    "Camp Hudson Weapon Vendor",
-    "name":      "PEQ-15 Laser - Green",
+    "name":      "Handstop",
     "price":      "$ 174,722",
-    "attributes": "15% Accuracy<br />4.5% Reload Speed<br />2.5 Stability"
+    "attributes": "29.5% Reload Speed<br />2% Accuracy<br />4.5% Optimal Range"
   },
 
   {
@@ -161,14 +149,14 @@
     "rarity": "header-he",
     "vendor": "Camp Hudson Gear Vendor",
     "score":  "256",
-    "name":  "Rapid Chest",
-    "armor":  "1,896",
-    "price":  "$ 1,112,880",
-    "fire":  "1227",
-    "stam":  "-",
+    "name":  "Decisive Gloves",
+    "armor":  "889",
+    "price":  "$ 890,304",
+    "fire":  "-",
+    "stam":  "1167",
     "elec":  "-",
-    "major":  "9% Exotic Damage Resilience<br />8% Skill Haste",
-    "minor":  "56% Ammo Capacity"
+    "major":  "15% Critical Hit Damage<br />897 SMG Damage<br />5.5% Critical Hit Chance",
+    "minor":  "-"
   },
   {
     "type":      "gear-mod",
@@ -176,6 +164,6 @@
     "name":      "Performance Mod",
     "stat":      "-",
     "price":      "$ 168,044",
-    "attribute":  "5% Smart Cover Duration"
+    "attribute":  "7.5 Seeker Mine Explosion Radius"
   }
 ]
