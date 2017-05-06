@@ -4,41 +4,41 @@
     "rarity": "header-he",
     "vendor": "Autumn's Hope",
     "score":  "256",
-    "name":  "Prosperous Kneepads",
-    "armor":  "1,474",
+    "name":  "Savage Gloves",
+    "armor":  "952",
     "price":  "$ 890,304",
-    "fire":  "-",
+    "fire":  "1137",
     "stam":  "-",
-    "elec":  "1148",
-    "major":  "7.5% Exotic Damage Resilience",
-    "minor":  "30% Bleed Resistance<br />13% Damage To Elites<br />32% Shock Resistance"
+    "elec":  "-",
+    "major":  "16% Critical Hit Damage<br />2,566 Pistol Damage<br />1,270 Shotgun Damage",
+    "minor":  "-"
   },
   {
     "type":      "gear-mod",
     "name":      "Stamina Mod",
     "vendor":    "Autumn's Hope",
-    "stat":      "228 STA",
+    "stat":      "241 STA",
     "price":      "$ 168,044",
-    "attribute":  "2.5% Exotic Damage Resilience"
+    "attribute":  "2% All Resistance"
   },
 
   {
     "type":    "weapon",
     "vendor":  "Wolves Den",
     "score":    "256",
-    "name":    "M249 B",
-    "price":    "$ 1,669,320",
-    "bonus":    "12% DMG to target out of cover",
-    "talent1":  "Ferocious",
-    "talent2":  "Brutal",
-    "talent3":  "Determined"
+    "name":    "Rhino Special",
+    "price":    "$ 1,335,456",
+    "bonus":    "-",
+    "talent1":  "Expert",
+    "talent2":  "Determined",
+    "talent3":  "-"
   },
   {
     "type":      "weapon-mod",
     "vendor":    "Wolves Den",
-    "name":      "Compensator",
+    "name":      "T2 Micro Red Dot Sight",
     "price":      "$ 174,722",
-    "attributes": "13.5% Stability<br />3% Critical Hit Chance<br />4% Critical Hit Damage"
+    "attributes": "16% Accuracy<br />2.5% Stability<br />4% Critical Hit Damage"
   },
 
   {
@@ -46,14 +46,14 @@
     "rarity": "header-he",
     "vendor": "Dante's Run",
     "score":  "256",
-    "name":  "Refreshed Mask",
-    "armor":  "945",
-    "price":  "$ 1,001,592",
-    "fire":  "1252",
-    "stam":  "-",
-    "elec":  "-",
-    "major":  "9.034 Skill Power",
-    "minor":  "14% Disorient Resistance"
+    "name":  "Nimble Holster",
+    "armor":  "973",
+    "price":  "$ 779,016",
+    "fire":  "1170",
+    "stam":  "1137",
+    "elec":  "1126",
+    "major":  "19.5% Reload Speed",
+    "minor":  "-"
   },
   {
     "type":      "gear-mod",
@@ -61,26 +61,26 @@
     "name":      "Performance Mod",
     "stat":      "-",
     "price":      "$ 168,044",
-    "attribute":  "6% Sticky Bomb Explosion Radius"
+    "attribute":  "4.5% Smart Cover Duration"
   },
 
   {
     "type":    "weapon",
     "vendor":  "Kerman Station",
     "score":    "256",
-    "name":    "93R",
+    "name":    "Tactical M1911",
     "price":    "$ 1,335,456",
     "bonus":    "-",
     "talent1":  "Expert",
-    "talent2":  "Competent",
+    "talent2":  "Talented",
     "talent3":  "-"
   },
   {
     "type":      "weapon-mod",
     "vendor":    "Kerman Station",
-    "name":      "Small RDS Scope",
+    "name":      "MK5 Scope (15x) - Tan",
     "price":      "$ 174,722",
-    "attributes": "13% Stability<br/>2.5% Critical Hit Chance<br/>2% Accuracy"
+    "attributes": "6% Headshot Damage<br />2.5% Stability<br />5% Optimal Range"
   },
 
   {
@@ -88,60 +88,60 @@
     "rarity": "header-he",
     "vendor": "The Cavern",
     "score":  "256",
-    "name":  "Inventive Backpack",
-    "armor":  "1,249",
+    "name":  "Robust Backpack",
+    "armor":  "1,783",
     "price":  "$ 1,112,880",
     "fire":  "-",
     "stam":  "-",
-    "elec":  "1132",
-    "major":  "15.5% Stability",
-    "minor":  "15% Bleed Resistance"
+    "elec":  "1227",
+    "major":  "10.5% Exotic Damage Resilience<br />4% All Resistance<br />",
+    "minor":  "24% Increased Kill XP"
   },
   {
     "type":      "gear-mod",
     "vendor":    "The Cavern",
-    "name":      "Performance Mod",
-    "stat":      "-",
+    "name":      "Stamina Mod",
+    "stat":      "242 STA",
     "price":      "$ 168,044",
-    "attribute":  "5% Smart Cover Duration"
+    "attribute":  "1% Critical Hit Chance"
   },
 
   {
     "type":    "weapon",
     "vendor":  "The Meat Locker",
     "score":    "256",
-    "name":    "Converted SMG-9 A2",
+    "name":    "Tactical M249 Para",
     "price":    "$ 1,669,320",
-    "bonus":    "21% Critical Hit Chance",
-    "talent1":  "Brutal",
-    "talent2":  "Adept",
-    "talent3":  "Skilled"
+    "bonus":    "14% Damage to Target Out of Cover",
+    "talent1":  "Competent",
+    "talent2":  "Capable",
+    "talent3":  "Brutal"
   },
   {
     "type":      "weapon-mod",
     "vendor":    "The Meat Locker",
-    "name":      "Improved Iron Sights",
+    "name":      "MK5 Scope (15x) - Tan",
     "price":      "$ 174,722",
-    "attributes": "13% Stability<br />2% Accuracy<br />4% Critical Hit Damage"
+    "attributes": "5.5%. Headshot Damage<br />4% Critical Hit Damage<br />2.5% Critical Hit Chance"
   },
 
   {
     "type":    "weapon",
     "vendor":  "Camp Hudson Weapon Vendor",
     "score":    "256",
-    "name":    "G36",
+    "name":    "Infantry MG5",
     "price":    "$ 1,669,320",
-    "bonus":    "20% Enemy Armor Damage",
-    "talent1":  "Adept",
-    "talent2":  "Swift",
-    "talent3":  "Focused"
+    "bonus":    "11% Damage to Target Out of Cover",
+    "talent1":  "Vicious",
+    "talent2":  "Destructive",
+    "talent3":  "Adept"
   },
   {
     "type":      "weapon-mod",
     "vendor":    "Camp Hudson Weapon Vendor",
-    "name":      "Handstop",
-    "price":      "$ 174,722",
-    "attributes": "29.5% Reload Speed<br />2% Accuracy<br />4.5% Optimal Range"
+    "name":      "Quick Release Magazine",
+    "price":      "$ 168,044",
+    "attributes": "29% Reload Speed<br />11% Magazine Size<br />4% Critical Hit Damage"
   },
 
   {
@@ -149,14 +149,14 @@
     "rarity": "header-he",
     "vendor": "Camp Hudson Gear Vendor",
     "score":  "256",
-    "name":  "Decisive Gloves",
-    "armor":  "889",
+    "name":  "Accomplished Kneepads",
+    "armor":  "1,540",
     "price":  "$ 890,304",
-    "fire":  "-",
-    "stam":  "1167",
+    "fire":  "1212",
+    "stam":  "-",
     "elec":  "-",
-    "major":  "15% Critical Hit Damage<br />897 SMG Damage<br />5.5% Critical Hit Chance",
-    "minor":  "-"
+    "major":  "14,791 Health",
+    "minor":  "50% Increased Kill XP<br />31% Disrupt Resistance<br />28% Disorient Resistance"
   },
   {
     "type":      "gear-mod",
@@ -164,6 +164,6 @@
     "name":      "Performance Mod",
     "stat":      "-",
     "price":      "$ 168,044",
-    "attribute":  "7.5 Seeker Mine Explosion Radius"
+    "attribute":  "1.5% Pulse Critical Hit Chance"
   }
 ]

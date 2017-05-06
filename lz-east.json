@@ -3,135 +3,144 @@
     "type":     "weapon",
     "vendor":   "The Crypt",
     "score":    "256",
-    "name":     "First Wave M1A",
-    "price":    "$ 1,669,320",
-    "bonus":    "150% Headshot Damage",
-    "talent1":  "Ferocious",
-    "talent2":  "Destructive",
-    "talent3":  "Adept"
+    "name":     "Rhino Special",
+    "price":    "$ 1,335,456",
+    "bonus":    "-",
+    "dmg":      "41.5k",
+    "rpm":      "350",
+    "mag":      "6",
+    "talent1":  "Expert",
+    "talent2":  "Predatory",
+    "talent3":  "-"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "The Crypt",
-    "name":       "PRO Red Dot Sight",
+    "name":       "Vertical Grip - OD Green",
     "price":      "$ 174,722",
-    "attributes": "19% Critical Hit Damage<br/>4.5% Optimal Range<br/>2% Accuracy"
+    "attributes": "48% Optimal Range<br/>2% Accuracy<br/>2.5% Stability"
   },
   {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "The Firewall",
     "score":  "256",
-    "name":   "Robust Chest",
-    "armor":  "1713",
-    "price":  "$ 890,304",
-    "fire":   "1139",
-    "stam":   "-",
+    "name":   "Specialized Backpack",
+    "armor":  "1160",
+    "price":  "$ 1,112,880",
+    "fire":   "-",
+    "stam":   "1127",
     "elec":   "-",
-    "major": "16,140 Health<br/>5.5% Enemy Armor Damage",
-    "minor": "26% Increased Kill XP"
+    "major":  "15.50% Stability",
+    "minor":  "14% Burn Resistance"
   },
   {
     "type":       "gear-mod",
     "vendor":     "The Firewall",
-    "name":       "Performance Mod",
-    "stat":       "-",
+    "name":       "Stamina Mod",
+    "stat":       "231",
     "price":      "$ 168,044",
-    "attribute":  "6.5% Turret Health"
+    "attribute":  "1.0% Critical Hit Chance"
   },
   {
     "type":     "weapon",
     "vendor":   "The Grindhouse",
     "score":    "256",
-    "name":     "Enhanced AUG A3P",
+    "name":     "M700 Carbon",
     "price":    "$ 1,669,320",
-    "bonus":    "19% Critical Hit Chance",
-    "talent1":  "Deadly",
-    "talent2":  "Talented",
-    "talent3":  "Brutal"
+    "bonus":    "154% Headshot Damage",
+    "dmg":      "144k",
+    "rpm":      "54",
+    "mag":      "7",
+    "talent1":  "Talented",
+    "talent2":  "Harmful",
+    "talent3":  "Elevated"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "The Grindhouse",
-    "name":       "Heavy Magazine Spring",
+    "name":       "552 Holosight",
     "price":      "$ 174,722",
-    "attributes": "11% Magazine Size<br/>4.5% Reload Speed<br/>10% Rate of Fire"
+    "attributes": "6.5% Critical Hit Chance<br/>5% Optimal Range<br/>4% Critical Hit Damage"
   },
   {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "Southpaw",
     "score":  "256",
-    "name":   "Astute Gloves",
-    "armor":  "937",
-    "price":  "$ 890,304",
-    "fire":   "-",
-    "stam":   "1244",
-    "elec":   "-",
-    "major":  "929 SMG Damage",
-    "minor":  "6% Critical Hit Chance<br/>14% Critical Hit Damage"
+    "name":   "Recovered Holster",
+    "armor":  "965",
+    "price":  "$ 779,016",
+    "fire":   "1141",
+    "stam":   "1173",
+    "elec":   "1214",
+    "major":  "6% Skill Haste",
+    "minor":  "-"
   },
   {
     "type":       "gear-mod",
     "vendor":     "Southpaw",
     "name":       "Electronics Mod",
-    "stat":       "238 ELE",
+    "stat":       "229",
     "price":      "$ 168,044",
-    "attribute":  "3,065 Health"
+    "attribute":  "3,159 SKill Power"
   },
   {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "The Ward",
     "score":  "256",
-    "name":   "Rejuvenated Mask",
-    "armor":  "858",
-    "price":  "$ 1,001,592",
-    "fire":   "-",
-    "stam":   "1221",
+    "name":   "Cunning Gloves",
+    "armor":  "860",
+    "price":  "$ 779,016",
+    "fire":   "1115",
+    "stam":   "-",
     "elec":   "-",
-    "major":  "9% Exotic Damage Resilience",
-    "minor":  "15% Burn Resistance"
+    "major":  "4,006 Marksman Rifle Damage<br/>2,576 Pistol Damage<br/>7% Skill Haste",
+    "minor":  "-"
   },
   {
     "type":       "gear-mod",
     "vendor":     "The Ward",
-    "name":       "Electronics Mod",
-    "stat":       "264 ELE",
+    "name":       "Performance Mod",
+    "stat":       "-",
     "price":      "$ 168,044",
-    "attribute":  "3% Signature Resource Gain"
+    "attribute":  "4% Mobile Cover Damage Resilience"
   },
   {
     "type":     "weapon",
     "vendor":   "The Last Call",
     "score":    "256",
-    "name":     "Marine Super 90",
-    "price":    "$ 1,669,320",
-    "bonus":    "332% Stagger",
-    "talent1":  "Fierce",
-    "talent2":  "Brutal",
-    "talent3":  "Swift"
+    "name":     "First Wave X-45",
+    "price":    "$ 1,335,456",
+    "bonus":    "-",
+    "dmg":      "18.6k",
+    "rpm":      "625",
+    "mag":      "15",
+    "talent1":  "Expert",
+    "talent2":  "Harmful",
+    "talent3":  "-"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "The Last Call",
-    "name":       "High Velocity Magazine",
-    "price":      "$ 168,044",
-    "attributes": "6.5% Critical Hit Chance<br/>4% Critical Hit Damage<br/>5.3% Rate of Fire"
+    "name":       "Rugged Mini Reflex Sight",
+    "price":      "$ 174,722",
+    "attributes": "7% Critical Hit Chance<br/>4.50% Optimal Range<br/>2.50% Stability"
   },
   {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "Madison's Stand",
     "score":  "256",
-    "name":   "Vigorous Chest",
-    "armor":  "1,886",
+    "name":   "Relentless Backpack",
+    "armor":  "1,153",
     "price":  "$1,112,880",
     "fire":   "-",
     "stam":   "-",
-    "elec":   "1216",
-    "major":  "9% Exotic Damage Resilience<br/>4% All Resistance",
-    "minor":  "26% Increased Kill XP"
+    "elec":   "1162",
+    "major":  "11,785 Health",
+    "minor":  "14% Burn Resistance"
   },
   {
     "type":       "gear-mod",
@@ -139,7 +148,7 @@
     "name":       "Performance Mod",
     "stat":       "-",
     "price":      "$ 168,044",
-    "attribute":  "5% Pulse Duration"
+    "attribute":  "6.50%% Ballistic Shield Health"
   }
 
 ]

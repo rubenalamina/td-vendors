@@ -4,14 +4,14 @@
     "rarity": "header-gs",
     "vendor": "DZ 06",
     "score":  "256",
-    "name":   "Predator's Mask",
-    "armor":  "925",
+    "name":   "AlphaBridge Mask",
+    "armor":  "961",
     "price":  "DZ 249,696",
     "fire":   "-",
-    "stam":   "1169",
-    "elec":   "-",
-    "major":  "9,062 Skill Power",
-    "minor":  "16% Blind/Deaf Resistance"
+    "stam":   "-",
+    "elec":   "1251",
+    "major":  "9,112 Skill Power",
+    "minor":  "15% Burn Resistance"
   },
   {
     "type":   "gear",
@@ -19,12 +19,12 @@
     "vendor": "DZ 06",
     "score":  "256",
     "name":   "Predator's Chest",
-    "armor":  "1,839",
+    "armor":  "1,771",
     "price":  "DZ 277,440",
     "fire":   "-",
-    "stam":   "1230",
+    "stam":   "1125",
     "elec":   "-",
-    "major":  "8% Skill Haste<br />4% All Resistance",
+    "major":  "4% All Resist<br />15,513 Health",
     "minor":  "24% Increased Kill XP"
   },
   {
@@ -32,41 +32,41 @@
     "rarity": "header-gs",
     "vendor": "DZ 06",
     "score":  "256",
-    "name":   "Final Measure Backpack",
-    "armor":  "1,266",
+    "name":   "Sentry's Backpack",
+    "armor":  "1,162",
     "price":  "DZ 277,440",
-    "fire":   "-",
+    "fire":   "1239",
     "stam":   "-",
-    "elec":   "1259",
-    "major":  "12,981 Skill Power",
-    "minor":  "15% Disrupt Resistance"
+    "elec":   "-",
+    "major":  "11,356 Health",
+    "minor":  "16% Disrupt Resistance"
   },
   {
     "type":   "gear",
     "rarity": "header-gs",
     "vendor": "DZ 06",
     "score":  "256",
-    "name":   "DeadEYE Kneepads",
-    "armor":  "1,450",
+    "name":   "DeadEYE Knee Pads",
+    "armor":  "1,585",
     "price":  "DZ 221,952",
     "fire":   "-",
-    "stam":   "1238",
+    "stam":   "1170",
     "elec":   "-",
-    "major":  "4.0% Enemy Armor Damage",
-    "minor":  "13% Damage to Elites<br />28% Shock Resistance<br />53% Increased Kill XP"
+    "major":  "8.0% Exotic Damage Resilience",
+    "minor":  "32% Disorient Resistance<br />32% Bleed Resistance<br />29% Disrupt Resistance"
   },
   {
     "type":   "gear",
     "rarity": "header-gs",
     "vendor": "DZ 06",
     "score":  "256",
-    "name":   "D3-FNC Holster",
-    "armor":  "954",
+    "name":   "Reclaimer Holster",
+    "armor":  "982",
     "price":  "DZ 194,208",
-    "fire":   "1128",
-    "stam":   "1267",
-    "elec":   "1267",
-    "major":  "7,224 Health",
+    "fire":   "1208",
+    "stam":   "1176",
+    "elec":   "1125",
+    "major":  "6% Skill Haste",
     "minor":  "-"
   },
   {
@@ -74,52 +74,52 @@
     "rarity": "header-gs",
     "vendor": "DZ 06",
     "score":  "256",
-    "name":   "D3-FNC gloves",
-    "armor":  "976",
+    "name":   "DeadEYE Gloves",
+    "armor":  "964",
     "price":  "DZ 277,440",
-    "fire":   "-",
-    "stam":   "1214",
+    "fire":   "1192",
+    "stam":   "-",
     "elec":   "-",
-    "major":  "4% health on kill<br />14% critical hit damage<br />4,603 Marksman Rifle Damage",
+    "major":  "854 SMG Damage<br />15% Critical Hit Damage<br />2,461 Pistol Damage",
     "minor":  "-"
   },
 
   {
     "type":       "weapon-mod",
     "vendor":     "DZ 05",
-    "name":       "Extended Magazine",
+    "name":       "Heavy Magazine Spring",
     "price":      "DZ 21,362",
-    "attributes": "110.50% Magazine Size<br/>5.0% Reload Speed<br/>5.0% rate of fire"
+    "attributes": "5.0% Reload Speed<br/>4.0% Critical Hit Damage<br/>9.20% Rate of Fire"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "DZ 05",
-    "name":       "Osprey .45 suppressor - FDE",
+    "name":       "Compensator",
     "price":      "DZ 24,137",
-    "attributes": "14.50% Accuracy<br/>5.0% optimal range<br/>4% Critical Hit Damage<br/>44% Reduced Threat"
+    "attributes": "11.50% Stability<br/>6.0% Headshot Damage<br/>4% Critical Hit Damage"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "DZ 05",
-    "name":       "Handstop - FDE",
+    "name":       "Vertical Grip - Coyote Tan",
     "price":      "DZ 24,137",
-    "attributes": "29.50% Reload Speed<br/>4% Critical Hit Damage<br/>2.50% Stability"
+    "attributes": "45.0% Optimal Range<br/>2.0% Accuracy<br/>4.50% Reload Speed"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "DZ 05",
-    "name":       "ACOG Scope (4x) - Bronze",
+    "name":       "552 Holographic",
     "price":      "DZ 24,137",
-    "attributes": "15.50% Accuracy<br/>4.50% Optimal Range<br/>3.0% Critical Hit Chance"
+    "attributes": "7.50% Critical Hit Chance<br/>5.50% Headshot Damage<br/>2.0% Accuracy"
   },
 
   {
     "type":       "gear-mod",
     "vendor":     "DZ 04",
     "name":       "Stamina Mod",
-    "stat":       "266 STA",
+    "stat":       "228 STA",
     "price":      "DZ 21,362",
-    "attribute":  "3% Signature Ability Resource Gain"
+    "attribute":  "2% All Resist"
   },
   {
     "type":       "gear-mod",
@@ -127,74 +127,74 @@
     "name":       "Performance Mod",
     "stat":       "-",
     "price":      "DZ 21,362",
-    "attribute":  "3.50% Ballistic Shield Damage"
+    "attribute":  "5.50% First Aid Ally Heal"
   },
 
   {
     "type":     "weapon",
     "vendor":   "DZ 03",
     "score":    "256",
-    "name":     "93R",
+    "name":     "Rhino Special",
     "price":    "DZ 332,928",
     "bonus":    "-",
     "talent1":  "Expert",
-    "talent2":  "Trained",
+    "talent2":  "Coolheaded",
     "talent3":  "-"
   },
   {
     "type":     "weapon",
     "vendor":   "DZ 03",
     "score":    "256",
-    "name":     "Black Market T821",
+    "name":     "Enhanced AUG A3P",
     "price":    "DZ 416,160",
-    "bonus":    "19.50% Critical Hit Chance",
-    "talent1":  "Talented",
+    "bonus":    "22.50% Critical Hit Chance",
+    "talent1":  "Destructive",
     "talent2":  "Fierce",
-    "talent3":  "Unforgiving"
+    "talent3":  "Responsive"
   },
   {
     "type":     "weapon",
     "vendor":   "DZ 03",
     "score":    "256",
-    "name":     "Military SA-58",
+    "name":     "SOCOM SCAR-L",
     "price":    "DZ 416,160",
-    "bonus":    "19% Enemy Armor Damage",
-    "talent1":  "Self-Preserved",
-    "talent2":  "Responsive",
-    "talent3":  "Talented"
+    "bonus":    "23% Enemy Armor Damage",
+    "talent1":  "Intense",
+    "talent2":  "Self-Preserved",
+    "talent3":  "Prepared"
   },
   {
     "type":     "weapon",
     "vendor":   "DZ 03",
     "score":    "256",
-    "name":     "Military M870",
+    "name":     "Tactical SASG-12",
     "price":    "DZ 416,160",
-    "bonus":    "344.0% Stagger",
-    "talent1":  "Self-Preserved",
-    "talent2":  "Trained",
-    "talent3":  "Predatory"
+    "bonus":    "328.50% Stagger",
+    "talent1":  "Destructive",
+    "talent2":  "Adept",
+    "talent3":  "Sustained"
   },
   {
     "type":     "weapon",
     "vendor":   "DZ 03",
     "score":    "256",
-    "name":     "Classic M1A",
+    "name":     "SRS A1",
     "price":    "DZ 416,160",
-    "bonus":    "158% Headshot Damage",
-    "talent1":  "Talented",
-    "talent2":  "Predatory",
-    "talent3":  "Toxic"
+    "bonus":    "146% Headshot Damage",
+    "talent1":  "Intense",
+    "talent2":  "Toxis",
+    "talent3":  "Prepared"
   },
   {
     "type":     "weapon",
     "vendor":   "DZ 03",
     "score":    "256",
-    "name":     "Military MK46",
+    "name":     "Classic RPK-74",
     "price":    "DZ 416,160",
-    "bonus":    "14% DMG Out of Cover",
-    "talent1":  "Unforgiving",
+    "bonus":    "13% DMG Out of Cover",
+    "talent1":  "Predatory",
     "talent2":  "Destructive",
-    "talent3":  "Predatory"
+    "talent3":  "Unforgiving"
   },
   {
     "type":   "gear",
@@ -202,68 +202,68 @@
     "vendor": "DZ 02",
     "score":  "256",
     "name":   "Enduring Mask",
-    "armor":  "933",
+    "armor":  "950",
     "price":  "DZ 249,696",
-    "fire":   "1143",
-    "stam":   "-",
+    "fire":   "-",
+    "stam":   "1150",
     "elec":   "-",
-    "major":  "4% All resistance",
-    "minor":  "14% Disorient resistance"
+    "major":  "4% Health on Kill",
+    "minor":  "11% Damage to Elites"
   },
   {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "DZ 02",
     "score":  "256",
-    "name":   "Forecful Chest",
-    "armor":  "1,810",
+    "name":   "Forceful Chest",
+    "armor":  "1,716",
     "price":  "DZ 277,440",
     "fire":   "-",
     "stam":   "-",
     "elec":   "1159",
-    "major":  "4% Health on kill<br/>47% Ammo Capacity",
-    "minor":  "47% Ammo Capacity"
+    "major":  "4% Health on kill<br/>9.50% Exotic Damage Resilience",
+    "minor":  "52% Ammo Capacity"
   },
   {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "DZ 02",
     "score":  "256",
-    "name":   "Inventive Backpack",
-    "armor":  "1,223",
+    "name":   "Specialized Backpack",
+    "armor":  "1,166",
     "price":  "DZ 277,440",
-    "fire":   "-",
-    "stam":   "1258",
+    "fire":   "1268",
+    "stam":   "-",
     "elec":   "-",
-    "major":  "12,761 Skill Power",
-    "minor":  "51% Ammo Capacity"
+    "major":  "12,740 Health",
+    "minor":  "15% Disrupt Resistance"
   },
   {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "DZ 02",
     "score":  "256",
-    "name":   "Prosperous Kneepads",
-    "armor":  "1,421",
+    "name":   "Accomplished Kneepads",
+    "armor":  "1,457",
     "price":  "DZ 221,952",
     "fire":   "-",
     "stam":   "-",
-    "elec":   "1239",
-    "major":  "7% Critical hit damage",
-    "minor":  "51% Increased Kill XP<br/>13% Damage to Elites<br/>32% Bleed Resistance"
+    "elec":   "1184",
+    "major":  "11,566 Skill Power",
+    "minor":  "28% Disorient Resistance<br/>30% Shock Resistance<br/>53% Increased Kill XP"
   },
   {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "DZ 02",
     "score":  "256",
-    "name":   "Steadfast Holster",
-    "armor":  "956",
+    "name":   "Nimble Holster",
+    "armor":  "921",
     "price":  "DZ 194,208",
-    "fire":   "1267",
-    "stam":   "1160",
-    "elec":   "1248",
-    "major":  "8,116 health",
+    "fire":   "1252",
+    "stam":   "1251",
+    "elec":   "1266",
+    "major":  "3.50% Critical Hit Chance",
     "minor":  "-"
   },
   {
@@ -272,12 +272,12 @@
     "vendor": "DZ 02",
     "score":  "256",
     "name":   "Cunning Gloves",
-    "armor":  "902",
+    "armor":  "859",
     "price":  "DZ 221,952",
-    "fire":   "-",
+    "fire":   "1219",
     "stam":   "-",
-    "elec":   "1255",
-    "major":  "1,255 LMG Damage<br/>5.0% Critcal Hit Chance<br/>2,413 Pistol Damage",
+    "elec":   "-",
+    "major":  "4% Health on Kill<br/>1,198 LMG Damage<br/>5.0% Critical Hit Chance",
     "minor":  "-"
   }
 ]

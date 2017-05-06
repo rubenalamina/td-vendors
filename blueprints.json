@@ -2,6 +2,13 @@
 
   {
     "type":   "blueprint",
+    "name":   "Super 90",
+    "score":  "256",
+    "price":  "PxC 998"
+  },
+
+  {
+    "type":   "blueprint",
     "name":   "Classic M44 Carbine",
     "score":  "256",
     "price":  "PxC 998"
@@ -9,35 +16,28 @@
 
   {
     "type":   "blueprint",
-    "name":   "ACR",
+    "name":   "Firearms Knee Pads",
     "score":  "256",
-    "price":  "PxC 1082"
+    "price":  "PxC 499"
   },
 
   {
     "type":   "blueprint",
-    "name":   "Stamina Mask",
+    "name":   "Stamina Backpack",
     "score":  "256",
-    "price":  "PxC 582"
+    "price":  "PxC 665"
   },
 
   {
     "type":   "blueprint",
-    "name":   "Electronics Gloves",
-    "score":  "256",
-    "price":  "PxC 582"
-  },
-
-  {
-    "type":   "blueprint",
-    "name":   "Flash Hider<br/>Accuracy, Random, Random",
+    "name":   "Omega Rifle Suppressor - Tan<br/>Reduced Threat, Headshot Damage, Random, Random",
     "score":  "34",
     "price":  "PxC 200"
   },
 
   {
     "type":   "blueprint",
-    "name":   "EXPS3 Holographic Sight - Tan<br/>Optimal Range, Random, Random",
+    "name":   "Compensator<br/>Stability, Random, Random",
     "score":  "34",
     "price":  "PxC 200"
   },
@@ -51,16 +51,9 @@
 
   {
     "type":   "blueprint",
-    "name":   "Performance Gear Mod",
+    "name":   "Firearms Gear Mod",
     "score":  "34",
     "price":  "PxC 192"
-  },
-
-  {
-    "type":   "blueprint",
-    "name":   "Military P416",
-    "score":  "229",
-    "price":  "PxC 679"
   },
 
   {
@@ -72,14 +65,21 @@
 
   {
     "type":   "blueprint",
-    "name":   "Black Market AK-74",
-    "score":  "204",
-    "price":  "PxC 402"
+    "name":   "93R",
+    "score":  "229",
+    "price":  "PxC 470"
   },
+
   {
     "type":   "blueprint",
     "name":   "Police 686 Magnum",
     "score":  "204",
-    "price":  "PxC 278"
+    "price":  "PxC 340"
+  },
+  {
+    "type":   "blueprint",
+    "name":   "SRS A1",
+    "score":  "204",
+    "price":  "PxC 340"
   }
 ]
