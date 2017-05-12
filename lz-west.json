@@ -21,18 +21,6 @@
     "price":      "$ 168,044",
     "attribute":  "2% All Resistance"
   },
-
-  {
-    "type":    "weapon",
-    "vendor":  "Wolves Den",
-    "score":    "256",
-    "name":    "Rhino Special",
-    "price":    "$ 1,335,456",
-    "bonus":    "-",
-    "talent1":  "Expert",
-    "talent2":  "Determined",
-    "talent3":  "-"
-  },
   {
     "type":      "weapon-mod",
     "vendor":    "Wolves Den",
@@ -62,18 +50,6 @@
     "stat":      "-",
     "price":      "$ 168,044",
     "attribute":  "4.5% Smart Cover Duration"
-  },
-
-  {
-    "type":    "weapon",
-    "vendor":  "Kerman Station",
-    "score":    "256",
-    "name":    "Tactical M1911",
-    "price":    "$ 1,335,456",
-    "bonus":    "-",
-    "talent1":  "Expert",
-    "talent2":  "Talented",
-    "talent3":  "-"
   },
   {
     "type":      "weapon-mod",
@@ -105,36 +81,12 @@
     "price":      "$ 168,044",
     "attribute":  "1% Critical Hit Chance"
   },
-
-  {
-    "type":    "weapon",
-    "vendor":  "The Meat Locker",
-    "score":    "256",
-    "name":    "Tactical M249 Para",
-    "price":    "$ 1,669,320",
-    "bonus":    "14% Damage to Target Out of Cover",
-    "talent1":  "Competent",
-    "talent2":  "Capable",
-    "talent3":  "Brutal"
-  },
   {
     "type":      "weapon-mod",
     "vendor":    "The Meat Locker",
     "name":      "MK5 Scope (15x) - Tan",
     "price":      "$ 174,722",
     "attributes": "5.5%. Headshot Damage<br />4% Critical Hit Damage<br />2.5% Critical Hit Chance"
-  },
-
-  {
-    "type":    "weapon",
-    "vendor":  "Camp Hudson Weapon Vendor",
-    "score":    "256",
-    "name":    "Infantry MG5",
-    "price":    "$ 1,669,320",
-    "bonus":    "11% Damage to Target Out of Cover",
-    "talent1":  "Vicious",
-    "talent2":  "Destructive",
-    "talent3":  "Adept"
   },
   {
     "type":      "weapon-mod",

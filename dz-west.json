@@ -1,16 +1,5 @@
 [
   {
-    "type":     "weapon",
-    "vendor":   "DZ West 53rd",
-    "score":    "256",
-    "name":     "93R",
-    "price":    "DZ 332,928",
-    "bonus":    "-",
-    "talent1":  "Expert",
-    "talent2":  "Meticulous",
-    "talent3":  "-"
-  },
-  {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "DZ West 53rd",
@@ -38,18 +27,6 @@
     "name":       "High Velocity Magazine",
     "price":      "DZ 21,362",
     "attributes": "6.5% Critical Hit Chance<br/>4.5% Reload Speed<br/>5.3% Rate of Fire"
-  },
-
-  {
-    "type":     "weapon",
-    "vendor":   "DZ West 46th",
-    "score":    "256",
-    "name":     "Military RPK-74 M",
-    "price":    "DZ 416,160",
-    "bonus":    "13% DMG to target out of over",
-    "talent1":  "Unforgiving",
-    "talent2":  "Capable",
-    "talent3":  "Deadly"
   },
   {
     "type":   "gear",
@@ -80,18 +57,6 @@
     "price":      "DZ 24,137",
     "attributes": "11.5% Stability<br/>2.5% Critical Hit Chance<br/>4% Critical Hit Damage"
   },
-
-  {
-    "type":     "weapon",
-    "vendor":   "DZ West 42nd",
-    "score":    "256",
-    "name":     "PP-19",
-    "price":    "DZ 416,160",
-    "bonus":    "22.5% Critical Hit Chance",
-    "talent1":  "Dominant",
-    "talent2":  "Unforgiving",
-    "talent3":  "Hurried"
-  },
   {
     "type":   "gear",
     "rarity": "header-he",
@@ -121,18 +86,6 @@
     "price":      "DZ 24,137",
     "attributes": "16.5% Headshot Damage<br/>2.5% Stability<br/>2% Accuracy<br/>50% Reduced Threat"
   },
-
-  {
-    "type":     "weapon",
-    "vendor":   "DZ West 39th",
-    "score":    "256",
-    "name":     "Tactical Mk 16",
-    "price":    "DZ 416,160",
-    "bonus":    "23% Enemy Armor Damage",
-    "talent1":  "Vicious",
-    "talent2":  "Skilled",
-    "talent3":  "Prepared"
-  },
   {
     "type":   "gear",
     "rarity": "header-he",
@@ -161,18 +114,6 @@
     "name":       "Small Laser Pointer",
     "price":      "DZ 24,137",
     "attributes": "14.5% Accuracy<br/>4.5% Optimal Range<br/>4% Critical Hit Damage"
-  },
-
-  {
-    "type":     "weapon",
-    "vendor":   "DZ West 34th",
-    "score":    "256",
-    "name":     "MG5",
-    "price":    "DZ 416,160",
-    "bonus":    "14% DMG to Target out of Cover",
-    "talent1":  "Fierce",
-    "talent2":  "Ferocious",
-    "talent3":  "Determined"
   },
   {
     "type":   "gear",
@@ -204,17 +145,6 @@
     "attributes": "7% Critical Hit Chance<br/>4% Critical Hit Damage<br/>5.4% Rate of Fire"
   },
   {
-    "type":     "weapon",
-    "vendor":   "DZ West 31st",
-    "score":    "256",
-    "name":     "SRS A1",
-    "price":    "DZ 416,160",
-    "bonus":    "147% Headshot Damage",
-    "talent1":  "Trained",
-    "talent2":  "Vicious",
-    "talent3":  "Fierce"
-  },
-  {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "DZ West 31st",
@@ -242,18 +172,6 @@
     "name":       "Small Grip",
     "price":      "DZ 24,137",
     "attributes": "16% Critical Hit Damage<br/>4.5% Reload Speed<br/>2% Accuracy"
-  },
-
-  {
-    "type":     "weapon",
-    "vendor":   "DZ 5th Ave",
-    "score":    "256",
-    "name":     "SOCOM M1A",
-    "price":    "DZ 416,160",
-    "bonus":    "152% Headshot Damage",
-    "talent1":  "Competent",
-    "talent2":  "Trained",
-    "talent3":  "Harmful"
   },
   {
     "type":   "gear",

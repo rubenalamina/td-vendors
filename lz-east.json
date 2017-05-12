@@ -1,19 +1,5 @@
 [
   {
-    "type":     "weapon",
-    "vendor":   "The Crypt",
-    "score":    "256",
-    "name":     "Rhino Special",
-    "price":    "$ 1,335,456",
-    "bonus":    "-",
-    "dmg":      "41.5k",
-    "rpm":      "350",
-    "mag":      "6",
-    "talent1":  "Expert",
-    "talent2":  "Predatory",
-    "talent3":  "-"
-  },
-  {
     "type":       "weapon-mod",
     "vendor":     "The Crypt",
     "name":       "Vertical Grip - OD Green",
@@ -41,20 +27,6 @@
     "stat":       "231",
     "price":      "$ 168,044",
     "attribute":  "1.0% Critical Hit Chance"
-  },
-  {
-    "type":     "weapon",
-    "vendor":   "The Grindhouse",
-    "score":    "256",
-    "name":     "M700 Carbon",
-    "price":    "$ 1,669,320",
-    "bonus":    "154% Headshot Damage",
-    "dmg":      "144k",
-    "rpm":      "54",
-    "mag":      "7",
-    "talent1":  "Talented",
-    "talent2":  "Harmful",
-    "talent3":  "Elevated"
   },
   {
     "type":       "weapon-mod",
@@ -106,20 +78,6 @@
     "stat":       "-",
     "price":      "$ 168,044",
     "attribute":  "4% Mobile Cover Damage Resilience"
-  },
-  {
-    "type":     "weapon",
-    "vendor":   "The Last Call",
-    "score":    "256",
-    "name":     "First Wave X-45",
-    "price":    "$ 1,335,456",
-    "bonus":    "-",
-    "dmg":      "18.6k",
-    "rpm":      "625",
-    "mag":      "15",
-    "talent1":  "Expert",
-    "talent2":  "Harmful",
-    "talent3":  "-"
   },
   {
     "type":       "weapon-mod",

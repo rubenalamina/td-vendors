@@ -1,16 +1,5 @@
 [
   {
-    "type":     "weapon",
-    "vendor":   "DZ East 53rd",
-    "score":    "256",
-    "name":     "Super 90",
-    "price":    "DZ 416,160",
-    "bonus":    "320% Stagger",
-    "talent1":  "Talented",
-    "talent2":  "Destructive",
-    "talent3":  "Meticulous"
-  },
-  {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "DZ East 53rd",
@@ -38,18 +27,6 @@
     "name":       "Quick Release Magazine",
     "price":      "DZ 21,362",
     "attributes": "30% Reload Speed<br/>4% Critical Hit Damage<br/>5.1% Rate of Fire"
-  },
-
-  {
-    "type":     "weapon",
-    "vendor":   "DZ East 46th",
-    "score":    "256",
-    "name":     "Tactical Mk 16",
-    "price":    "DZ 416,160",
-    "bonus":    "18% Enemy Armor Damage",
-    "talent1":  "Unforgiving",
-    "talent2":  "Self-Preserved",
-    "talent3":  "Swift"
   },
   {
     "type":   "gear",
@@ -79,18 +56,6 @@
     "name":       "Heavy Magazine Spring",
     "price":      "DZ 21,362",
     "attributes": "3% Critical Hit Chance<br/>4.5% Reload Speed<br/>10% Rate of Fire"
-  },
-
-  {
-    "type":     "weapon",
-    "vendor":   "DZ East 42nd",
-    "score":    "256",
-    "name":     "Black Market AK-47",
-    "price":    "DZ 416,160",
-    "bonus":    "19% Enemy Armor Damage",
-    "talent1":  "Dominant",
-    "talent2":  "Commanding",
-    "talent3":  "Determined"
   },
   {
     "type":   "gear",
@@ -122,17 +87,6 @@
     "attributes": "16% Critical Hit Damage<br/>2% Accuracy<br/>4.5% Optimal Range<br/>46% Reduced Threat"
   },
   {
-    "type":     "weapon",
-    "vendor":   "DZ East 40th",
-    "score":    "256",
-    "name":     "ACR",
-    "price":    "DZ 416,160",
-    "bonus":    "18% Enemy Armor Damage",
-    "talent1":  "Intense",
-    "talent2":  "Commanding",
-    "talent3":  "Prepared"
-  },
-  {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "DZ East 40th",
@@ -160,18 +114,6 @@
     "name":       "Small Laser Pointer",
     "price":      "DZ 24,137",
     "attributes": "15% Accuracy<br/>4.5% Reload Speed<br/>4.5% Optimal Range"
-  },
-
-  {
-    "type":     "weapon",
-    "vendor":   "DZ East 34th",
-    "score":    "256",
-    "name":     "Classic M1A",
-    "price":    "DZ 416,160",
-    "bonus":    "164% Headshot Damage",
-    "talent1":  "Destructive",
-    "talent2":  "Toxic",
-    "talent3":  "Commanding"
   },
   {
     "type":   "gear",
@@ -201,17 +143,6 @@
     "name":       "Small Grip",
     "price":      "DZ 24,137",
     "attributes": "17% Critical Hit Damage<br/>2% Accuracy<br/>2.5% Stability"
-  },
-  {
-    "type":     "weapon",
-    "vendor":   "DZ East 31th",
-    "score":    "256",
-    "name":     "Tactical Vector 45 ACP",
-    "price":    "DZ 416,160",
-    "bonus":    "20.5% Critical Hit Chance",
-    "talent1":  "Unforgiving",
-    "talent2":  "Accurate",
-    "talent3":  "Self-Preserved"
   },
   {
     "type":   "gear",

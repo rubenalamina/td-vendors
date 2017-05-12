@@ -21,42 +21,12 @@
     "price":      "$ 168,044",
     "attribute":  "5.5% First Aid Ally Heal"
   },
-
-  {
-    "type":     "weapon",
-    "name":     "Classic RPK-74",
-    "vendor":   "BoO Weapons Vendor",
-    "score":    "256",
-    "price":    "$ 1,669,320",
-    "bonus":    "12% DMG to targets out of Cover",
-    "dmg":      "19.8",
-    "rpm":      "650",
-    "mag":      "45",
-    "talent1":  "Competent",
-    "talent2":  "Talented",
-    "talent3":  "Vicious"
-  },
   {
     "type":       "weapon-mod",
     "name":       "Russian red dot sight",
     "vendor":     "BoO Weapons Vendor",
     "price":      "$ 174,722",
     "attributes": "16.5% Accuracy<br/>4% Critical Hit Damage<br/>3% Critical Hit Chance"
-  },
-
-  {
-    "type":     "weapon",
-    "vendor":   "DZ Vendor at BoO",
-    "name":     "Double Barrel Sawed off",
-    "score":    "256",
-    "price":    "DZ 416,160",
-    "bonus":    "350% Stagger",
-    "dmg":      "172",
-    "rpm":      "200",
-    "mag":      "2",
-    "talent1":  "Meticulous",
-    "talent2":  "Vicious",
-    "talent3":  "Predatory"
   },
   {
     "type":   "gear",
@@ -87,92 +57,6 @@
     "price":      "DZ 24,137",
     "attributes": "27% Reload Speed<br/>2% Accuracy<br/>5% Opitmal Range"
   },
-
-  {
-    "type":     "weapon",
-    "name":     "586 Magnum",
-    "vendor":   "Advanced Weaponry Vendor",
-    "score":    "256",
-    "price":    "$ 1,335,456",
-    "bonus":    "-",
-    "dmg":      "40K",
-    "rpm":      "350",
-    "mag":      "6",
-    "talent1":  "Expert",
-    "talent2":  "Meticulous",
-    "talent3":  "-"
-  },
-  {
-    "type":     "weapon",
-    "name":     "MP5 ST",
-    "vendor":   "Advanced Weaponry Vendor",
-    "score":    "256",
-    "price":    "$ 1,669,320",
-    "bonus":    "21% Critical Hit Chance",
-    "dmg":      "20.2K",
-    "rpm":      "800",
-    "mag":      "32",
-    "talent1":  "Brutal",
-    "talent2":  "Commanding",
-    "talent3":  "Deadly"
-  },
-  {
-    "type":     "weapon",
-    "name":     "G36 Enhanced",
-    "vendor":   "Advanced Weaponry Vendor",
-    "score":    "256",
-    "price":    "$ 1,669,320",
-    "bonus":    "21% Enemy Armor Damage",
-    "dmg":      "22.4",
-    "rpm":      "750",
-    "mag":      "30",
-    "talent1":  "Dominant",
-    "talent2":  "Meticulous",
-    "talent3":  "Focused"
-  },
-  {
-    "type":     "weapon",
-    "name":     "Military M870",
-    "vendor":   "Advanced Weaponry Vendor",
-    "score":    "256",
-    "price":    "$ 1,669,320",
-    "bonus":    "322% Stagger",
-    "dmg":      "170K",
-    "rpm":      "75",
-    "mag":      "5",
-    "talent1":  "Swift",
-    "talent2":  "Deadly",
-    "talent3":  "Dominant"
-  },
-  {
-    "type":     "weapon",
-    "name":     "M700 Carbon",
-    "vendor":   "Advanced Weaponry Vendor",
-    "score":    "256",
-    "price":    "$ 1,669,320",
-    "bonus":    "158% Headshot Damage",
-    "dmg":      "139K",
-    "rpm":      "54",
-    "mag":      "7",
-    "talent1":  "Intense",
-    "talent2":  "Accurate",
-    "talent3":  "Elevated"
-  },
-  {
-    "type":     "weapon",
-    "name":     "Classic M60",
-    "vendor":   "Advanced Weaponry Vendor",
-    "score":    "256",
-    "price":    "$ 1,669,320",
-    "bonus":    "11% Damage to targets out of Cover",
-    "dmg":      "24",
-    "rpm":      "500",
-    "mag":      "100",
-    "talent1":  "Destructive",
-    "talent2":  "Deadly",
-    "talent3":  "Meticulous"
-  },
-
   {
     "type":       "weapon-mod",
     "name":       "Quick Release Magazine",
