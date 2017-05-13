@@ -4,69 +4,69 @@
     "rarity": "header-gs",
     "vendor": "DZ 06",
     "score":  "256",
-    "name":   "AlphaBridge Mask",
-    "armor":  "961",
+    "name":   "FireCrest Mask",
+    "armor":  "966",
     "price":  "DZ 249,696",
     "fire":   "-",
-    "stam":   "-",
-    "elec":   "1251",
-    "major":  "9,112 Skill Power",
-    "minor":  "15% Burn Resistance"
+    "stam":   "1264",
+    "elec":   "-",
+    "major":  "4% Health on Kill",
+    "minor":  "16% Disorient Resistance"
   },
   {
     "type":   "gear",
     "rarity": "header-gs",
     "vendor": "DZ 06",
     "score":  "256",
-    "name":   "Predator's Chest",
-    "armor":  "1,771",
+    "name":   "Final Measure Chest",
+    "armor":  "1,859",
     "price":  "DZ 277,440",
     "fire":   "-",
-    "stam":   "1125",
+    "stam":   "1231",
     "elec":   "-",
-    "major":  "4% All Resist<br />15,513 Health",
-    "minor":  "24% Increased Kill XP"
+    "major":  "10.0% Exotic Damage Resilience<br/>5.50% Enemy Armor Damage",
+    "minor":  "48% Ammo Capacity"
   },
   {
     "type":   "gear",
     "rarity": "header-gs",
     "vendor": "DZ 06",
     "score":  "256",
-    "name":   "Sentry's Backpack",
-    "armor":  "1,162",
+    "name":   "Nomad Backpack",
+    "armor":  "1,240",
     "price":  "DZ 277,440",
-    "fire":   "1239",
+    "fire":   "-",
     "stam":   "-",
-    "elec":   "-",
-    "major":  "11,356 Health",
-    "minor":  "16% Disrupt Resistance"
+    "elec":   "1163",
+    "major":  "12,475 Health",
+    "minor":  "51% Ammo Capacity"
   },
   {
     "type":   "gear",
     "rarity": "header-gs",
     "vendor": "DZ 06",
     "score":  "256",
-    "name":   "DeadEYE Knee Pads",
-    "armor":  "1,585",
+    "name":   "AlphaBridge Knee Pads",
+    "armor":  "1,608",
     "price":  "DZ 221,952",
     "fire":   "-",
-    "stam":   "1170",
+    "stam":   "1197",
     "elec":   "-",
-    "major":  "8.0% Exotic Damage Resilience",
-    "minor":  "32% Disorient Resistance<br />32% Bleed Resistance<br />29% Disrupt Resistance"
+    "major":  "4.0% Enemy Armor Damage",
+    "minor":  "30% Disrupt Resistance<br />32% Disorient Resistance<br />28% Shock Resistance"
   },
   {
     "type":   "gear",
     "rarity": "header-gs",
     "vendor": "DZ 06",
     "score":  "256",
-    "name":   "Reclaimer Holster",
-    "armor":  "982",
+    "name":   "Sentry's Holster",
+    "armor":  "937",
     "price":  "DZ 194,208",
-    "fire":   "1208",
-    "stam":   "1176",
-    "elec":   "1125",
-    "major":  "6% Skill Haste",
+    "fire":   "1183",
+    "stam":   "1169",
+    "elec":   "1269",
+    "major":  "21.0% Reload Speed",
     "minor":  "-"
   },
   {
@@ -75,51 +75,51 @@
     "vendor": "DZ 06",
     "score":  "256",
     "name":   "DeadEYE Gloves",
-    "armor":  "964",
+    "armor":  "906",
     "price":  "DZ 277,440",
-    "fire":   "1192",
+    "fire":   "-",
     "stam":   "-",
-    "elec":   "-",
-    "major":  "854 SMG Damage<br />15% Critical Hit Damage<br />2,461 Pistol Damage",
+    "elec":   "1197",
+    "major":  "1,314 Assault Rifle Damage<br/>2,658 Pistol Damage<br/>15% Critical Hit Damage",
     "minor":  "-"
   },
 
   {
     "type":       "weapon-mod",
     "vendor":     "DZ 05",
-    "name":       "Heavy Magazine Spring",
+    "name":       "Quick Release Magazine",
     "price":      "DZ 21,362",
-    "attributes": "5.0% Reload Speed<br/>4.0% Critical Hit Damage<br/>9.20% Rate of Fire"
+    "attributes": "26.50% Reload Speed<br/>4.0% Critical Hit Damage<br/>2.50% Critical Hit Chance"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "DZ 05",
-    "name":       "Compensator",
+    "name":       "Muzzle Brake",
     "price":      "DZ 24,137",
-    "attributes": "11.50% Stability<br/>6.0% Headshot Damage<br/>4% Critical Hit Damage"
+    "attributes": "13.0% Stability<br/>3.0% Critical Hit Chance<br/>2.0% Accuracy"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "DZ 05",
-    "name":       "Vertical Grip - Coyote Tan",
+    "name":       "Vertical Grip - OD Green",
     "price":      "DZ 24,137",
-    "attributes": "45.0% Optimal Range<br/>2.0% Accuracy<br/>4.50% Reload Speed"
+    "attributes": "46.50% Optimal Range<br/>4% Critical Hit Damage<br/>4.50% Reload Speed"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "DZ 05",
-    "name":       "552 Holographic",
+    "name":       "Reflex Sight",
     "price":      "DZ 24,137",
-    "attributes": "7.50% Critical Hit Chance<br/>5.50% Headshot Damage<br/>2.0% Accuracy"
+    "attributes": "8.0% Critical Hit Chance<br/>5.50% Headshot Damage<br/>4.50% Optimal Range"
   },
 
   {
     "type":       "gear-mod",
     "vendor":     "DZ 04",
-    "name":       "Stamina Mod",
-    "stat":       "228 STA",
+    "name":       "Electronics Mod",
+    "stat":       "230 STA",
     "price":      "DZ 21,362",
-    "attribute":  "2% All Resist"
+    "attribute":  "3% Signature Ability Gain"
   },
   {
     "type":       "gear-mod",
@@ -127,21 +127,21 @@
     "name":       "Performance Mod",
     "stat":       "-",
     "price":      "DZ 21,362",
-    "attribute":  "5.50% First Aid Ally Heal"
+    "attribute":  "7.50% Mobile Cover Health"
   },
   {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "DZ 02",
     "score":  "256",
-    "name":   "Enduring Mask",
-    "armor":  "950",
+    "name":   "Rehabilitated Mask",
+    "armor":  "899",
     "price":  "DZ 249,696",
     "fire":   "-",
-    "stam":   "1150",
-    "elec":   "-",
-    "major":  "4% Health on Kill",
-    "minor":  "11% Damage to Elites"
+    "stam":   "-",
+    "elec":   "1266",
+    "major":  "3.50% Critical Hit Chance",
+    "minor":  "14% Burn Resistance"
   },
   {
     "type":   "gear",
@@ -149,27 +149,27 @@
     "vendor": "DZ 02",
     "score":  "256",
     "name":   "Forceful Chest",
-    "armor":  "1,716",
+    "armor":  "1,804",
     "price":  "DZ 277,440",
     "fire":   "-",
     "stam":   "-",
-    "elec":   "1159",
-    "major":  "4% Health on kill<br/>9.50% Exotic Damage Resilience",
-    "minor":  "52% Ammo Capacity"
+    "elec":   "1173",
+    "major":  "11.0 Exotic Damage Resilience<br/>4% Health on Kill",
+    "minor":  "28% Increased Kill XP"
   },
   {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "DZ 02",
     "score":  "256",
-    "name":   "Specialized Backpack",
-    "armor":  "1,166",
+    "name":   "Resourceful Backpack",
+    "armor":  "1,228",
     "price":  "DZ 277,440",
-    "fire":   "1268",
+    "fire":   "-",
     "stam":   "-",
-    "elec":   "-",
-    "major":  "12,740 Health",
-    "minor":  "15% Disrupt Resistance"
+    "elec":   "1125",
+    "major":  "14.50% Stability",
+    "minor":  "51% Ammo Capacity"
   },
   {
     "type":   "gear",
@@ -177,26 +177,26 @@
     "vendor": "DZ 02",
     "score":  "256",
     "name":   "Accomplished Kneepads",
-    "armor":  "1,457",
+    "armor":  "1,544",
     "price":  "DZ 221,952",
     "fire":   "-",
     "stam":   "-",
-    "elec":   "1184",
-    "major":  "11,566 Skill Power",
-    "minor":  "28% Disorient Resistance<br/>30% Shock Resistance<br/>53% Increased Kill XP"
+    "elec":   "1232",
+    "major":  "3% All Resist",
+    "minor":  "32% Blind/Deaf Resistance<br/>28% Disorient Resistance<br/>32% Shock Resistance"
   },
   {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "DZ 02",
     "score":  "256",
-    "name":   "Nimble Holster",
-    "armor":  "921",
+    "name":   "Steadfast Holster",
+    "armor":  "917",
     "price":  "DZ 194,208",
-    "fire":   "1252",
-    "stam":   "1251",
-    "elec":   "1266",
-    "major":  "3.50% Critical Hit Chance",
+    "fire":   "1197",
+    "stam":   "1196",
+    "elec":   "1243",
+    "major":  "7,198 Health",
     "minor":  "-"
   },
   {
@@ -204,13 +204,13 @@
     "rarity": "header-he",
     "vendor": "DZ 02",
     "score":  "256",
-    "name":   "Cunning Gloves",
-    "armor":  "859",
+    "name":   "Astute Gloves",
+    "armor":  "978",
     "price":  "DZ 221,952",
-    "fire":   "1219",
+    "fire":   "-",
     "stam":   "-",
-    "elec":   "-",
-    "major":  "4% Health on Kill<br/>1,198 LMG Damage<br/>5.0% Critical Hit Chance",
+    "elec":   "1247",
+    "major":  "4% Health on Kill<br/>5.0% Critical Hit Chance<br/>1,192 LMG Damage",
     "minor":  "-"
   }
 ]

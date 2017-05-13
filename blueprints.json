@@ -2,14 +2,14 @@
 
   {
     "type":   "blueprint",
-    "name":   "Super 90",
+    "name":   "First Wave PF45",
     "score":  "256",
-    "price":  "PxC 998"
+    "price":  "PxC 749"
   },
 
   {
     "type":   "blueprint",
-    "name":   "Classic M44 Carbine",
+    "name":   "Surplus SVD",
     "score":  "256",
     "price":  "PxC 998"
   },
@@ -23,7 +23,7 @@
 
   {
     "type":   "blueprint",
-    "name":   "Stamina Backpack",
+    "name":   "Firearms Vest",
     "score":  "256",
     "price":  "PxC 665"
   },
@@ -37,16 +37,9 @@
 
   {
     "type":   "blueprint",
-    "name":   "Compensator<br/>Stability, Random, Random",
+    "name":   "552 Holosight<br/>Critical Hit Chance, Random, Random",
     "score":  "34",
     "price":  "PxC 200"
-  },
-
-  {
-    "type":   "blueprint",
-    "name":   "Stamina Gear Mod",
-    "score":  "34",
-    "price":  "PxC 192"
   },
 
   {
@@ -55,30 +48,35 @@
     "score":  "34",
     "price":  "PxC 192"
   },
-
   {
     "type":   "blueprint",
-    "name":   "Black Market RPK-74 E",
+    "name":   "Stamina Gear Mod",
+    "score":  "34",
+    "price":  "PxC 192"
+  },
+  {
+    "type":   "blueprint",
+    "name":   "Classic FAL",
     "score":  "229",
-    "price":  "PxC 574"
+    "price":  "PxC 679"
   },
 
   {
     "type":   "blueprint",
-    "name":   "93R",
+    "name":   "586 Magnum",
     "score":  "229",
     "price":  "PxC 470"
   },
 
   {
     "type":   "blueprint",
-    "name":   "Police 686 Magnum",
+    "name":   "Px4 Story Type T",
     "score":  "204",
     "price":  "PxC 340"
   },
   {
     "type":   "blueprint",
-    "name":   "SRS A1",
+    "name":   "Police T821",
     "score":  "204",
     "price":  "PxC 340"
   }

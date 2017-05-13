@@ -3,15 +3,15 @@
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "BoO Gear Vendor",
-    "name":   "Tenacious Mask",
+    "name":   "Robust Chest",
     "score":  "256",
-    "armor":  "859",
+    "armor":  "1,932",
     "price":  "$1,001,592",
     "fire":   "-",
-    "stam":   "1260",
+    "stam":   "1125",
     "elec":   "-",
-    "major":  "4% All Resistance",
-    "minor":  "15% Blind/Deaf Resistance"
+    "major":  "8% Skill Haste<br/>15,010 Health",
+    "minor":  "26% Increased Kill XP"
   },
   {
     "type":       "gear-mod",
@@ -19,71 +19,71 @@
     "vendor":     "BoO Gear Vendor",
     "stat":       "-",
     "price":      "$ 168,044",
-    "attribute":  "5.5% First Aid Ally Heal"
+    "attribute":  "2.50% Smart Cover Damage Resilience"
   },
   {
     "type":       "weapon-mod",
-    "name":       "Russian red dot sight",
+    "name":       "Small Laser Pointer",
     "vendor":     "BoO Weapons Vendor",
     "price":      "$ 174,722",
-    "attributes": "16.5% Accuracy<br/>4% Critical Hit Damage<br/>3% Critical Hit Chance"
+    "attributes": "15.50% Accuracy<br/>4% Critical Hit Damage<br/>5.0% Optimal Range"
   },
   {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "DZ Vendor at BoO",
-    "name":   "Robust Chest",
+    "name":   "Relentless Backpack",
     "score":  "256",
-    "armor":  "1752",
+    "armor":  "1,214",
     "price":  "DZ 277,440",
-    "fire":   "1238",
+    "fire":   "-",
     "stam":   "-",
-    "elec":   "-",
-    "major":  "7% Skill Haste<br/>15,345 Health",
-    "minor":  "27% Kill XP"
+    "elec":   "1194",
+    "major":  "11,815 Health",
+    "minor":  "15% Bleed Resistance"
   },
   {
     "type":       "gear-mod",
-    "name":       "Performance Mod",
+    "name":       "Electronics Mod",
     "vendor":     "DZ Vendor at BoO",
-    "stat":       "-",
+    "stat":       "242 ELE",
     "price":      "DZ 21,362",
-    "attribute":  "7% Turret Duration"
+    "attribute":  "3% Signature Ability Gain"
   },
   {
     "type":       "weapon-mod",
-    "name":       "Handstop-Coyote",
+    "name":       "PEQ-15 Laser",
     "vendor":     "DZ Vendor at BoO",
     "price":      "DZ 24,137",
-    "attributes": "27% Reload Speed<br/>2% Accuracy<br/>5% Opitmal Range"
+    "attributes": "15.50% Accuracy<br/>2.50% Stability<br/>4% Critical Hit Chance"
   },
   {
     "type":       "weapon-mod",
-    "name":       "Quick Release Magazine",
+    "name":       "Higgh Velocity Magazine",
     "vendor":     "Advanced Weaponry Vendor",
     "price":      "$ 168,044",
-    "attributes": "27% Reload Speed<br/>11% Magazine Size<br/>2.5% Critical Hit Chance"
+    "attributes": "7.0% Critical Hit Chance<br/>5.0% Reload Speed<br/>5.30% Rate of Fire"
   },
   {
     "type":       "weapon-mod",
-    "name":       "Omega Rifle Suppressor-Tan",
+    "name":       "Osprey .45 Suppressor - FDE",
     "vendor":     "Advanced Weaponry Vendor",
     "price":      "$ 174,722",
-    "attributes": "18% Headshot Damage<br/>4% Critical Hit Damage<br/>2.5% Critical Hit Chance<br/>49% Reduced Threat"
+    "attributes": "15.0% Accuracy<br/>2.50% Stability<br/>5.5% Headshot Damage<br/>48% Reduced Threat"
   },
   {
     "type":       "weapon-mod",
-    "name":       "PEQ-15 Laser-red",
+    "name":       "Vertical Grip - Foliage Green",
     "vendor":     "Advanced Weaponry Vendor",
     "price":      "$ 174,722",
-    "attributes": "49% Optimal Range<br/>5% Reload Speed<br/>2.5% Stability"
+    "attributes": "44.0% Optimal Range<br/>2.50% Stability<br/>5.0% Reload Speed"
   },
   {
     "type":       "weapon-mod",
-    "name":       "Pro red dot sight",
+    "name":       "EXPS3 Holographic Sight - Tan",
     "vendor":     "Advanced Weaponry Vendor",
     "price":      "$ 174,722",
-    "attributes": "16% Critical Hit Damage<br/>4.5% Optimal Range<br/>2.5% Critical Hit Chance"
+    "attributes": "22.50% Optimal Range<br/>4% Critical Hit Damage<br/>2.5% Stability"
   }
 
 ]
