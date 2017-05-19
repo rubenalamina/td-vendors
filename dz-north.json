@@ -134,8 +134,8 @@
     "armor":  "1,719",
     "price":  "DZ 277,440",
     "fire":   "-",
-    "stam":   "-",
-    "elec":   "1270",
+    "stam":   "1202",
+    "elec":   "-",
     "major":  "4% Health on Kill<br/>16,409 Health",
     "minor":  "26% Increased Kill XP"
   },
