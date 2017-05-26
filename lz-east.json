@@ -2,111 +2,110 @@
   {
     "type":       "weapon-mod",
     "vendor":     "The Crypt",
-    "name":       "PEQ-15 Laser - Green",
+    "name":       "Loud Vent Brake",
     "price":      "$ 174,722",
-    "attributes": "14.50% Accuracy<br/>4.50% Optimal Range<br/>4.50% Reload Speed"
+    "attributes": "18% Critical Hit Damage<br/>4.50% Optimal Range<br/>6.0% Headshot Damage<br/>41% Increased Threat"
   },
   {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "The Firewall",
     "score":  "256",
-    "name":   "Prosperous Knee Pads",
-    "armor":  "1,546",
+    "name":   "Reckless Chest",
+    "armor":  "1,931",
     "price":  "$ 1,112,880",
-    "fire":   "1128",
-    "stam":   "-",
+    "fire":   "-",
+    "stam":   "1120",
     "elec":   "-",
-    "major":  "1,2042 Health",
-    "minor":  "52% Increased Kill XP<br/>12% Damage to Elites<br/>29% Bleed Resistance"
+    "major":  "4% All Resistance<br/>15,809 Health",
+    "minor":  "47% Amo Capacity"
   },
   {
     "type":       "gear-mod",
     "vendor":     "The Firewall",
-    "name":       "Electronics Mod",
-    "stat":       "231 ELE",
+    "name":       "Firearms Mod",
+    "stat":       "246 FA",
     "price":      "$ 168,044",
-    "attribute":  "2.50% Exotic Damage Resilience"
+    "attribute":  "3,124 Skill Power"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "The Grindhouse",
-    "name":       "552 Holosight",
+    "name":       "Russian Red Dot Sight",
     "price":      "$ 174,722",
-    "attributes": "6.5% Critical Hit Chance<br/>4.50% Optimal Range<br/>2.50% Stability"
+    "attributes": "16.0% Accuracy<br/>4.0% Optimal Range<br/>5.50% Headshot Damage"
   },
   {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "Southpaw",
     "score":  "256",
-    "name":   "Decisive Gloves",
-    "armor":  "983",
+    "name":   "Technical Backpack",
+    "armor":  "1,174",
     "price":  "$ 890,304",
     "fire":   "-",
-    "stam":   "-",
-    "elec":   "1171",
-    "major":  "2,536 Pistol Damage<br/>7.0% Enemy Armor Damage<br/>8% Skill Haste",
-    "minor":  "-"
+    "stam":   "1244",
+    "elec":   "-",
+    "major":  "12,147 Health",
+    "minor":  "16% Bleed Resistance"
   },
   {
     "type":       "gear-mod",
     "vendor":     "Southpaw",
-    "name":       "Performance Mod",
-    "stat":       "-",
+    "name":       "Stamina Mod",
+    "stat":       "256 STA",
     "price":      "$ 168,044",
-    "attribute":  "3.50% Seeker Mine Damage"
+    "attribute":  "3% Skill Haste"
   },
   {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "The Ward",
     "score":  "256",
-    "name":   "Rehabilitated Mask",
-    "armor":  "994",
+    "name":   "Robust Chest",
+    "armor":  "1,708",
     "price":  "$ 1,001,592",
-    "fire":   "1205",
+    "fire":   "-",
     "stam":   "-",
-    "elec":   "-",
-    "major":  "4.0% Critical Hit Chance",
-    "minor":  "14% Burn Resistance"
+    "elec":   "1173",
+    "major":  "5.50% Enemy Armor Damage<br/>4% All Resistance",
+    "minor":  "56% Ammo Capacity"
   },
   {
     "type":       "gear-mod",
     "vendor":     "The Ward",
-    "name":       "Electronics Mod",
-    "stat":       "250 ELE",
+    "name":       "Performance Mod",
+    "stat":       "-",
     "price":      "$ 168,044",
-    "attribute":  "3,166 Health"
+    "attribute":  "5.0% Pulse Duration"
   },
   {
     "type":       "weapon-mod",
     "vendor":     "The Last Call",
     "name":       "Loud Vent Brake",
     "price":      "$ 174,722",
-    "attributes": "16% Critical Hit Damage<br/>4.50% Optimal Range<br/>2.50% Stability"
+    "attributes": "12.50% Stability<br/>2.0% Accuracy<br/>4% Critical Hit Damage"
   },
   {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "Madison's Stand",
     "score":  "256",
-    "name":   "Tenacious Mask",
-    "armor":  "928",
+    "name":   "Rehabilitated Mask",
+    "armor":  "933",
     "price":  "$1,001,592",
     "fire":   "-",
-    "stam":   "-",
-    "elec":   "1183",
-    "major":  "10.50% Exotic Damage Resilience",
-    "minor":  "16% Blind/Deaf Resistance"
+    "stam":   "1234",
+    "elec":   "-",
+    "major":  "9,893 Skill Power",
+    "minor":  "12% Increased Kill XP"
   },
   {
     "type":       "gear-mod",
     "vendor":     "Madison's Stand",
-    "name":       "Performance Mod",
-    "stat":       "-",
+    "name":       "Electronics Mod",
+    "stat":       "240 ELE",
     "price":      "$ 168,044",
-    "attribute":  "7.0%% Mobile Cover Health"
+    "attribute":  "2,888 Health"
   }
-
 ]

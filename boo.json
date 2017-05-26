@@ -3,15 +3,15 @@
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "BoO Gear Vendor",
-    "name":   "Robust Chest",
+    "name":   "Prosperous Knee Pads",
     "score":  "256",
-    "armor":  "1,932",
-    "price":  "$1,001,592",
+    "armor":  "1,607",
+    "price":  "$890,304",
     "fire":   "-",
-    "stam":   "1125",
+    "stam":   "1169",
     "elec":   "-",
-    "major":  "8% Skill Haste<br/>15,010 Health",
-    "minor":  "26% Increased Kill XP"
+    "major":  "12,204 Skill Power",
+    "minor":  "56% Increased Kill XP<br/>12% Damage to Elites<br/>27% Disorient Resistance"
   },
   {
     "type":       "gear-mod",
@@ -19,71 +19,71 @@
     "vendor":     "BoO Gear Vendor",
     "stat":       "-",
     "price":      "$ 168,044",
-    "attribute":  "2.50% Smart Cover Damage Resilience"
+    "attribute":  "7.5% Seeker Mine Explosion Radius"
   },
   {
     "type":       "weapon-mod",
-    "name":       "Small Laser Pointer",
+    "name":       "Osprey .45 suppressor",
     "vendor":     "BoO Weapons Vendor",
     "price":      "$ 174,722",
-    "attributes": "15.50% Accuracy<br/>4% Critical Hit Damage<br/>5.0% Optimal Range"
+    "attributes": "15.5% Accuracy<br/>5.5% Headshot Damage<br/>2.5% Stability<br/>50% Reduced Threat"
   },
   {
     "type":   "gear",
     "rarity": "header-he",
     "vendor": "DZ Vendor at BoO",
-    "name":   "Relentless Backpack",
+    "name":   "Refreshed Mask",
     "score":  "256",
-    "armor":  "1,214",
-    "price":  "DZ 277,440",
+    "armor":  "907",
+    "price":  "DZ 249,696",
     "fire":   "-",
     "stam":   "-",
-    "elec":   "1194",
-    "major":  "11,815 Health",
-    "minor":  "15% Bleed Resistance"
+    "elec":   "1159",
+    "major":  "4% Health on Kill",
+    "minor":  "15% Disorient Resistance"
   },
   {
     "type":       "gear-mod",
-    "name":       "Electronics Mod",
+    "name":       "Stamina Mod",
     "vendor":     "DZ Vendor at BoO",
-    "stat":       "242 ELE",
+    "stat":       "247 STA",
     "price":      "DZ 21,362",
-    "attribute":  "3% Signature Ability Gain"
+    "attribute":  "2% All Resistance"
   },
   {
     "type":       "weapon-mod",
-    "name":       "PEQ-15 Laser",
+    "name":       "Quick release Magazine",
     "vendor":     "DZ Vendor at BoO",
     "price":      "DZ 24,137",
-    "attributes": "15.50% Accuracy<br/>2.50% Stability<br/>4% Critical Hit Chance"
+    "attributes": "26.5% Reload Speed<br/>11% Magazine Size<br/>5.2% Rate of Fire"
   },
   {
     "type":       "weapon-mod",
-    "name":       "Higgh Velocity Magazine",
+    "name":       "Extended Magazine",
     "vendor":     "Advanced Weaponry Vendor",
     "price":      "$ 168,044",
-    "attributes": "7.0% Critical Hit Chance<br/>5.0% Reload Speed<br/>5.30% Rate of Fire"
+    "attributes": "113.50% Magazine Size<br/>4% Critical Hit Damage<br/>4.70% Rate of Fire"
   },
   {
     "type":       "weapon-mod",
-    "name":       "Osprey .45 Suppressor - FDE",
+    "name":       "Muzzle Brake",
     "vendor":     "Advanced Weaponry Vendor",
     "price":      "$ 174,722",
-    "attributes": "15.0% Accuracy<br/>2.50% Stability<br/>5.5% Headshot Damage<br/>48% Reduced Threat"
+    "attributes": "12.5% Stability<br/>3% Critical Hit Chance<br/>4.5% Optimal Range"
   },
   {
     "type":       "weapon-mod",
-    "name":       "Vertical Grip - Foliage Green",
+    "name":       "Handstop",
     "vendor":     "Advanced Weaponry Vendor",
     "price":      "$ 174,722",
-    "attributes": "44.0% Optimal Range<br/>2.50% Stability<br/>5.0% Reload Speed"
+    "attributes": "27% Reload Speed<br/>2% Accuracy<br/>4% Critical Hit Damage"
   },
   {
     "type":       "weapon-mod",
-    "name":       "EXPS3 Holographic Sight - Tan",
+    "name":       "Rugged Mini Reflex Sight",
     "vendor":     "Advanced Weaponry Vendor",
     "price":      "$ 174,722",
-    "attributes": "22.50% Optimal Range<br/>4% Critical Hit Damage<br/>2.5% Stability"
+    "attributes": "6.0% Headshot Damage<br/>4% Optimal Range<br/>7.5% Critical Hit Chance"
   }
 
 ]

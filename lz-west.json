@@ -4,29 +4,29 @@
     "rarity": "header-he",
     "vendor": "Autumn's Hope",
     "score":  "256",
-    "name":  "Vigorous Chest",
-    "armor":  "1,844",
-    "price":  "$ 1,112,880",
-    "fire":  "-",
-    "stam":  "1186",
+    "name":  "Tenacious Mask",
+    "armor":  "922",
+    "price":  "$1,001,592",
+    "fire":  "1144",
+    "stam":  "-",
     "elec":  "-",
-    "major":  "8% Skill Haste<br />4% Health On Kill",
-    "minor":  "27% Increased Kill XP"
+    "major":  "7.5% Enemy Armor Damage",
+    "minor":  "15% Burn Resistance"
   },
   {
     "type":      "gear-mod",
-    "name":      "Electronics Mod",
+    "name":      "Firearms Mod",
     "vendor":    "Autumn's Hope",
-    "stat":      "237 ELE",
-    "price":      "$ 168,044",
-    "attribute":  "2% All Resistance"
+    "stat":      "259 FA",
+    "price":      "$168,044",
+    "attribute":  "1% Critical Hit Chance"
   },
   {
     "type":      "weapon-mod",
     "vendor":    "Wolves Den",
-    "name":      "Small RDS Scope",
-    "price":      "$ 174,722",
-    "attributes": "13% Stability<br />4% Critical Hit Damage<br />2% Accuracy"
+    "name":      "Extended Magazine",
+    "price":      "$168,044",
+    "attributes": "112% Magazine Size<br/>4.50% Reload Speed<br/>5.30% Rate of Fire"
   },
 
   {
@@ -34,29 +34,29 @@
     "rarity": "header-he",
     "vendor": "Dante's Run",
     "score":  "256",
-    "name":  "Steadfast Holster",
-    "armor":  "975",
-    "price":  "$ 779,016",
-    "fire":  "1185",
-    "stam":  "1168",
-    "elec":  "1154",
-    "major":  "7,475 Health",
+    "name":  "Recovered Holster",
+    "armor":  "923",
+    "price":  "$779,016",
+    "fire":  "1191",
+    "stam":  "1209",
+    "elec":  "1245",
+    "major":  "6% Skill Haste",
     "minor":  "-"
   },
   {
     "type":      "gear-mod",
     "vendor":    "Dante's Run",
-    "name":      "Electronics Mod",
-    "stat":      "259 ELE",
-    "price":      "$ 168,044",
-    "attribute":  "3% Signature Ability Resource Gain"
+    "name":      "Stamina Mod",
+    "stat":      "261 STA",
+    "price":      "$168,044",
+    "attribute":  "3,192 Skill Power"
   },
   {
     "type":      "weapon-mod",
     "vendor":    "Kerman Station",
-    "name":      "VX-1 Scope (12x)",
-    "price":      "$ 174,722",
-    "attributes": "16% Headshot Damage<br />2.5% Stability<br />2% Accuracy"
+    "name":      "Flash Hider",
+    "price":      "$174,722",
+    "attributes": "17% Accuracy<br/>4% Critical Hit Damage<br/>3% Critical Hit Chance"
   },
 
   {
@@ -64,58 +64,58 @@
     "rarity": "header-he",
     "vendor": "The Cavern",
     "score":  "256",
-    "name":  "Resourceful Backpack",
-    "armor":  "1,783",
-    "price":  "$ 1,112,880",
-    "fire":  "1146",
+    "name":  "Specialized Backpack",
+    "armor":  "1,197",
+    "price":  "$1,112,880",
+    "fire":  "1209",
     "stam":  "-",
     "elec":  "-",
-    "major":  "7% Critical Hit Damage",
-    "minor":  "52% Ammo Capacity"
+    "major":  "13,225 Health",
+    "minor":  "16% Burn Resistance"
   },
   {
     "type":      "gear-mod",
     "vendor":    "The Cavern",
     "name":      "Electronics Mod",
-    "stat":      "236 ELE",
-    "price":      "$ 168,044",
-    "attribute":  "3% Skill Haste"
+    "stat":      "261 ELE",
+    "price":      "$168,044",
+    "attribute":  "2.5% Exotic Damage Resilience"
   },
   {
     "type":      "weapon-mod",
     "vendor":    "The Meat Locker",
-    "name":      "Vertical Grip - Foliage Green",
-    "price":      "$ 174,722",
-    "attributes": "45% Optimal Range<br />2% Accuracy<br />4.5% Reload Speed"
+    "name":      "Small Laser Pointer",
+    "price":      "$174,722",
+    "attributes": "16.5% Accuracy<br/>4.5% Optimal Range<br/>5% Reload Speed"
   },
   {
     "type":      "weapon-mod",
     "vendor":    "Camp Hudson Weapon Vendor",
-    "name":      "High Velocity Magazine",
-    "price":      "$ 168,044",
-    "attributes": "7% Critical Hit Chance<br />4% Critical Hit Damage<br />11% Magazine Size"
+    "name":      "Vertical Grip - Foliage Green",
+    "price":      "$174,722",
+    "attributes": "45.5% Optimal Range<br/>4% Critical Hit Damage<br/>11% 5% Reload Speed"
   },
 
   {
     "type":  "gear",
     "rarity": "header-he",
-    "vendor": "Camp Hudson Gear Vendor",
+    "vendor": "Camp Hudson",
     "score":  "256",
-    "name":  "Reckless Chest",
-    "armor":  "1,827",
-    "price":  "$ 1,112,880",
-    "fire":  "-",
-    "stam":  "1228",
+    "name":  "Decisive Gloves",
+    "armor":  "925",
+    "price":  "$890,304",
+    "fire":  "1132",
+    "stam":  "-",
     "elec":  "-",
-    "major":  "5.5% Enemy Armor Damage<br />8% Skill Haste",
-    "minor":  "47% Ammo Capacity"
+    "major":  "8% Skill Haste<br/>5% Critical Hit Chance<br/>4,063 Marksman Rifle Damage",
+    "minor":  "-"
   },
   {
     "type":      "gear-mod",
-    "vendor":    "Camp Hudson Gear Vendor",
-    "name":      "Electronics Mod",
-    "stat":      "251 ELE",
-    "price":      "$ 168,044",
-    "attribute":  "3% Signature Ability Resource Gain"
+    "vendor":    "Camp Hudson",
+    "name":      "Performance Mod",
+    "stat":      "-",
+    "price":      "$168,044",
+    "attribute":  "2% Pulse Critical Hit Damage"
   }
 ]
