@@ -1,121 +1,121 @@
 [
-  {
-    "type":  "gear",
-    "rarity": "header-he",
-    "vendor": "Autumn's Hope",
-    "score":  "256",
-    "name":  "Tenacious Mask",
-    "armor":  "922",
-    "price":  "$1,001,592",
-    "fire":  "1144",
-    "stam":  "-",
-    "elec":  "-",
-    "major":  "7.5% Enemy Armor Damage",
-    "minor":  "15% Burn Resistance"
-  },
-  {
-    "type":      "gear-mod",
-    "name":      "Firearms Mod",
-    "vendor":    "Autumn's Hope",
-    "stat":      "259 FA",
-    "price":      "$168,044",
-    "attribute":  "1% Critical Hit Chance"
-  },
-  {
-    "type":      "weapon-mod",
-    "vendor":    "Wolves Den",
-    "name":      "Extended Magazine",
-    "price":      "$168,044",
-    "attributes": "112% Magazine Size<br/>4.50% Reload Speed<br/>5.30% Rate of Fire"
-  },
+ {
+   "type":  "gear",
+   "rarity": "header-he",
+   "vendor": "Autumn's Hope",
+   "score":  "256",
+   "name":  "Prosperous Kneepads",
+   "armor":  "1,618",
+   "price":  "$ 890,,304",
+   "fire":  "-",
+   "stam":  "-",
+   "elec":  "1239",
+   "major":  "7.5% EDR",
+   "minor":  "28% Blind/Deaf<br/>47% Kill XP<br />12% DtE"
+ },
+ {
+   "type":      "gear-mod",
+   "name":      "Firearms Mod",
+   "vendor":    "Autumn's Hope",
+   "stat":      "236 FA",
+   "price":      "$ 168,044",
+   "attribute":  "4% Signature Ability Resource Gain"
+ },
+ {
+   "type":      "weapon-mod",
+   "vendor":    "Wolves Den",
+   "name":      "Omega Rifle Supressor",
+   "price":      "$ 174,722",
+   "attributes": "17.5% Headshot Damage<br />4% CHD<br />2.5% Stability"
+ },
 
-  {
-    "type":  "gear",
-    "rarity": "header-he",
-    "vendor": "Dante's Run",
-    "score":  "256",
-    "name":  "Recovered Holster",
-    "armor":  "923",
-    "price":  "$779,016",
-    "fire":  "1191",
-    "stam":  "1209",
-    "elec":  "1245",
-    "major":  "6% Skill Haste",
-    "minor":  "-"
-  },
-  {
-    "type":      "gear-mod",
-    "vendor":    "Dante's Run",
-    "name":      "Stamina Mod",
-    "stat":      "261 STA",
-    "price":      "$168,044",
-    "attribute":  "3,192 Skill Power"
-  },
-  {
-    "type":      "weapon-mod",
-    "vendor":    "Kerman Station",
-    "name":      "Flash Hider",
-    "price":      "$174,722",
-    "attributes": "17% Accuracy<br/>4% Critical Hit Damage<br/>3% Critical Hit Chance"
-  },
+ {
+   "type":  "gear",
+   "rarity": "header-he",
+   "vendor": "Dante's Run",
+   "score":  "256",
+   "name":  "Accomplished Kneepads",
+   "armor":  "1,451",
+   "price":  "$ 890,304",
+   "fire":  "1192",
+   "stam":  "-",
+   "elec":  "-",
+   "major":  "3.5% EAD",
+   "minor":  "33% Disorient<br/>53% Kill XP<br/>31% Disrupt"
+ },
+ {
+   "type":      "gear-mod",
+   "vendor":    "Dante's Run",
+   "name":      "Firearms Mod",
+   "stat":      "249 FA",
+   "price":      "$ 168,044",
+   "attribute":  "4% Signature Ability Resource Gain"
+ },
+ {
+   "type":      "weapon-mod",
+   "vendor":    "Kerman Station",
+   "name":      "PRO Red Dot Sight",
+   "price":      "$ 174,722",
+   "attributes": "17% CHD<br />3% CHC<br />5.5% Headshot Damage"
+ },
 
-  {
-    "type":  "gear",
-    "rarity": "header-he",
-    "vendor": "The Cavern",
-    "score":  "256",
-    "name":  "Specialized Backpack",
-    "armor":  "1,197",
-    "price":  "$1,112,880",
-    "fire":  "1209",
-    "stam":  "-",
-    "elec":  "-",
-    "major":  "13,225 Health",
-    "minor":  "16% Burn Resistance"
-  },
-  {
-    "type":      "gear-mod",
-    "vendor":    "The Cavern",
-    "name":      "Electronics Mod",
-    "stat":      "261 ELE",
-    "price":      "$168,044",
-    "attribute":  "2.5% Exotic Damage Resilience"
-  },
-  {
-    "type":      "weapon-mod",
-    "vendor":    "The Meat Locker",
-    "name":      "Small Laser Pointer",
-    "price":      "$174,722",
-    "attributes": "16.5% Accuracy<br/>4.5% Optimal Range<br/>5% Reload Speed"
-  },
-  {
-    "type":      "weapon-mod",
-    "vendor":    "Camp Hudson Weapon Vendor",
-    "name":      "Vertical Grip - Foliage Green",
-    "price":      "$174,722",
-    "attributes": "45.5% Optimal Range<br/>4% Critical Hit Damage<br/>11% 5% Reload Speed"
-  },
+ {
+   "type":  "gear",
+   "rarity": "header-he",
+   "vendor": "The Cavern",
+   "score":  "256",
+   "name":  "Vigorous Chest",
+   "armor":  "1,740",
+   "price":  "$ 1,112,880",
+   "fire":  "1268",
+   "stam":  "-",
+   "elec":  "-",
+   "major":  "6% EAD<br />14,360 Health",
+   "minor":  "27% Kill XP"
+ },
+ {
+   "type":      "gear-mod",
+   "vendor":    "The Cavern",
+   "name":      "Performance Mod",
+   "stat":      "-",
+   "price":      "$ 168,044",
+   "attribute":  "3.5% Turret Damage"
+ },
+ {
+   "type":      "weapon-mod",
+   "vendor":    "The Meat Locker",
+   "name":      "Heavy Magazine Spring",
+   "price":      "$ 168,044",
+   "attributes": "4% CHD<br />4.5% Reload Speed<br />9.3% RoF"
+ },
+ {
+   "type":      "weapon-mod",
+   "vendor":    "Camp Hudson Weapon Vendor",
+   "name":      "C79 Scope (3.4x)",
+   "price":      "$ 174,722",
+   "attributes": "18% CHD<br />2.5% CHC<br />6% Headshot Damage"
+ },
 
-  {
-    "type":  "gear",
-    "rarity": "header-he",
-    "vendor": "Camp Hudson",
-    "score":  "256",
-    "name":  "Decisive Gloves",
-    "armor":  "925",
-    "price":  "$890,304",
-    "fire":  "1132",
-    "stam":  "-",
-    "elec":  "-",
-    "major":  "8% Skill Haste<br/>5% Critical Hit Chance<br/>4,063 Marksman Rifle Damage",
-    "minor":  "-"
-  },
-  {
-    "type":      "gear-mod",
-    "vendor":    "Camp Hudson",
-    "name":      "Performance Mod",
-    "stat":      "-",
-    "price":      "$168,044",
-    "attribute":  "2% Pulse Critical Hit Damage"
-  }
+ {
+   "type":  "gear",
+   "rarity": "header-he",
+   "vendor": "Camp Hudson Gear Vendor",
+   "score":  "256",
+   "name":  "Savage Gloves",
+   "armor":  "904",
+   "price":  "$ 890,304",
+   "fire":  "-",
+   "stam":  "-",
+   "elec":  "1205",
+   "major":  "5% HoK<br />8% Skill Haste<br />1,202 LMG Damage",
+   "minor":  "47% Ammo Capacity"
+ },
+ {
+   "type":      "gear-mod",
+   "vendor":    "Camp Hudson Gear Vendor",
+   "name":      "Performance Mod",
+   "stat":      "-",
+   "price":      "$ 168,044",
+   "attribute":  "5.5% First Aid Self Heal"
+ }
 ]
