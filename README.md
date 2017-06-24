@@ -33,26 +33,6 @@ Examples for these are Pistols, which don't have a native bonus and just two tal
 
 ### Abbreviations
 * Main stats on mods -> **STA, FA, ELE**
-* **Temporary Abbreviations**
-* Critical Hit Chance -> CHC
-* Critical Hit Damage -> CHD
-* Enemy Armor Damage -> EAD
-* Damage to Elites -> DtE
-* Exotic Damage Resilience -> EDR
-* Health on Kill -> HoK
-* Assault Rifle -> AR
-* Marksman Rifle -> MMR
-* Magazine Size -> Mag Size
-* Rate of Fire -> RoF
-* DMG Out of Cover -> OOC Damage
-* Increased Kill XP -> Kill XP
-* Burn Resistance -> Burn
-* Shock Resistance -> Shock
-* Bleed Resistance -> Bleed
-* Disrupt Resistance -> Disrupt
-* Disorient Resistance -> Disorient
-* Blind/Deaf Resistance -> Blind/Deaf
-* Signature Ability Gain -> SARG
 
 ### Item prices
 * Regular credits: $
