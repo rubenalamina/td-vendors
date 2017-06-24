@@ -1,85 +1,74 @@
 [
-
-  {
-    "type":   "blueprint",
-    "name":   "MP7",
-    "score":  "256",
-    "price":  "PxC 915"
-  },
-
-  {
-    "type":   "blueprint",
-    "name":   "Surplus SVD",
-    "score":  "256",
-    "price":  "PxC 998"
-  },
-
-  {
-    "type":   "blueprint",
-    "name":   "Firearms Knee Pads",
-    "score":  "256",
-    "price":  "PxC 499"
-  },
-
-  {
-    "type":   "blueprint",
-    "name":   "Holster",
-    "score":  "256",
-    "price":  "PxC 416"
-  },
-
-  {
-    "type":   "blueprint",
-    "name":   "Heavy Magazine Spring<br/>Rate of Fire, Random, Random",
-    "score":  "34",
-    "price":  "PxC 200"
-  },
-
-  {
-    "type":   "blueprint",
-    "name":   "Quick Release Magazine<br/>Reload Speed, Random, Random",
-    "score":  "34",
-    "price":  "PxC 200"
-  },
-
-  {
-    "type":   "blueprint",
-    "name":   "Electronics Gear Mod",
-    "score":  "34",
-    "price":  "PxC 192"
-  },
-
-  {
-    "type":   "blueprint",
-    "name":   "Firearms Gear Mod",
-    "score":  "34",
-    "price":  "PxC 192"
-  },
-
-  {
-    "type":   "blueprint",
-    "name":   "Enhanced AUG A3P",
-    "score":  "229",
-    "price":  "PxC 574"
-  },
-
-  {
-    "type":   "blueprint",
-    "name":   "Military P416",
-    "score":  "229",
-    "price":  "PxC 679"
-  },
-
-  {
-    "type":   "blueprint",
-    "name":   "Double Barrel Sawed Off",
-    "score":  "204",
-    "price":  "PxC 278"
-  },
-  {
-    "type":   "blueprint",
-    "name":   "Military MK46",
-    "score":  "204",
-    "price":  "PxC 340"
-  }
+ {
+   "type": "blueprint",
+   "name": "MG5",
+   "score": 256,
+   "price": "PxC 915"
+ },
+ {
+   "type": "blueprint",
+   "name": "Model 700",
+   "score": 256,
+   "price": "PxC 998"
+ },
+ {
+   "type": "blueprint",
+   "name": "Stamina Knee Pads",
+   "score": 256,
+   "price": "PxC 499"
+ },
+ {
+   "type": "blueprint",
+   "name": "Electronics Knee Pads",
+   "score": 256,
+   "price": "PxC 499"
+ },
+ {
+   "type": "blueprint",
+   "name": "Compensator<br/>Stability, Random, Random",
+   "score": 34,
+   "price": "PxC 200"
+ },
+ {
+   "type": "blueprint",
+   "name": "Omega Rifle Suppressor - Tan<br/>Headshot Damage, Reduced Threat, Random, Random",
+   "score": 34,
+   "price": "PxC 200"
+ },
+ {
+   "type": "blueprint",
+   "name": "Stamina Gear Mod",
+   "score": 34,
+   "price": "PxC 192"
+ },
+ {
+   "type": "blueprint",
+   "name": "Electronics Gear Mod",
+   "score": 34,
+   "price": "PxC 192"
+ },
+ {
+   "type": "blueprint",
+   "name": "Military P416",
+   "score": 229,
+   "price": "PxC 679"
+ },
+ {
+   "type": "blueprint",
+   "name": "Double Barrel Shotgun",
+   "score": 229,
+   "price": "PxC 627"
+ },
+ {
+   "type": "blueprint",
+   "name": "Police 686 Magnum",
+   "score": 204,
+   "price": "PxC 278"
+ },
+ {
+   "type": "blueprint",
+   "name": "Custom PF45",
+   "score": 204,
+   "price": "PxC 278"
+ }
 ]

@@ -1,0 +1,296 @@
+[
+ {
+   "type": "weapon-mod",
+   "vendor": "DZ East 53rd",
+   "name": "Small Laser Pointer",
+   "price": "DZ 24,137",
+   "attributes": "15.5% Accuracy<br/>4% Critical Hit Damage<br/>4.5% Reload Speed "
+ },
+ {
+   "type": "weapon-mod",
+   "vendor": "DZ East 46th",
+   "name": "Angled Grip - Red",
+   "price": "DZ 24,137",
+   "attributes": "13% Stability<br/>4.5% Reload Speed<br/>4.5% Optimal Range "
+ },
+ {
+   "type": "weapon-mod",
+   "vendor": "DZ East 42nd",
+   "name": "Muzzle Brake",
+   "price": "DZ 24,137",
+   "attributes": "14% Stability<br/>2% Accuracy<br/>4% Critical Hit Damage "
+ },
+ {
+   "type": "weapon-mod",
+   "vendor": "DZ East 40th",
+   "name": "Small Laser Pointer",
+   "price": "DZ 24,137",
+   "attributes": "15.5% Accuracy<br/>2.5% Stability<br/>4% Critical Hit Damage "
+ },
+ {
+   "type": "weapon-mod",
+   "vendor": "DZ East 34th",
+   "name": "High Velocity Magazine",
+   "price": "DZ 21,362",
+   "attributes": "7% Critical Hit Chance<br/>4% Critical Hit Damage<br/>5.5% Rate of Fire "
+ },
+ {
+   "type": "weapon-mod",
+   "vendor": "DZ East 31st",
+   "name": "Small Laser Pointer",
+   "price": "DZ 24,137",
+   "attributes": "15.0% Accuracy<br/>4% Critical Hit Damage<br/>4.5% Optimal Range "
+ },
+ {
+   "type": "weapon-mod",
+   "vendor": "DZ West 53rd",
+   "name": "Vertical Grip - Coyote Tan",
+   "price": "DZ 24,137",
+   "attributes": "42.50% Optimal Range<br/>2% Accuracy<br/>4% Critical Hit Damage "
+ },
+ {
+   "type": "weapon-mod",
+   "vendor": "DZ West 46th",
+   "name": "Angled Grip - Red",
+   "price": "DZ 24,137",
+   "attributes": "13.5% Stability<br/>2% Accuracy<br/>4% Critical Hit Damage "
+ },
+ {
+   "type": "weapon-mod",
+   "vendor": "DZ West 42nd",
+   "name": "Large Suppressor - FDE",
+   "price": "DZ 24,137",
+   "attributes": "17% Critical Hit Damage<br/>3% Critical Hit Chance<br/>4.5% Optimal Range<br/>43% Reduced Threat"
+ },
+ {
+   "type": "weapon-mod",
+   "vendor": "DZ West 39th",
+   "name": "Improved Iron Sights",
+   "price": "DZ 24,137",
+   "attributes": "11.5% Stability<br/>2.5% Critical Hit Chance<br/>2% Accuracy "
+ },
+ {
+   "type": "weapon-mod",
+   "vendor": "DZ West 34th",
+   "name": "Muzzle Brake",
+   "price": "DZ 24,137",
+   "attributes": "12% Stability<br/>6% Headshot Damage<br/>4% Critical Hit Damage "
+ },
+ {
+   "type": "weapon-mod",
+   "vendor": "DZ West 31st",
+   "name": "Ti-RANT Suppressor",
+   "price": "DZ 24,137",
+   "attributes": "6.5% Critical Hit Chance<br/>2.5% Stability<br/>2% Accuracy<br/>49% Reduced Threat"
+ },
+ {
+   "type": "weapon-mod",
+   "vendor": "DZ 5th Ave",
+   "name": "Extended Magazine",
+   "price": "DZ 21,362",
+   "attributes": "111% Magazine Size<br/>2.5% Critical Hit Chance <br/>5.1% Rate of Fire"
+ },
+ {
+   "type": "weapon-mod",
+   "vendor": "DZ 05",
+   "name": "Quick Release Magazine",
+   "price": "DZ 21,362",
+   "attributes": "30% Reload Speed<br/>3% Critical Hit Chance<br/>4.70% Rate of Fire "
+ },
+ {
+   "type": "weapon-mod",
+   "vendor": "DZ 05",
+   "name": "SR-7 Suppressor",
+   "price": "DZ 24,137",
+   "attributes": "16% Critical Hit Damage<br/>2% Accuracy<br/>2.5% Stability<br/>49% Reduced Threat"
+ },
+ {
+   "type": "weapon-mod",
+   "vendor": "DZ 05",
+   "name": "Handstop - Foliage Green",
+   "price": "DZ 24,137",
+   "attributes": "30% Reload Speed<br/>4% Critical Hit Damage<br/>2.5% Stability "
+ },
+ {
+   "type": "weapon-mod",
+   "vendor": "DZ 05",
+   "name": "ACOG Scope (4x) - Bronze",
+   "price": "DZ 24,137",
+   "attributes": "16% Accuracy<br/>6% Headshot Damage<br/>2.5% Stability "
+ },
+ {
+   "type": "weapon-mod",
+   "vendor": "DZ 09",
+   "name": "Quick Release Magazine",
+   "price": "DZ 21,362",
+   "attributes": "30.5% Reload Speed<br/>3% Critical Hit Chance<br/>4% Critical Hit Damage "
+ },
+ {
+   "type": "weapon-mod",
+   "vendor": "DZ 09",
+   "name": "Compensator",
+   "price": "DZ 24,137",
+   "attributes": "13% Stability<br/>6% Headshot Damage<br/>4% Critical Hit Damage "
+ },
+ {
+   "type": "weapon-mod",
+   "vendor": "DZ 09",
+   "name": "Vertical Grip - Wolf Grey",
+   "price": "DZ 24,137",
+   "attributes": "45.5% Optimal Range<br/>5% Reload Speed<br/>2% Accuracy "
+ },
+ {
+   "type": "weapon-mod",
+   "vendor": "DZ 09",
+   "name": "ACOG Scope (4x) - Bronze",
+   "price": "DZ 24,137",
+   "attributes": "14.5% Accuracy<br/>5.5% Headshot Damage<br/>2.5% Critical Hit Chance "
+ },
+ {
+   "type": "weapon-mod",
+   "vendor": "East 61st",
+   "name": "Heavy Magazine Spring",
+   "price": "DZ 21,362",
+   "attributes": "2.5% Critical Hit Chance<br/>4.5% Reload Speed<br/>10.60% Rate of Fire "
+ },
+ {
+   "type": "weapon-mod",
+   "vendor": "East 61st",
+   "name": "Muzzle Brake",
+   "price": "DZ 24,137",
+   "attributes": "12% Stability<br/>6% Headshot Damage<br/>2% Accuracy "
+ },
+ {
+   "type": "weapon-mod",
+   "vendor": "East 61st",
+   "name": "Vertical Grip - OD Green",
+   "price": "DZ 24,137",
+   "attributes": "45.5% Optimal Range<br/>2% Accuracy<br/>2.5% Stability "
+ },
+ {
+   "type": "weapon-mod",
+   "vendor": "East 61st",
+   "name": "552 Holosight - Tan",
+   "price": "DZ 24,137",
+   "attributes": "6.5% Critical Hit Chance<br/>5.5% Headshot Damage<br/>4% Critical Hit Damage "
+ },
+ {
+   "type": "weapon-mod",
+   "vendor": "The Crypt",
+   "name": "Loud Vent Brake",
+   "price": "$ 174,722",
+   "attributes": "16% Critical Hit Damage<br/>2.50% Stability<br/>4.50% Optimal Range<br/>48% Increased Threat"
+ },
+ {
+   "type": "weapon-mod",
+   "vendor": "The Grindhouse",
+   "name": "Muzzle Brake",
+   "price": "$ 174,722",
+   "attributes": "12.50% Stability<br/>4% Critical Hit Damage<br/>4.50% Optimal Range "
+ },
+ {
+   "type": "weapon-mod",
+   "vendor": "The Last Call",
+   "name": "Heavy Magazine Spring",
+   "price": "$ 168,044",
+   "attributes": "4% Critical Hit Damage<br/>12.0% Magazine Size<br/>9.30% Rate of Fire "
+ },
+ {
+   "type": "weapon-mod",
+   "vendor": "Wolves Den",
+   "name": "ACOG Scope (4x) - Bronze",
+   "price": "$ 174,722",
+   "attributes": "15% Accuracy<br/>4.5% Optimal Range<br/>2.5% Stability "
+ },
+ {
+   "type": "weapon-mod",
+   "vendor": "Kerman Station",
+   "name": "T2 Micro Red Dot Sight",
+   "price": "$ 174,722",
+   "attributes": "15.5% Accuracy<br/>3% Critical Hit Chance<br/>4.5% Optimal Range "
+ },
+ {
+   "type": "weapon-mod",
+   "vendor": "The Meat Locker",
+   "name": "EXPS3 Holographic Sight - Tan",
+   "price": "$ 174,722",
+   "attributes": "22.5% Optimal Range<br/>2.5% Stability<br/>2% Accuracy "
+ },
+ {
+   "type": "weapon-mod",
+   "vendor": "Camp Hudson Weapon Vendor",
+   "name": "Compensator",
+   "price": "$ 174,722",
+   "attributes": "11.5% Stability<br/>4.5% Optimal Range<br/>6% Optimal Range "
+ },
+ {
+   "type": "weapon-mod",
+   "vendor": "BoO Weapons Vendor",
+   "name": "Small Grip - Red",
+   "price": "$ 174,722",
+   "attributes": "16% Critical Hit Damage<br/>2.50% Stability<br/>4.50% Optimal Range "
+ },
+ {
+   "type": "weapon-mod",
+   "vendor": "DZ Vendor at BoO",
+   "name": "High Velocity Magazine",
+   "price": "DZ 21,362",
+   "attributes": "6.50% Reload Speed<br/>4.50% Reload Speed<br/>5.20% Rate of Fire "
+ },
+ {
+   "type": "weapon-mod",
+   "vendor": "Advanced Weaponry Vendor",
+   "name": "High Velocity Magazine",
+   "price": "$ 168,044",
+   "attributes": "6.50% Critical Hit Chance<br/>11.50% Magazine Size<br/>4% Critical Hit Damage "
+ },
+ {
+   "type": "weapon-mod",
+   "vendor": "Advanced Weaponry Vendor",
+   "name": "Osprey .45 Suppressor - FDE",
+   "price": "$ 174,722",
+   "attributes": "14.50% Accuracy<br/>5.50% Headshot Damage<br/>4% Critical Hit Damage<br/>44% Reduced Threat"
+ },
+ {
+   "type": "weapon-mod",
+   "vendor": "Advanced Weaponry Vendor",
+   "name": "Handstop - OD Green",
+   "price": "$ 174,722",
+   "attributes": "47.0% Optimal Range<br/>4.50% Reload Speed<br/>2.0% Accuracy "
+ },
+ {
+   "type": "weapon-mod",
+   "vendor": "Advanced Weaponry Vendor",
+   "name": "ACOG Scope (4x) - Bronze",
+   "price": "$ 174,722",
+   "attributes": "16.0% Accuracy<br/>4% Critical Hit Damage<br/>4.50% Optimal Range "
+ },
+ {
+   "type": "weapon-mod",
+   "vendor": "Special Equipment Vendor",
+   "name": "Heavy Magazine Spring",
+   "price": "PxC 192",
+   "attributes": "11.0% Magazine Size<br/>4% Critical Hit Damage<br/>9.20% Rate of Fire "
+ },
+ {
+   "type": "weapon-mod",
+   "vendor": "Special Equipment Vendor",
+   "name": "Flash Hider",
+   "price": "PxC 200",
+   "attributes": "15.50% Accuracy<br/>5.50% Headshot Damage<br/>4.50% Optimal Range "
+ },
+ {
+   "type": "weapon-mod",
+   "vendor": "Special Equipment Vendor",
+   "name": "Vertical Grip - Wolf Grey",
+   "price": "PxC 200",
+   "attributes": "49.0% Optimal Range<br/>4.50% Reload Speed<br/>2.0% Accuracy "
+ },
+ {
+   "type": "weapon-mod",
+   "vendor": "Special Equipment Vendor",
+   "name": "Reflex Sight - Tan",
+   "price": "PxC 200",
+   "attributes": "4.50% Optimal Range<br/>2.50% Stability<br/>5.50% Headshot Damage "
+ }
+]
