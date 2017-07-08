@@ -1,15 +1,15 @@
 [
  {
    "type": "blueprint",
-   "name": "MG5",
+   "name": "Navy MP-5 N",
    "score": 256,
    "price": "PxC 915"
  },
  {
    "type": "blueprint",
-   "name": "Model 700",
+   "name": "Converted USC",
    "score": 256,
-   "price": "PxC 998"
+   "price": "PxC 915"
  },
  {
    "type": "blueprint",
@@ -19,25 +19,25 @@
  },
  {
    "type": "blueprint",
-   "name": "Electronics Knee Pads",
+   "name": "Firearms Gloves",
    "score": 256,
    "price": "PxC 499"
  },
  {
    "type": "blueprint",
-   "name": "Compensator<br/>Stability, Random, Random",
+   "name": "552 Holosight<br/>Critical Hit Chance, Random, Random",
    "score": 34,
    "price": "PxC 200"
  },
  {
    "type": "blueprint",
-   "name": "Omega Rifle Suppressor - Tan<br/>Headshot Damage, Reduced Threat, Random, Random",
+   "name": "Flash Hider<br/>Accuracy, Random, Random",
    "score": 34,
    "price": "PxC 200"
  },
  {
    "type": "blueprint",
-   "name": "Stamina Gear Mod",
+   "name": "Firearms Gear Mod",
    "score": 34,
    "price": "PxC 192"
  },
@@ -55,20 +55,20 @@
  },
  {
    "type": "blueprint",
-   "name": "Double Barrel Shotgun",
+   "name": "M45A1",
    "score": 229,
-   "price": "PxC 627"
- },
- {
-   "type": "blueprint",
-   "name": "Police 686 Magnum",
-   "score": 204,
-   "price": "PxC 278"
+   "price": "PxC 470"
  },
  {
    "type": "blueprint",
    "name": "Custom PF45",
    "score": 204,
    "price": "PxC 278"
+ },
+ {
+   "type": "blueprint",
+   "name": "Tactical SA-58",
+   "score": 204,
+   "price": "PxC 402"
  }
 ]
