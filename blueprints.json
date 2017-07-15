@@ -1,74 +1,74 @@
 [
  {
    "type": "blueprint",
-   "name": "Navy MP-5 N",
-   "score": 256,
-   "price": "PxC 915"
+   "name": "Classic AK-47",
+   "score": "256",
+   "price": "PxC 1082"
  },
  {
    "type": "blueprint",
    "name": "Converted USC",
-   "score": 256,
+   "score": "256",
    "price": "PxC 915"
  },
  {
    "type": "blueprint",
-   "name": "Stamina Knee Pads",
-   "score": 256,
+   "name": "Electronics Knee Pads",
+   "score": "256",
    "price": "PxC 499"
  },
  {
    "type": "blueprint",
-   "name": "Firearms Gloves",
-   "score": 256,
-   "price": "PxC 499"
+   "name": "Holster",
+   "score": "256",
+   "price": "PxC 416"
  },
  {
    "type": "blueprint",
-   "name": "552 Holosight<br/>Critical Hit Chance, Random, Random",
-   "score": 34,
-   "price": "PxC 200"
- },
- {
-   "type": "blueprint",
-   "name": "Flash Hider<br/>Accuracy, Random, Random",
-   "score": 34,
-   "price": "PxC 200"
- },
- {
-   "type": "blueprint",
-   "name": "Firearms Gear Mod",
-   "score": 34,
+   "name": "High Velocity Magazine<br/>Critical Hit Chance, Random, Random",
+   "score": "34",
    "price": "PxC 192"
+ },
+ {
+   "type": "blueprint",
+   "name": "Vertical Grip - Foliage Green<br/>Optimal Range, Random, Random",
+   "score": "34",
+   "price": "PxC 200"
  },
  {
    "type": "blueprint",
    "name": "Electronics Gear Mod",
-   "score": 34,
+   "score": "34",
    "price": "PxC 192"
  },
  {
    "type": "blueprint",
+   "name": "Performance Gear Mod",
+   "score": "34",
+   "price": "PxC 192"
+ },
+ {
+   "type": "blueprint",
+   "name": "Enhanced AUG A3P",
+   "score": "229",
+   "price": "PxC 574"
+ },
+ {
+   "type": "blueprint",
    "name": "Military P416",
-   "score": 229,
+   "score": "229",
    "price": "PxC 679"
  },
  {
    "type": "blueprint",
-   "name": "M45A1",
-   "score": 229,
-   "price": "PxC 470"
+   "name": "Tactical Super 90 SBS",
+   "score": "204",
+   "price": "PxC 340"
  },
  {
    "type": "blueprint",
-   "name": "Custom PF45",
-   "score": 204,
-   "price": "PxC 278"
- },
- {
-   "type": "blueprint",
-   "name": "Tactical SA-58",
-   "score": 204,
-   "price": "PxC 402"
+   "name": "Officer's M9 A1",
+   "score": "204",
+   "price": "PxC 340"
  }
 ]
