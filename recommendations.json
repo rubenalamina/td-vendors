@@ -1,0 +1,807 @@
+[
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+   "type": "recommendation",
+   "vendor": "The Last Call",
+   "name": "M700 Carbon",
+   "price": "$1,669,320 ",
+   "thoughts": "Decent damage roll. You can re-roll Deadly or Elevated if you can't proc it often. I'd recommend Destructive or Prepapred."
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+   "type": "recommendation",
+   "vendor": "DZ East 40th",
+   "name": "LVOA-C",
+   "price": "DZ 416,160",
+   "thoughts": "Good damage roll with Competent and Predatory. I'd re-roll Self-Preserved for Destructive or Responsive."
+ },
+ {
+   "type": "recommendation",
+   "vendor": "DZ East 34th",
+   "name": "Military G36",
+   "price": "DZ 416,160",
+   "thoughts": "Great damage roll with Predatory and Talented. This could a good utitliy weapon for FireCrest or other builds that benefit from Telented. I'd re-roll focused for Destructive."
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+   "type": "recommendation"
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+   "type": "recommendation",
+   "vendor": "DZ 09",
+   "name": "Extended Magazine",
+   "price": "DZ 21,362",
+   "thoughts": "This size is enough for some bolt action rifles. It's a good buy if you need one."
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+   "type": "recommendation",
+   "vendor": "East 61st",
+   "name": "Ti-RANT Suppressor",
+   "price": "DZ 24,137",
+   "thoughts": "It doesn't get any better when it comes to attributes on this mod. It's good for SMGs if you don't use Loud Vent Brakes."
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+   "type": "recommendation",
+   "vendor": "Advanced Weaponry Vendor",
+   "name": "Russian Red Dot Sight",
+   "price": "$ 174,722",
+   "thoughts": "Good scope attributes for shotguns."
+ },
+ {
+
+ },
+ {
+   "type": "recommendation",
+   "vendor": "Special Equipment Vendor",
+   "name": "Omega Rifle Suppressor - Tan",
+   "price": "PxC 200",
+   "thoughts": "A bit low HSD but it has Accuracy and CHC. Decent buy for those that need some."
+ },
+ {
+   "type": "recommendation",
+   "vendor": "Special Equipment Vendor",
+   "name": "Small Grip",
+   "price": "PxC 200",
+   "thoughts": "Great grip rolls. There's a better one on DZ but consider this one if you dont have much funds."
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+   "type": "recommendation",
+   "vendor": "DZ 08",
+   "name": "Vigorous Chest",
+   "price": "DZ 277,440",
+   "thoughts": "Almost max armor with Electronics, Skill Haste and Health on Kill. I'd re-roll Health on Kill for Eneme Armor Damage or Health."
+ },
+ {
+   "type": "recommendation",
+   "vendor": "DZ 08",
+   "name": "Inventive Backpack",
+   "price": "DZ 277,440",
+   "thoughts": "Low armor and really low Electronics. Buy it only if you want Stability and desperately need an Inventive backpack. You will need to max out the main stat."
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+   "type": "recommendation",
+   "vendor": "DZ 08",
+   "name": "Nomad Knee Pads",
+   "price": "DZ 221,952",
+   "thoughts": "Good armor and high Stamina. You can keep Skill Power and re-roll Blind Resistance for Damage to Elites."
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+   "type": "recommendation",
+   "vendor": "The Firewall",
+   "name": "Vigorous Chest",
+   "price": "$ 1,112,880",
+   "thoughts": "Almost max armor and high Electronics. You can keep Health on Kill and re-roll All Resist for EAD, Health or Sill Haste depending on your build."
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+   "type": "recommendation",
+   "vendor": "DZ West 34th",
+   "name": "Performance Mod",
+   "price": "DZ 21,362",
+   "thoughts": "Maximum Healing Speed roll."
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+   "type": "recommendation",
+   "vendor": "Southpaw",
+   "name": "Firearms Mod",
+   "price": "$ 168,044",
+   "thoughts": "Good Firearms and close to max Health."
+ },
+ {
+   "type": "recommendation",
+   "vendor": "Southpaw",
+   "name": "Electronics Mod",
+   "price": "$ 84,022",
+   "thoughts": "Really high Electronics and 3% Damage to Elites. Must buy."
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+   "type": "recommendation",
+   "vendor": "Camp Hudson Gear Vendor",
+   "name": "Stamina Mod",
+   "price": "$ 84,022",
+   "thoughts": "High Stamina and 3% Damage to Elites. Must buy."
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ }
+]
