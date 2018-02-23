@@ -30,7 +30,37 @@
 
  },
  {
+   "type": "recommendation",
+   "vendor": "Special Equipment Vendor",
+   "name": "Infantry MG5",
+   "price": "PxC 1,248",
+   "thoughts": "Good damage roll and with Meticulous, Ferocious you can re-roll Brutal for Destructive and use it on non Lone Star builds."
+ },
+ {
 
+ },
+ {
+
+ },
+ {
+   "type": "recommendation",
+   "vendor": "Advanced Weaponry Vendor",
+   "name": "First Wave X-45",
+   "price": "$1,335,456 ",
+   "thoughts": "If you need a pistol with Coolheaded, buy this one."
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+   "type": "recommendation",
+   "vendor": "Advanced Weaponry Vendor",
+   "name": "Tactical SASG-12 K",
+   "price": "$1,669,320 ",
+   "thoughts": "This shotgun is a great option for NinjaBike Striker that don't have a Showstopper. Without 6pc Striker you can spec into 4790 ELE to unlock Determined. Re-roll Brital for Responsive or Ferocious."
  },
  {
 
@@ -42,37 +72,11 @@
 
  },
  {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
+   "type": "recommendation",
+   "vendor": "Camp Clinton",
+   "name": "Pakhan",
+   "price": "PxC 1,331",
+   "thoughts": "Average damage roll with Destructive and Brutal. Re-roll Brutal for Ferocious."
  },
  {
 
@@ -109,10 +113,16 @@
  },
  {
    "type": "recommendation",
-   "vendor": "The Last Call",
+   "vendor": "The Meat Locker",
    "name": "M700 Carbon",
    "price": "$1,669,320 ",
-   "thoughts": "Decent damage roll. You can re-roll Deadly or Elevated if you can't proc it often. I'd recommend Destructive or Prepapred."
+   "thoughts": "Almost maximum damage roll with Deadly and Prepared. For DeadEYE, re-roll Elevated for Competent. For other builds, chose between Deadly and Elevated depending on how often you can proc the latter."
+ },
+ {
+
+ },
+ {
+
  },
  {
 
@@ -146,17 +156,77 @@
  },
  {
    "type": "recommendation",
-   "vendor": "DZ East 40th",
-   "name": "LVOA-C",
+   "vendor": "DZ East 46th",
+   "name": "Super 90",
    "price": "DZ 416,160",
-   "thoughts": "Good damage roll with Competent and Predatory. I'd re-roll Self-Preserved for Destructive or Responsive."
+   "thoughts": "Damage roll is good but it's expensive. Could be good for use in Striker or other non Lone Star builds. Keep Swift and re-roll Dominant for Responsive."
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
  },
  {
    "type": "recommendation",
-   "vendor": "DZ East 34th",
-   "name": "Military G36",
+   "vendor": "DZ 03",
+   "name": "Tactical ACR",
    "price": "DZ 416,160",
-   "thoughts": "Great damage roll with Predatory and Talented. This could a good utitliy weapon for FireCrest or other builds that benefit from Telented. I'd re-roll focused for Destructive."
+   "thoughts": "Good damage roll with Predatory, Destructive, Vicious. If you can unlock Predatory, re-roll Vicious for Determined, Responsive or Ferocious. It's a good combo for a Striker build."
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+   "type": "recommendation",
+   "vendor": "DZ Park Ave",
+   "name": "MP5",
+   "price": "DZ 416,160",
+   "thoughts": "Low damage roll but good talents for PvP. Re-roll Self-preserved for Responsive. If you use a 9k STA Predator's build, Self-preserved could be re-roll for Predatory."
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+   "type": "recommendation",
+   "vendor": "DZ Park Ave",
+   "name": "Military M60 E4",
+   "price": "DZ 416,160",
+   "thoughts": "Expensive and low damage roll but the talents are great with Destructive and Ferocious. You can keep Swift and use a grip with reload speed as major to use it with non Lone Star builds."
+ },
+ {
+   "type": "recommendation",
+   "vendor": "DZ East 53rd",
+   "name": "VX-1 scope (12x)",
+   "price": "DZ 24,137",
+   "thoughts": "The rolls are not the highest but they are good with HSD, CHC and Accuracy."
  },
  {
 
@@ -183,7 +253,11 @@
 
  },
  {
-
+   "type": "recommendation",
+   "vendor": "DZ West 39th",
+   "name": "PEQ-15 Laser - Green",
+   "price": "DZ 24,137",
+   "thoughts": "Good mod for fast firing marksman rifles."
  },
  {
 
@@ -199,42 +273,6 @@
  },
  {
 
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-   "type": "recommendation"
  },
  {
 
@@ -251,94 +289,9 @@
  {
    "type": "recommendation",
    "vendor": "DZ 09",
-   "name": "Extended Magazine",
-   "price": "DZ 21,362",
-   "thoughts": "This size is enough for some bolt action rifles. It's a good buy if you need one."
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-   "type": "recommendation",
-   "vendor": "East 61st",
-   "name": "Ti-RANT Suppressor",
-   "price": "DZ 24,137",
-   "thoughts": "It doesn't get any better when it comes to attributes on this mod. It's good for SMGs if you don't use Loud Vent Brakes."
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-   "type": "recommendation",
-   "vendor": "Advanced Weaponry Vendor",
-   "name": "Russian Red Dot Sight",
-   "price": "$ 174,722",
-   "thoughts": "Good scope attributes for shotguns."
- },
- {
-
- },
- {
-   "type": "recommendation",
-   "vendor": "Special Equipment Vendor",
-   "name": "Omega Rifle Suppressor - Tan",
-   "price": "PxC 200",
-   "thoughts": "A bit low HSD but it has Accuracy and CHC. Decent buy for those that need some."
- },
- {
-   "type": "recommendation",
-   "vendor": "Special Equipment Vendor",
    "name": "Small Grip",
-   "price": "PxC 200",
-   "thoughts": "Great grip rolls. There's a better one on DZ but consider this one if you dont have much funds."
+   "price": "DZ 24,137",
+   "thoughts": "Great rolls for a grip with CHD, Stability and Reload Speed. Suitable for any kind of weapon."
  },
  {
 
@@ -359,13 +312,11 @@
 
  },
  {
-
- },
- {
-
- },
- {
-
+   "type": "recommendation",
+   "vendor": "The Grindhouse",
+   "name": "Extended Magazine",
+   "price": "$ 168,044",
+   "thoughts": "Great rolls for weapons like shotguns, marksman rifles and pistols. Size is almost maximum and has max CHC and CHD."
  },
  {
 
@@ -453,17 +404,152 @@
  },
  {
    "type": "recommendation",
-   "vendor": "DZ 08",
-   "name": "Vigorous Chest",
+   "vendor": "DZ West 39th",
+   "name": "Relentless Backpack",
    "price": "DZ 277,440",
-   "thoughts": "Almost max armor with Electronics, Skill Haste and Health on Kill. I'd re-roll Health on Kill for Eneme Armor Damage or Health."
+   "thoughts": "Good armor with Skill Power and Bleed Resistance. Max out the Electronics or switch the main stat."
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
  },
  {
    "type": "recommendation",
    "vendor": "DZ 08",
-   "name": "Inventive Backpack",
+   "name": "Banshee Chest",
    "price": "DZ 277,440",
-   "thoughts": "Low armor and really low Electronics. Buy it only if you want Stability and desperately need an Inventive backpack. You will need to max out the main stat."
+   "thoughts": "Great armor with almos max Firearms. Health and Skill Haste are good for PvP. Re-roll Kill XP for Ammo Capacity. Good option to use in NinjaBike builds."
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
  },
  {
 
@@ -485,161 +571,35 @@
  },
  {
    "type": "recommendation",
-   "vendor": "DZ 08",
+   "vendor": "Special Equipment Vendor",
+   "name": "Tactician Chest",
+   "price": "PxC 832",
+   "thoughts": "If you need a Tactician chest piece for a NinjaBike build, this one is good with great armor, good Stamina and Skill Haste. You should re-roll EDR for EAD or Health. Roll Ammo on your backpack to make up for the Kill XP roll."
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+   "type": "recommendation",
+   "vendor": "Special Equipment Vendor",
    "name": "Nomad Knee Pads",
-   "price": "DZ 221,952",
-   "thoughts": "Good armor and high Stamina. You can keep Skill Power and re-roll Blind Resistance for Damage to Elites."
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-   "type": "recommendation",
-   "vendor": "The Firewall",
-   "name": "Vigorous Chest",
-   "price": "$ 1,112,880",
-   "thoughts": "Almost max armor and high Electronics. You can keep Health on Kill and re-roll All Resist for EAD, Health or Sill Haste depending on your build."
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
+   "price": "PxC 665",
+   "thoughts": "Great option for NinjaBike builds that use the 2pc Health on Kill bonus of Nomad. Great armor with decent Stamina and Skill Power. Re-roll Disorient Resistance for Damage to Elites."
  },
  {
 
@@ -700,22 +660,97 @@
  },
  {
    "type": "recommendation",
-   "vendor": "DZ West 34th",
-   "name": "Performance Mod",
+   "vendor": "Camp Clinton",
+   "name": "Sentry Backpack",
+   "price": "PxC 832",
+   "thoughts": "Great piece for someone looking to complete a 4pc Sentry build. Great armor, high Firearms. Stability can be re-roll for Health or Skill Power. Ammo Capacity is a good choise if you use MMRs."
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+   "type": "recommendation",
+   "vendor": "Camp Clinton",
+   "name": "Tactician Knee Pads",
+   "price": "PxC 665",
+   "thoughts": "Another Tacitician piece with good rolls for a 4pc or a NinjaBike build. Great armor, high Electronics. Re-roll EDR for Skill Power."
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+   "type": "recommendation",
+   "vendor": "Camp Clinton",
+   "name": "Savage Gloves",
+   "price": "PxC 665",
+   "thoughts": "I don't think Savage gloves are good anymore but some people like to use them in some builds. The rolls are great for that with CHC, CHD and AR damage."
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+   "type": "recommendation",
+   "vendor": "East 64th",
+   "name": "Firearms Mod",
    "price": "DZ 21,362",
-   "thoughts": "Maximum Healing Speed roll."
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
+   "thoughts": "Really low Firearms but a good buy if you don't have better Skill Haste mods."
  },
  {
 
@@ -733,21 +768,47 @@
    "type": "recommendation",
    "vendor": "Southpaw",
    "name": "Firearms Mod",
-   "price": "$ 168,044",
-   "thoughts": "Good Firearms and close to max Health."
+   "price": "$ 84,022",
+   "thoughts": "Increased Kill XP for those that like to farm Fiel Proficiency Caches."
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
  },
  {
    "type": "recommendation",
-   "vendor": "Southpaw",
+   "vendor": "Madison's Stand",
    "name": "Electronics Mod",
    "price": "$ 84,022",
-   "thoughts": "Really high Electronics and 3% Damage to Elites. Must buy."
+   "thoughts": "I don't think it's worth speccing into Bleed Resistance on mods since it's only a max of 15% in total but they are there if you want to buy them."
+ },
+ {
+
+ },
+ {
+   "type": "recommendation",
+   "vendor": "Autumn's Hope",
+   "name": "Stamina Mod",
+   "price": "$ 84,022",
+   "thoughts": "I don't think it's worth speccing into Bleed Resistance on mods since it's only a max of 15% in total but they are there if you want to buy them."
  },
  {
 
  },
  {
 
+ },
+ {
+   "type": "recommendation",
+   "vendor": "The Cavern",
+   "name": "Performance Mod",
+   "price": "$ 168,044",
+   "thoughts": "Max Ally Heal roll. Must buy for healer builds."
  },
  {
 
@@ -778,30 +839,9 @@
  },
  {
    "type": "recommendation",
-   "vendor": "Camp Hudson Gear Vendor",
-   "name": "Stamina Mod",
-   "price": "$ 84,022",
-   "thoughts": "High Stamina and 3% Damage to Elites. Must buy."
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
+   "vendor": "Camp Clinton",
+   "name": "Performance Mod",
+   "price": "PxC 192",
+   "thoughts": "Max Sticky Bomb Damage roll. Must buy for Skill Power builds."
  }
 ]
