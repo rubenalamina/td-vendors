@@ -7,17 +7,7 @@
    "vendor": "Special Equipment Vendor",
    "name": "Pakhan",
    "price": "PxC 1,331",
-   "thoughts": "Good damage roll. I'd re-roll Talented for Ferorious or Determined. If you run a skill build, keep it like that."
- },
- {
-
- },
- {
-   "type": "recommendation",
-   "vendor": "Special Equipment Vendor",
-   "name": "Liberator",
-   "price": "PxC 1,331",
-   "thoughts": "Excellent damage roll. I'd re-roll Capable for Destructive. If you can't unlock Predatory is not worth buying."
+   "thoughts": "Low damage roll but with Destructive you have a good weapon for PvE. Re-roll Vicious for Ferocious."
  },
  {
 
@@ -40,9 +30,27 @@
  {
    "type": "recommendation",
    "vendor": "Special Equipment Vendor",
-   "name": "MG5",
+   "name": "Tactical SASG-12 K",
    "price": "PxC 1,248",
-   "thoughts": "Awesome damage roll with the talents for a Tac Link Lone Star build. I'd buy another one to re-roll Commanding for Ferocious. If you have PxC to spare. Re-rolling a third one to get Predatory on it will get you an awesome dual MG5 pair. Must buy."
+   "thoughts": "Average damage roll. While no the best talent combo, Responsive is great. You can re-roll Self-preserved if you really need one SASG."
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
  },
  {
 
@@ -53,25 +61,9 @@
  {
    "type": "recommendation",
    "vendor": "Advanced Weaponry Vendor",
-   "name": "Officer's M9 A1",
-   "price": "$1,335,456 ",
-   "thoughts": "Nothing special but it's a pistol with Coolheaded."
- },
- {
-
- },
- {
-
- },
- {
-   "type": "recommendation",
-   "vendor": "Advanced Weaponry Vendor",
-   "name": "Marine Super 90",
+   "name": "Covert SRS",
    "price": "$1,669,320 ",
-   "thoughts": "The damage roll is really bad but if you want to run a dual Super 90 Lone Star build, this one is excellent and you optimize the damage. I'd re-roll Brutal for Destructive and buy 2 of them."
- },
- {
-
+   "thoughts": "Almost maximum damage roll. While the SRS variants a bit lower dmg than the M700 or M44, the talents are great and their handling is good. I'd re-roll Talented for Destructive."
  },
  {
 
@@ -90,7 +82,13 @@
    "vendor": "Camp Clinton",
    "name": "Liberator",
    "price": "PxC 1,331",
-   "thoughts": "Great damage roll. Talents are better suited for PvP. Buy it if you can't find a better AR. I'd re-roll Skilled for Competent."
+   "thoughts": "Great damage roll. The handling of the Liberator is the same as the Police M4 but the talents are good for an utility weapon. I'd re-roll Swift for Destructive or Determined."
+ },
+ {
+
+ },
+ {
+
  },
  {
 
@@ -101,101 +99,87 @@
  {
    "type": "recommendation",
    "vendor": "Camp Clinton",
-   "name": "Navy MP-5 N",
-   "price": "PxC 1,248",
-   "thoughts": "Maximum damage roll but talents are not optimal. I'd re-roll Brutal for Destructive or Responsive."
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-   "type": "recommendation",
-   "vendor": "Wolves Den",
-   "name": "Lightweight M4",
-   "price": "$1,669,320 ",
-   "thoughts": "Good damage roll. The talents are best used with a skill build or as a secondary utility weapon. I'd re-roll Self-preserved for Destructive."
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-   "type": "recommendation",
-   "vendor": "DZ 03",
    "name": "Double Barrel Sawed Off Shotgun",
-   "price": "DZ 416,160",
-   "thoughts": "If you're looking for an utility Sawed Off with good talents this one is great. I'd re-roll Self-preserved for Determined or Predatory depending on your build."
+   "price": "PxC 1,248",
+   "thoughts": "Good talents for a skill power buid. Re-roll according to your needs. Talented for Predatory makes sense."
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
  },
  {
 
@@ -220,7 +204,7 @@
    "vendor": "DZ Park Ave",
    "name": "M700 Carbon",
    "price": "DZ 416,160",
-   "thoughts": "Average damage roll but good talents. I'd re-roll Intense for Ferocious, Prepared or Coolheaded."
+   "thoughts": "Average damage roll. Elevated and Destructive are great. I'd re-roll Unforgiving for Prepared, Ferocious or Coolheaded depending on your build."
  },
  {
 
@@ -242,6 +226,31 @@
  },
  {
 
+ },
+ {
+
+ },
+ {
+   "type": "recommendation",
+   "vendor": "DZ West 46th",
+   "name": "Extended Magazine",
+   "price": "DZ 21,362",
+   "thoughts": "Almost maximum size and it has CHC. Good buy if you need one magazine."
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+   "type": "recommendation"
  },
  {
 
@@ -281,54 +290,19 @@
  },
  {
    "type": "recommendation",
-   "vendor": "DZ 09",
-   "name": "Compensator",
-   "price": "DZ 24,137",
-   "thoughts": "Good buy if you're looking for stability on the muzzle. These are good for LMGs."
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-   "type": "recommendation",
-   "vendor": "East 61st",
-   "name": "Large Suppressor - FDE",
-   "price": "DZ 24,137",
-   "thoughts": "Good rolls CHD, Accuracy and CHC."
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-   "type": "recommendation",
-   "vendor": "The Meat Locker",
-   "name": "PEQ-15 Laser - Orange",
+   "vendor": "The Crypt",
+   "name": "Omega Rifle Suppressor",
    "price": "$ 174,722",
-   "thoughts": "Good rolls to use in the under barrel slot if you want a tigher reticle. Specially useful with fast firing MMRs and the MDR without giving out HSD in the scope and muzzle."
+   "thoughts": "Great attribute combo, just the HSD could be better. Must buy."
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
  },
  {
 
@@ -338,37 +312,10 @@
  },
  {
    "type": "recommendation",
-   "vendor": "DZ Vendor at BoO",
-   "name": "Angled Grip",
-   "price": "DZ 24,137",
-   "thoughts": "If you want stability in the underbarrel, these rolls are good but automatic weapons."
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
+   "vendor": "Camp Hudson Weapon Vendor",
+   "name": "Russian Red Dot Sight",
+   "price": "$ 174,722",
+   "thoughts": "Good scope if you want accuracy on your shotguns."
  },
  {
 
@@ -399,55 +346,129 @@
  },
  {
    "type": "recommendation",
-   "vendor": "DZ West 53rd",
-   "name": "Inventive Backpack",
+   "vendor": "Special Equipment Vendor",
+   "name": "C79 Scope (3.4x)",
+   "price": "PxC 200",
+   "thoughts": "Good buy for DeadEYE builds."
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+   "type": "recommendation",
+   "vendor": "Camp Clinton",
+   "name": "PEQ-15 Laser - Green",
+   "price": "PxC 200",
+   "thoughts": "If you need accuracy on your MMRs, the grip is the best slot to get it to not give up HSD on scope and muzzle. Good for the fast firing ones or even the MDR."
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+   "type": "recommendation",
+   "vendor": "DZ 08",
+   "name": "Vigorous Chest",
    "price": "DZ 277,440",
-   "thoughts": "Almost max armor with high Electronics. I'd re-roll CHD to Skill Power."
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
+   "thoughts": "Decent armor. Good buy if you want a Vigorous chest. I'd keep HoK and EAD, just re-roll the main stat or max it out."
  },
  {
 
@@ -475,10 +496,10 @@
  },
  {
    "type": "recommendation",
-   "vendor": "DZ 09",
-   "name": "Tactician Gloves",
-   "price": "DZ 277,440",
-   "thoughts": "If you need Tactician gloves for a 4pc set or a Ninjabike build, these are a good buy. I'd re-roll LMG for AR Damage."
+   "vendor": "DZ 08",
+   "name": "Sentry Holster",
+   "price": "DZ 194,208",
+   "thoughts": "If you need a Sentry holster for a NinjaBike build or to complete the 4pc set, this holster is a good buy. Max out the Firearms or Electronics."
  },
  {
 
@@ -509,266 +530,6 @@
  },
  {
 
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-   "type": "recommendation",
-   "vendor": "The Firewall",
-   "name": "Firearms Mod",
-   "price": "$ 84,022",
-   "thoughts": "If you missed out on the FA DtE mods last week you can use these until you get better ones."
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-   "type": "recommendation",
-   "vendor": "Autumn's Hope",
-   "name": "Firearms Mod",
-   "price": "$ 168,044",
-   "thoughts": "Max FA and haste mods for a number of builds."
  },
  {
 
@@ -779,9 +540,84 @@
  {
    "type": "recommendation",
    "vendor": "Dante's Run",
-   "name": "Stamina Mod",
-   "price": "$ 84,022",
-   "thoughts": "Not 4% but still good Stam DtE mods for pve builds."
+   "name": "Nimble Holster",
+   "price": "$ 779,016",
+   "thoughts": "Good rolls overall. I'd max out the Stamina roll."
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
  },
  {
 
@@ -797,17 +633,173 @@
  },
  {
    "type": "recommendation",
-   "vendor": "BoO Gear Vendor",
+   "vendor": "Camp Clinton",
+   "name": "Final Measure Chest",
+   "price": "PxC 832",
+   "thoughts": "Low armor roll but it could be useful if you need one piece to complete your set for a PvP build. I'd re-roll Kill XP for Ammo Capacity."
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+   "type": "recommendation",
+   "vendor": "DZ East 46th",
    "name": "Performance Mod",
-   "price": "$ 168,044",
-   "thoughts": "Max seeker mine damage mods, great for electronics builds."
+   "price": "DZ 21,362",
+   "thoughts": "Max pulse CHC mods,"
+ },
+ {
+
  },
  {
    "type": "recommendation",
-   "vendor": "BoO Gear Vendor",
-   "name": "Electronics Mod",
-   "price": "$ 84,022",
-   "thoughts": "God roll for electronics builds, must buy."
+   "vendor": "DZ East 40th",
+   "name": "Performance Mod",
+   "price": "DZ 21,362",
+   "thoughts": "Max support station healing speed, great for reclaimer builds."
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+   "type": "recommendation",
+   "vendor": "DZ West 39th",
+   "name": "Firearms Mod",
+   "price": "DZ 21,362",
+   "thoughts": "Almost max FA and skill haste, good for a number of builds."
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+   "type": "recommendation",
+   "vendor": "DZ 04",
+   "name": "Performance Mod",
+   "price": "DZ 21,362",
+   "thoughts": "Max shield damage resilience mods."
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
  },
  {
 
