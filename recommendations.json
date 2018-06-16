@@ -1,0 +1,811 @@
+[
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+   "type": "recommendation",
+   "vendor": "Camp Clinton",
+   "name": "Tactical M249 Para",
+   "price": "PxC 1,248",
+   "thoughts": "Low damage roll but the talents are good if you want to have some fun with a Tac Link Lone Star build"
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+   "type": "recommendation",
+   "vendor": "DZ West 39th",
+   "name": "Black Market SASG-12 S",
+   "price": "DZ 416,160",
+   "thoughts": "Really high damage roll. If you're running a 6k Stamina Striker build, you could re-roll Commanding for Responsive."
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+   "type": "recommendation",
+   "vendor": "DZ East 31st",
+   "name": "Black Market RPK-74 E",
+   "price": "DZ 416,160",
+   "thoughts": "Low damage roll but the talents are good for a secondary weapon on a skill build. I'd re-roll Fierce for Destructive."
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+   "type": "recommendation",
+   "vendor": "DZ Park Ave",
+   "name": "MP-5 ST",
+   "price": "DZ 416,160",
+   "thoughts": "Low damage roll but Responsive is good. Only buy it if you really need a decent MP5. I'd re-roll Meticulous for Destructive."
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+   "type": "recommendation",
+   "vendor": "DZ West 34th",
+   "name": "Ti-RANT Suppressor",
+   "price": "DZ 24,137",
+   "thoughts": "It's missing CHD but Stability is good and it has CHC and HSD."
+ },
+ {
+   "type": "recommendation",
+   "vendor": "DZ West 31st",
+   "name": "Loud Vent Brake",
+   "price": "DZ 24,137",
+   "thoughts": "If you need a Loud Vent Brake for an SMG or an LMG, this one is good even if it's missing HSD."
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+   "type": "recommendation",
+   "vendor": "DZ 05",
+   "name": "VX-1 scope (12x)",
+   "price": "DZ 24,137",
+   "thoughts": "This is a good scope if you're in need of one. It's missing CHC and CHD but the HSD is high and Stabilty and Accuracy help with handling."
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+   "type": "recommendation",
+   "vendor": "The Crypt",
+   "name": "Small Laser Pointer",
+   "price": "$ 174,722",
+   "thoughts": "Only mod that can fit on Pistols but it's also useful for fast firing MMRs or the MDR if you want a tighter reticle."
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+   "type": "recommendation",
+   "vendor": "Advanced Weaponry Vendor",
+   "name": "Muzzle Brake",
+   "price": "$ 174,722",
+   "thoughts": "A muzzle mod if you want stability. It's missing HSD but  CHC and CHD is a good combo."
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+   "type": "recommendation",
+   "vendor": "Special Equipment Vendor",
+   "name": "Omega Rifle Suppressor",
+   "price": "PxC 200",
+   "thoughts": "Perfect rolls for any kind of weapon. Must buy. Get as many as you need and then a few more."
+ },
+ {
+   "type": "recommendation",
+   "vendor": "Special Equipment Vendor",
+   "name": "Small Grip",
+   "price": "PxC 200",
+   "thoughts": "The CHD is a bit low but it's a good guy in case you need some grips."
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+   "type": "recommendation",
+   "vendor": "Camp Clinton",
+   "name": "Accomplished Knee Pads",
+   "price": "PxC 665",
+   "thoughts": "It's a good buy in case you want to farm some Field Proficency Caches. You can re-roll any of the resistances for Kill XP."
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+   "type": "recommendation",
+   "vendor": "Camp Clinton",
+   "name": "D3-FNC Holster",
+   "price": "PxC 582",
+   "thoughts": "Average armor but the rolls are pretty high. Useful in 4pc sets or NinjaBike builds. Max out the Stamina roll."
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+   "type": "recommendation",
+   "vendor": "DZ East 34th",
+   "name": "Performance Mod",
+   "price": "DZ 21,362",
+   "thoughts": "Maximum roll. Must buy."
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+   "type": "recommendation",
+   "vendor": "DZ West 46th",
+   "name": "Performance Mod",
+   "price": "DZ 21,362",
+   "thoughts": "Maximum roll. Must buy."
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+   "type": "recommendation",
+   "vendor": "East 64th",
+   "name": "Performance Mod",
+   "price": "DZ 21,362",
+   "thoughts": "Maximum roll. Must buy."
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+   "type": "recommendation",
+   "vendor": "Southpaw",
+   "name": "Firearms Mod",
+   "price": "$ 84,022",
+   "thoughts": "A bit low on Firearms but if you need a Damage to Elites mod, get a set of 5."
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ }
+]
