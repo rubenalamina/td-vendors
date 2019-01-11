@@ -39,11 +39,7 @@
 
  },
  {
-   "type": "recommendation",
-   "vendor": "Advanced Weaponry Vendor",
-   "name": "Tactical M1911",
-   "price": "$1,335,456 ",
-   "thoughts": "A pistol with Coolheaded is always good to have. Buy it if you don't have one already."
+
  },
  {
 
@@ -68,75 +64,7 @@
    "vendor": "Camp Clinton",
    "name": "Pakhan",
    "price": "PxC 1,331",
-   "thoughts": "If you can unlock Determined, re-roll Unforgiving for Destructive."
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-   "type": "recommendation",
-   "vendor": "Camp Clinton",
-   "name": "Tactical SASG-12 K",
-   "price": "PxC 1,248",
-   "thoughts": "Good damage roll. I'd re-roll Dominant for Responsive."
- },
- {
-
- },
- {
-   "type": "recommendation",
-   "vendor": "Camp Clinton",
-   "name": "MG5",
-   "price": "PxC 1,248",
-   "thoughts": "Not the best combo and the damage roll is average. If you don't have the blueprint, buy one and re-roll Accurate for Destructive. If you can't unlock Determined, I wouldn't buy it."
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
+   "thoughts": "Average damage roll but if you re-roll Adept for Destructive you have a great PvE combo. Also you might need it for the Marshal shield."
  },
  {
 
@@ -173,10 +101,17 @@
  },
  {
    "type": "recommendation",
-   "vendor": "DZ 03",
-   "name": "LVOA-C",
-   "price": "DZ 416,160",
-   "thoughts": "Must buy. Nice damage roll and Determined is in the free slot. I'd re-roll Dominant for Destructive. Other options are Predatory, Ferocious and Competent depending on your build."
+   "vendor": "The Meat Locker",
+   "name": "MP-5 ST",
+   "price": "$1,669,320 ",
+   "thoughts": "Low damage roll but can be a good starter PvE weapon. I'd re-roll Self-preserved for Responsive."
+ },
+ {
+   "type": "recommendation",
+   "vendor": "Camp Hudson",
+   "name": "Navy MP-5 N",
+   "price": "$1,669,320 ",
+   "thoughts": "Low damage roll but can be a good starter PvE weapon for a D3 build. I'd re-roll Dominant for Responsive or Destructive."
  },
  {
 
@@ -213,29 +148,103 @@
  },
  {
 
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+   "type": "recommendation"
  },
  {
 
  },
  {
    "type": "recommendation",
-   "vendor": "DZ East 34th",
+   "vendor": "DZ 05",
    "name": "Ti-RANT Suppressor",
    "price": "DZ 24,137",
-   "thoughts": "Good rolls even if they are not max. Specially good for SMGs."
- },
- {
-
- },
- {
-
- },
- {
-   "type": "recommendation",
-   "vendor": "DZ West 46th",
-   "name": "Extended Magazine",
-   "price": "DZ 21,362",
-   "thoughts": "If you don't have better magazines, this one has great size and CHD but it's missing CHC or RoF."
+   "thoughts": "Great mod for SMGs if you want higher CHC when not running a Pulse."
  },
  {
 
@@ -278,34 +287,6 @@
  },
  {
 
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-   "type": "recommendation",
-   "vendor": "Kerman Station",
-   "name": "VX-1 scope (12x)",
-   "price": "$ 174,722",
-   "thoughts": "Perfect attribute combo for this mod. HSD is not max but it's a must buy if you don't have better ones."
  },
  {
 
@@ -340,22 +321,9 @@
  {
    "type": "recommendation",
    "vendor": "Special Equipment Vendor",
-   "name": "Vertical Grip",
+   "name": "Omega Rifle Suppressor",
    "price": "PxC 200",
-   "thoughts": "Good grip to use with shotguns."
- },
- {
-
- },
- {
-
- },
- {
-   "type": "recommendation",
-   "vendor": "Camp Clinton",
-   "name": "Omega Rifle Suppressor - Tan",
-   "price": "PxC 200",
-   "thoughts": "Not perfect but HSD and CHD are a must on this kind of suppressor."
+   "thoughts": "Great combo even if the HSD and CHC rolls are a bit low. Buy as many as you need."
  },
  {
 
@@ -431,43 +399,6 @@
  },
  {
 
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-   "type": "recommendation",
-   "vendor": "DZ 08",
-   "name": "Inventive Backpack",
-   "price": "DZ 277,440",
-   "thoughts": "Great armor, low electronics. Good for Skill Power builds. I'd max out the main stat."
  },
  {
 
@@ -645,10 +576,10 @@
  },
  {
    "type": "recommendation",
-   "vendor": "Camp Clinton",
-   "name": "Nimble Holster",
-   "price": "PxC 582",
-   "thoughts": "Low armor but it can be optimized. The main stats are almost maxed."
+   "vendor": "Special Equipment Vendor",
+   "name": "Striker Gloves",
+   "price": "PxC 665",
+   "thoughts": "Great armor with decent Firearms. Perfect for a PvE 4pc or NinjaBike build. I'd re-roll CHC for Enemy Armor Damage."
  },
  {
 
@@ -694,6 +625,58 @@
  },
  {
 
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+   "type": "recommendation",
+   "vendor": "DZ West 39th",
+   "name": "Electronics Mod",
+   "price": "DZ 21,362",
+   "thoughts": "Almost max Electronics with max Skill Haste."
  },
  {
 
@@ -716,9 +699,30 @@
  {
    "type": "recommendation",
    "vendor": "East 64th",
-   "name": "Electronics Mod",
+   "name": "Performance Mod",
    "price": "DZ 21,362",
-   "thoughts": "Almost electronics with max skill haste. Buy a set of 5 if you don't have better ones."
+   "thoughts": "Maximum first aid heal roll. Must buy."
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
+ },
+ {
+
  },
  {
 
@@ -728,25 +732,10 @@
  },
  {
    "type": "recommendation",
-   "vendor": "The Firewall",
+   "vendor": "Autumn's Hope",
    "name": "Electronics Mod",
    "price": "$ 84,022",
-   "thoughts": "Low ELE but it has 3% Damage to Elites. Great for most PvE builds."
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
- },
- {
-
+   "thoughts": "A bit low on Electronics but it doesn't really matter if you're looking for DTE mods."
  },
  {
 
@@ -762,10 +751,10 @@
  },
  {
    "type": "recommendation",
-   "vendor": "Dante's Run",
-   "name": "Stamina Mod",
-   "price": "$ 84,022",
-   "thoughts": "Almost max Stamina for a Superior mod with 3% Damage to Elites. Buy a set of 5 if you don't have one with 4%."
+   "vendor": "Camp Hudson Gear Vendor",
+   "name": "Firearms Mod",
+   "price": "$ 168,044",
+   "thoughts": "One off the maximum Firearms roll with max skill Haste."
  },
  {
 
@@ -777,19 +766,14 @@
 
  },
  {
-
+   "type": "recommendation",
+   "vendor": "DZ Vendor at BoO",
+   "name": "Performance Mod",
+   "price": "$ 168,044",
+   "thoughts": "Maximum Turret Damage."
  },
  {
-
- },
- {
-
- },
- {
-
- },
- {
-
+   "thoughts": " "
  },
  {
 
