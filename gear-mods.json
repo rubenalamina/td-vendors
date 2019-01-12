@@ -2,150 +2,15 @@
  {
    "type": "gear-mod",
    "vendor": "DZ East 53rd",
-   "name": "Performance Mod",
-   "stat": "-",
-   "price": "DZ 21,362",
-   "attribute": "2.50% Smart Cover Damage Resilience",
-   "recommended": "No"
- },
- {
-   "type": "gear-mod",
-   "vendor": "DZ East 46th",
-   "name": "Stamina Mod",
-   "stat": "239 STA",
-   "price": "DZ 21,362",
-   "attribute": "3% Skill Haste",
-   "recommended": "No"
- },
- {
-   "type": "gear-mod",
-   "vendor": "DZ East 42nd",
-   "name": "Performance Mod",
-   "stat": "-",
-   "price": "DZ 21,362",
-   "attribute": "6.50% Support Station Range",
-   "recommended": "No"
- },
- {
-   "type": "gear-mod",
-   "vendor": "DZ East 40th",
-   "name": "Performance Mod",
-   "stat": "-",
-   "price": "DZ 21,362",
-   "attribute": "4.5% Support Station Healing Speed",
-   "recommended": "No"
- },
- {
-   "type": "gear-mod",
-   "vendor": "DZ East 34th",
-   "name": "Performance Mod",
-   "stat": "-",
-   "price": "DZ 21,362",
-   "attribute": "7.0% Turret Duration",
-   "recommended": "No"
- },
- {
-   "type": "gear-mod",
-   "vendor": "DZ East 31st",
-   "name": "Electronics Mod",
-   "stat": "239 ELE",
-   "price": "DZ 21,362",
-   "attribute": "3,274 Health",
-   "recommended": "No"
- },
- {
-   "type": "gear-mod",
-   "vendor": "DZ West 53rd",
-   "name": "Performance Mod",
-   "stat": "-",
-   "price": "DZ 21,362",
-   "attribute": "7.50% Seeker Mine Explosion Radius",
-   "recommended": "No"
- },
- {
-   "type": "gear-mod",
-   "vendor": "DZ West 46th",
-   "name": "Performance Mod",
-   "stat": "-",
-   "price": "DZ 21,362",
-   "attribute": "7.0% Turret Health",
-   "recommended": "No"
- },
- {
-   "type": "gear-mod",
-   "vendor": "DZ West 42nd",
-   "name": "Performance Mod",
-   "stat": "-",
-   "price": "DZ 21,362",
-   "attribute": "6.0% Sticky Bomb Explosion Radius",
-   "recommended": "No"
- },
- {
-   "type": "gear-mod",
-   "vendor": "DZ West 39th",
-   "name": "Electronics Mod",
-   "stat": "264 ELE",
-   "price": "DZ 21,362",
-   "attribute": "3% Skill Haste",
-   "recommended": "Yes"
- },
- {
-   "type": "gear-mod",
-   "vendor": "DZ West 34th",
    "name": "Firearms Mod",
-   "stat": "230 FA",
-   "price": "DZ 21,362",
-   "attribute": "1.0% Critical Hit Chance",
-   "recommended": "No"
- },
- {
-   "type": "gear-mod",
-   "vendor": "DZ West 31st",
-   "name": "Stamina Mod",
-   "stat": "252 STA",
-   "price": "DZ 21,362",
-   "attribute": "3% Skill Haste",
-   "recommended": "No"
- },
- {
-   "type": "gear-mod",
-   "vendor": "DZ 5th Ave",
-   "name": "Performance Mod",
-   "stat": "-",
-   "price": "DZ 21,362",
-   "attribute": "6.5% Turret Health",
-   "recommended": "No"
- },
- {
-   "type": "gear-mod",
-   "vendor": "DZ 04",
-   "name": "Electronics Mod",
-   "stat": "263 ELE",
+   "stat": "229 FA",
    "price": "DZ 21,362",
    "attribute": "3% Signature Resource Gain",
    "recommended": "No"
  },
  {
    "type": "gear-mod",
-   "vendor": "DZ 04",
-   "name": "Performance Mod",
-   "stat": "-",
-   "price": "DZ 21,362",
-   "attribute": "4% Mobile Cover Damage Resilience",
-   "recommended": "No"
- },
- {
-   "type": "gear-mod",
-   "vendor": "East 64th",
-   "name": "Electronics Mod",
-   "stat": "264 ELE",
-   "price": "DZ 21,362",
-   "attribute": "3191 Skill Power",
-   "recommended": "No"
- },
- {
-   "type": "gear-mod",
-   "vendor": "East 64th",
+   "vendor": "DZ East 46th",
    "name": "Performance Mod",
    "stat": "-",
    "price": "DZ 21,362",
@@ -154,200 +19,335 @@
  },
  {
    "type": "gear-mod",
-   "vendor": "The Firewall",
+   "vendor": "DZ East 42nd",
+   "name": "Firearms Mod",
+   "stat": "250 FA",
+   "price": "DZ 21,362",
+   "attribute": "3273 Skill Power",
+   "recommended": "No"
+ },
+ {
+   "type": "gear-mod",
+   "vendor": "DZ East 40th",
+   "name": "Firearms Mod",
+   "stat": "260 FA",
+   "price": "DZ 21,362",
+   "attribute": "3% Signature Resource Gain",
+   "recommended": "No"
+ },
+ {
+   "type": "gear-mod",
+   "vendor": "DZ East 34th",
+   "name": "Performance Mod",
+   "stat": "-",
+   "price": "DZ 21,362",
+   "attribute": "4% Ballistic Shield Damage",
+   "recommended": "No"
+ },
+ {
+   "type": "gear-mod",
+   "vendor": "DZ East 31st",
+   "name": "Electronics Mod",
+   "stat": "228 ELE",
+   "price": "DZ 21,362",
+   "attribute": "2% All Resistance",
+   "recommended": "No"
+ },
+ {
+   "type": "gear-mod",
+   "vendor": "DZ West 53rd",
+   "name": "Performance Mod",
+   "stat": "-",
+   "price": "DZ 21,362",
+   "attribute": "2% Pulse Critical Hit Damage",
+   "recommended": "No"
+ },
+ {
+   "type": "gear-mod",
+   "vendor": "DZ West 46th",
+   "name": "Electronics Mod",
+   "stat": "229 ELE",
+   "price": "DZ 21,362",
+   "attribute": "4% Signature Resource Gain",
+   "recommended": "No"
+ },
+ {
+   "type": "gear-mod",
+   "vendor": "DZ West 42nd",
+   "name": "Performance Mod",
+   "stat": "-",
+   "price": "DZ 21,362",
+   "attribute": "2.0% Pulse Critical Hit Chance",
+   "recommended": "No"
+ },
+ {
+   "type": "gear-mod",
+   "vendor": "DZ West 39th",
+   "name": "Performance Mod",
+   "stat": "-",
+   "price": "DZ 21,362",
+   "attribute": "5.5% First Aid Self Heal",
+   "recommended": "No"
+ },
+ {
+   "type": "gear-mod",
+   "vendor": "DZ West 34th",
+   "name": "Electronics Mod",
+   "stat": "250 ELE",
+   "price": "DZ 21,362",
+   "attribute": "3,087 Skill Power",
+   "recommended": "No"
+ },
+ {
+   "type": "gear-mod",
+   "vendor": "DZ West 31st",
+   "name": "Performance Mod",
+   "stat": "-",
+   "price": "DZ 21,362",
+   "attribute": "3.5% Ballistic Shield Damage",
+   "recommended": "No"
+ },
+ {
+   "type": "gear-mod",
+   "vendor": "DZ 5th Ave",
+   "name": "Electronics Mod",
+   "stat": "266 ELE",
+   "price": "DZ 21,362",
+   "attribute": "3,217 Skill Power",
+   "recommended": "Yes"
+ },
+ {
+   "type": "gear-mod",
+   "vendor": "DZ 04",
    "name": "Stamina Mod",
-   "stat": "239 STA",
-   "price": "$ 168,044",
+   "stat": "251 STA",
+   "price": "DZ 21,362",
    "attribute": "3% Skill Haste",
+   "recommended": "No"
+ },
+ {
+   "type": "gear-mod",
+   "vendor": "DZ 04",
+   "name": "Performance Mod",
+   "stat": "-",
+   "price": "DZ 21,362",
+   "attribute": "4.0% Seeker Mine Damage",
+   "recommended": "No"
+ },
+ {
+   "type": "gear-mod",
+   "vendor": "East 64th",
+   "name": "Electronics Mod",
+   "stat": "234 ELE",
+   "price": "DZ 21,362",
+   "attribute": "4% Signature Resource Gain",
+   "recommended": "No"
+ },
+ {
+   "type": "gear-mod",
+   "vendor": "East 64th",
+   "name": "Performance Mod",
+   "stat": "-",
+   "price": "DZ 21,362",
+   "attribute": "5.5% Sticky Bomb Explosion Radius",
+   "recommended": "No"
+ },
+ {
+   "type": "gear-mod",
+   "vendor": "The Firewall",
+   "name": "Performance Mod",
+   "stat": "-",
+   "price": "$ 168,044",
+   "attribute": "6.50% Mobile Cover Health",
    "recommended": "No"
  },
  {
    "type": "purple-mod",
    "vendor": "The Firewall",
-   "name": "Electronics Mod",
-   "stat": "199 ELE",
+   "name": "Stamina Mod",
+   "stat": "185 STA",
    "price": "$ 84,022",
-   "attribute": "4% Disorient Resistance",
+   "attribute": "4% Disrupt Resistance",
    "recommended": "No"
  },
  {
    "type": "gear-mod",
    "vendor": "Southpaw",
-   "name": "Performance Mod",
-   "stat": "-",
+   "name": "Stamina Mod",
+   "stat": "231 STA",
    "price": "$ 168,044",
-   "attribute": "3.5% Turret Damage",
+   "attribute": "4% Signature Resource Gain",
    "recommended": "No"
  },
  {
    "type": "purple-mod",
    "vendor": "Southpaw",
-   "name": "Electronics Mod",
-   "stat": "214 ELE",
+   "name": "Stamina Mod",
+   "stat": "200 STA",
+   "price": "$ 84,022",
+   "attribute": "4% Disrupt Resistance",
+   "recommended": "No"
+ },
+ {
+   "type": "gear-mod",
+   "vendor": "The Ward",
+   "name": "Performance Mod",
+   "stat": "-",
+   "price": "$ 168,044",
+   "attribute": "1.50% Pulse Critical Hit Chance",
+   "recommended": "No"
+ },
+ {
+   "type": "purple-mod",
+   "vendor": "The Ward",
+   "name": "Stamina Mod",
+   "stat": "208 STA",
    "price": "$ 84,022",
    "attribute": "3% Blind/Deaf Resistance",
    "recommended": "No"
  },
  {
    "type": "gear-mod",
-   "vendor": "The Ward",
-   "name": "Electronics Mod",
-   "stat": "235 ELE",
-   "price": "$ 168,044",
-   "attribute": "3% Signature Resource Gain",
-   "recommended": "No"
- },
- {
-   "type": "purple-mod",
-   "vendor": "The Ward",
-   "name": "Stamina Mod",
-   "stat": "192 STA",
-   "price": "$ 84,022",
-   "attribute": "4% Burn Resistance",
-   "recommended": "No"
- },
- {
-   "type": "gear-mod",
    "vendor": "Madison's Stand",
-   "name": "Stamina Mod",
-   "stat": "241 STA",
+   "name": "Firearms Mod",
+   "stat": "234 FA",
    "price": "$ 168,044",
-   "attribute": "3,027 Skill Power",
+   "attribute": "1% Critical Hit Chance",
    "recommended": "No"
  },
  {
    "type": "purple-mod",
    "vendor": "Madison's Stand",
-   "name": "Stamina Mod",
-   "stat": "183 STA",
+   "name": "Electronics Mod",
+   "stat": "191 ELE",
    "price": "$ 84,022",
-   "attribute": "3% Disorient Resistance",
+   "attribute": "3% Shock Resistance",
    "recommended": "No"
  },
  {
    "type": "gear-mod",
    "vendor": "Autumn's Hope",
-   "name": "Stamina Mod",
-   "stat": "237 STA",
+   "name": "Performance Mod",
+   "stat": "-",
    "price": "$ 168,044",
-   "attribute": "3% Skill Haste",
+   "attribute": "1.5% Pulse Critical Hit Damage",
    "recommended": "No"
  },
  {
    "type": "purple-mod",
    "vendor": "Autumn's Hope",
-   "name": "Electronics Mod",
-   "stat": "193 ELE",
+   "name": "Firearms Mod",
+   "stat": "192 FA",
+   "price": "$ 84,022",
+   "attribute": "3% Damage to Elites",
+   "recommended": "No"
+ },
+ {
+   "type": "gear-mod",
+   "vendor": "Dante's Run",
+   "name": "Stamina Mod",
+   "stat": "263 STA",
+   "price": "$ 168,044",
+   "attribute": "2,896 Health",
+   "recommended": "No"
+ },
+ {
+   "type": "purple-mod",
+   "vendor": "Dante's Run",
+   "name": "Firearms Mod",
+   "stat": "196 FA",
    "price": "$ 84,022",
    "attribute": "3% Damage to Elites",
    "recommended": "Yes"
  },
  {
    "type": "gear-mod",
-   "vendor": "Dante's Run",
-   "name": "Electronics Mod",
-   "stat": "234 ELE",
-   "price": "$ 168,044",
-   "attribute": "3% Signature Resource Gain",
-   "recommended": "No"
- },
- {
-   "type": "purple-mod",
-   "vendor": "Dante's Run",
-   "name": "Stamina Mod",
-   "stat": "190 STA",
-   "price": "$ 84,022",
-   "attribute": "12% Ammo Capacity",
-   "recommended": "No"
- },
- {
-   "type": "gear-mod",
    "vendor": "The Cavern",
    "name": "Stamina Mod",
-   "stat": "253 STA",
+   "stat": "230 STA",
    "price": "$ 168,044",
-   "attribute": "2% All Resistance",
+   "attribute": "2.5% Exotic Damage Resilience",
    "recommended": "No"
  },
  {
    "type": "purple-mod",
    "vendor": "The Cavern",
-   "name": "Firearms Mod",
-   "stat": "188 FA",
-   "price": "$ 84,022",
-   "attribute": "3% Disrupt Resistance",
-   "recommended": "No"
- },
- {
-   "type": "gear-mod",
-   "vendor": "Camp Hudson Gear Vendor",
-   "name": "Firearms Mod",
-   "stat": "266 FA",
-   "price": "$ 168,044",
-   "attribute": "3% Skill Haste",
-   "recommended": "Yes"
- },
- {
-   "type": "purple-mod",
-   "vendor": "Camp Hudson Gear Vendor",
    "name": "Stamina Mod",
-   "stat": "209 STA",
-   "price": "$ 84,022",
-   "attribute": "3% Blind/Deaf Resistance",
-   "recommended": "No"
- },
- {
-   "type": "gear-mod",
-   "vendor": "BoO Gear Vendor",
-   "name": "Performance Mod",
-   "stat": "-",
-   "price": "$ 168,044",
-   "attribute": "6.0% First Aid Self Heal",
-   "recommended": "No"
- },
- {
-   "type": "purple-mod",
-   "vendor": "BoO Gear Vendor",
-   "name": "Firearms Mod",
-   "stat": "193 FA",
+   "stat": "194 STA",
    "price": "$ 84,022",
    "attribute": "4% Blind/Deaf Resistance",
    "recommended": "No"
  },
  {
    "type": "gear-mod",
-   "vendor": "DZ Vendor at BoO",
+   "vendor": "Camp Hudson Gear Vendor",
+   "name": "Firearms Mod",
+   "stat": "249 FA",
+   "price": "$ 168,044",
+   "attribute": "3,285 Skill Power",
+   "recommended": "No"
+ },
+ {
+   "type": "purple-mod",
+   "vendor": "Camp Hudson Gear Vendor",
+   "name": "Firearms Mod",
+   "stat": "195 FA",
+   "price": "$ 84,022",
+   "attribute": "4% Blind/Deaf Resistance",
+   "recommended": "No"
+ },
+ {
+   "type": "gear-mod",
+   "vendor": "BoO Gear Vendor",
    "name": "Performance Mod",
    "stat": "-",
    "price": "$ 168,044",
-   "attribute": "4.0% Turret Damage",
-   "recommended": "Yes"
- },
- {
-   "type": "gear-mod",
-   "vendor": "Special Equipment Vendor",
-   "name": "Firearms Mod",
-   "stat": "253 FA",
-   "price": "PxC 192",
-   "attribute": "2.50% Exotic Damage Resilience",
+   "attribute": "4.5% Ballistic Shield Damage Resilience",
    "recommended": "No"
  },
  {
-   "type": "gear-mod",
-   "vendor": "Special Equipment Vendor",
-   "name": "Performance Mod",
-   "stat": "-",
-   "price": "PxC 192",
-   "attribute": "7.0% Support Station Duration",
-   "recommended": "No"
- },
- {
-   "type": "gear-mod",
-   "vendor": "Camp Clinton",
+   "type": "purple-mod",
+   "vendor": "BoO Gear Vendor",
    "name": "Stamina Mod",
-   "stat": "257 STA",
+   "stat": "197 STA",
+   "price": "$ 84,022",
+   "attribute": "11% Ammo Capacity",
+   "recommended": "No"
+ },
+ {
+   "type": "gear-mod",
+   "vendor": "DZ Vendor at BoO",
+   "name": "Stamina Mod",
+   "stat": "236 STA",
+   "price": "$ 168,044",
+   "attribute": "2.5% Exotic Damage Resilience",
+   "recommended": "No"
+ },
+ {
+   "type": "gear-mod",
+   "vendor": "Special Equipment Vendor",
+   "name": "Electronics Mod",
+   "stat": "253 ELE",
    "price": "PxC 192",
-   "attribute": "2.50% Exotic Damage Resilience",
+   "attribute": "3036 Skill Power",
+   "recommended": "No"
+ },
+ {
+   "type": "gear-mod",
+   "vendor": "Special Equipment Vendor",
+   "name": "Performance Mod",
+   "stat": "-",
+   "price": "PxC 192",
+   "attribute": "4.0% Support Station Healing Speed",
+   "recommended": "No"
+ },
+ {
+   "type": "gear-mod",
+   "vendor": "Camp Clinton",
+   "name": "Electronics Mod",
+   "stat": "237 ELE",
+   "price": "PxC 192",
+   "attribute": "2,883 Health",
    "recommended": "No"
  },
  {
@@ -356,7 +356,7 @@
    "name": "Performance Mod",
    "stat": "-",
    "price": "PxC 192",
-   "attribute": "4.50% Smart Cover Duration",
-   "recommended": "No"
+   "attribute": "2.0% Pulse Critical Hit Chance",
+   "recommended": "Yes"
  }
 ]
